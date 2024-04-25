@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: Pintor en Castellón
 feature_text: |
   ## Pintor en Castellón
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
