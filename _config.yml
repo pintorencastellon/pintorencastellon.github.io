@@ -128,6 +128,12 @@ navigation_header:
   url: /categories/
 - title: Otros servicios
   url: /categories/
+children:
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+
 - title: Presupuesto
   url: /contacto/
 
