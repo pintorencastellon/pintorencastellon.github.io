@@ -7,43 +7,26 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
-
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
-
-* An item
-* An item
-* An item
-* An item
-* An item
-
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
+El exterior de una casa es su carta de presentación al mundo exterior, y la calidad de su pintura juega un papel fundamental en su apariencia y protección. En este artículo, exploraremos en detalle el servicio de pintura exterior ofrecido por nuestra empresa de pinturas en Castellón, destacando sus beneficios, procesos y resultados excepcionales.
 
 
+## 1. Protección contra los Elementos:
+La pintura exterior no solo mejora la estética de una casa, sino que también proporciona una capa de protección vital contra los elementos. Nuestros productos de alta calidad están diseñados para resistir la intemperie, la humedad, los rayos UV y otros factores ambientales, prolongando así la vida útil de la estructura y reduciendo la necesidad de mantenimiento.
 
-### Button include
+## 2. Amplia Gama de Colores y Acabados:
+Nuestra empresa ofrece una amplia gama de colores y acabados para adaptarse a los gustos y estilos de cada cliente. Ya sea que prefieras un estilo clásico y sobrio o un aspecto más moderno y vibrante, tenemos las opciones perfectas para transformar tu hogar y resaltar su belleza única.
 
-{% include button.html text="A button" link="https://david.darn.es" %}
+## 3. Preparación Profesional de la Superficie:
+Antes de aplicar la pintura, nuestro equipo de profesionales realiza una preparación exhaustiva de la superficie para garantizar resultados duraderos y de alta calidad. Esto puede incluir la limpieza, el lijado, el sellado de grietas y la reparación de cualquier daño existente, asegurando que la pintura se adhiera de manera óptima y se vea impecable.
 
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
+## 4. Aplicación Precisa y Eficiente:
+Utilizamos técnicas de aplicación de vanguardia y equipos de última generación para garantizar una aplicación precisa y eficiente de la pintura. Nuestros pintores expertos están capacitados para trabajar con precisión y atención al detalle, asegurando un acabado uniforme y profesional en todas las áreas de la casa.
 
-``` html
-{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
-```
+## 5. Resultados Duraderos y de Calidad Superior:
+Nuestro compromiso con la excelencia se refleja en cada proyecto que realizamos. Nos enorgullecemos de ofrecer resultados duraderos y de calidad superior que superen las expectativas de nuestros clientes. Desde la preparación inicial hasta la aplicación final, nos esforzamos por garantizar la satisfacción completa en cada etapa del proceso.
 
-### Icon include
-
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
-
-``` html
-{% raw %}{% include icon.html id="twitter" title="twitter" %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
-```
+## 6. Servicio Personalizado y Atención al Cliente:
+En nuestra empresa de pinturas en Castellón, valoramos la satisfacción del cliente por encima de todo. Trabajamos estrechamente con cada cliente para entender sus necesidades, preferencias y presupuesto, y ofrecemos soluciones personalizadas que se adapten perfectamente a sus requerimientos específicos. Nuestro equipo está siempre disponible para responder preguntas, brindar asesoramiento y garantizar una experiencia sin preocupaciones de principio a fin.
 
 
 ### Image includes
