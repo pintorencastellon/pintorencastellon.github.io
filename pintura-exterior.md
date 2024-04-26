@@ -3,7 +3,7 @@ title: Pintura Exterior en Castellón
 feature_text: |
   # Pintura Exterior
   A demo of Markdown and HTML includes
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/pintura-exterior.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 ---
 
