@@ -11,7 +11,7 @@ El exterior de una casa es su carta de presentación al mundo exterior, y la cal
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}\
 
 ## 1. Protección contra los Elementos:
 La pintura exterior no solo mejora la estética de una casa, sino que también proporciona una capa de protección vital contra los elementos. Nuestros productos de alta calidad están diseñados para resistir la intemperie, la humedad, los rayos UV y otros factores ambientales, prolongando así la vida útil de la estructura y reduciendo la necesidad de mantenimiento.
