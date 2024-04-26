@@ -13,6 +13,7 @@ El exterior de una casa es su carta de presentación al mundo exterior, y la cal
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
 
+
 ## Estas son las ventajas de nuestros servicios:
 
 ### 1. Protección contra los elementos
