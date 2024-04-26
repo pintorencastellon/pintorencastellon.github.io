@@ -9,9 +9,9 @@ excerpt: "A demo of Markdown and HTML includes"
 
 El exterior de una casa es su carta de presentación al mundo exterior, y la calidad de su pintura juega un papel fundamental en su apariencia y protección. En este artículo, exploraremos en detalle el servicio de pintura exterior ofrecido por nuestra empresa de pinturas en Castellón, destacando sus beneficios, procesos y resultados excepcionales.
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="center" width="300" height="800" %}
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="center" width="300" height="800" %}
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="right" width="300" height="800" %}
 
 ## Estas son las ventajas de nuestros servicios:
 
