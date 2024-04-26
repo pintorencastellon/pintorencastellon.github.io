@@ -127,11 +127,11 @@ navigation_header:
 - title: Quitar gotelé
   url: /categories/
 - title: Otros servicios
-children:
-      - title: Working with Posts
-        url: /docs/posts/
-      - title: Working with Pages
-        url: /docs/pages/
+   children:
+      - title: Working
+        url: /contacto/
+      - title: Pages
+        url: /contacto/
 - title: Presupuesto
   url: /contacto/
 
