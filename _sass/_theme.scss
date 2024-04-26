@@ -232,15 +232,21 @@ img {
   &--left {
     float: left;
     padding-right: .8rem;
+    margin-left: auto;
+    margin-right: auto;
   }
   &--right {
     float: right;
     text-align: right;
     padding-left: .8rem;
+    margin-left: auto;
+    margin-right: auto;
   }
   &--center {
     text-align: center;
     clear: both;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
