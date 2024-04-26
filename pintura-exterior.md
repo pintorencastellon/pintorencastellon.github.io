@@ -9,6 +9,9 @@ excerpt: "A demo of Markdown and HTML includes"
 
 El exterior de una casa es su carta de presentación al mundo exterior, y la calidad de su pintura juega un papel fundamental en su apariencia y protección. En este artículo, exploraremos en detalle el servicio de pintura exterior ofrecido por nuestra empresa de pinturas en Castellón, destacando sus beneficios, procesos y resultados excepcionales.
 
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
 
 ## 1. Protección contra los Elementos:
 La pintura exterior no solo mejora la estética de una casa, sino que también proporciona una capa de protección vital contra los elementos. Nuestros productos de alta calidad están diseñados para resistir la intemperie, la humedad, los rayos UV y otros factores ambientales, prolongando así la vida útil de la estructura y reduciendo la necesidad de mantenimiento.
@@ -27,13 +30,6 @@ Nuestro compromiso con la excelencia se refleja en cada proyecto que realizamos.
 
 ## 6. Servicio Personalizado y Atención al Cliente:
 En nuestra empresa de pinturas en Castellón, valoramos la satisfacción del cliente por encima de todo. Trabajamos estrechamente con cada cliente para entender sus necesidades, preferencias y presupuesto, y ofrecemos soluciones personalizadas que se adapten perfectamente a sus requerimientos específicos. Nuestro equipo está siempre disponible para responder preguntas, brindar asesoramiento y garantizar una experiencia sin preocupaciones de principio a fin.
-
-
-### Image includes
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
 
