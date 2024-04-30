@@ -3,8 +3,8 @@ title: Quitar gotelé en Castellón
 feature_text: |
   # Quitar gotelé en Castellón
   Transformamos fachadas, protegiendo tu hogar con cada pincelada.
-feature_image: "/assets/pintura-exterior.jpg"
-excerpt: "Pintura Profesional de Fachadas en Castellón de la Plana."
+feature_image: "/assets/quitar-gotele.jpg"
+excerpt: "Nos encargamos de quitar gotelé en Castellón de la Plana."
 ---
 
 El aspecto exterior de un edificio es crucial para su apariencia y durabilidad. La pintura y rehabilitación de fachadas no solo mejora la estética, sino que también protege la estructura contra los elementos. Aquí exploraremos en detalle todo lo que necesitas saber sobre nuestro servicio de pintura de fachadas, desde su importancia hasta el proceso de aplicación final.
