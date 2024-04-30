@@ -10,9 +10,7 @@ excerpt: "A demo of Markdown and HTML includes"
 El aspecto exterior de un edificio es crucial para su apariencia y durabilidad. La pintura de fachadas no solo mejora la estética, sino que también protege la estructura contra los elementos. En este artículo, exploraremos en detalle todo lo que necesitas saber sobre el servicio de pintura de fachadas, desde su importancia hasta el proceso de aplicación.
 
 <div class="row">
-  <div class="column">
     <img src="/assets/pintura de fachadas en castellon 1.jpeg" alt="Pintura de fachadas en Castellón" style="width:100%">
-  </div>
 </div>
 
 ## La importancia de la pintura de fachadas
@@ -20,6 +18,10 @@ La fachada es la primera impresión que un edificio ofrece al mundo. Más que un
 
 ## El proceso de pintar una fachada de forma profesional
 Antes de que los rodillos y pinceles entren en acción, un equipo de expertos realiza una minuciosa inspección para evaluar el estado de la fachada y determinar las necesidades específicas de pintura. Desde la preparación de la superficie hasta la selección de la pintura adecuada y la aplicación profesional, cada paso se ejecuta con precisión para lograr un acabado impecable.
+
+<div class="row">
+    <img src="/assets/pintura de fachadas en castellon 2.jpeg" alt="Pintura de fachadas en Castellón" style="width:100%">
+</div>
 
 ## Tipos de pintura para fachadas que solemos usar
 La elección del tipo de pintura es crucial para garantizar resultados duraderos. En Castellón, donde el clima mediterráneo puede ser desafiante, las pinturas acrílicas y elastoméricas son populares debido a su resistencia a la humedad y la salinidad. Además, la pintura ecológica ofrece una opción sostenible y respetuosa con el medio ambiente.
@@ -32,6 +34,4 @@ El clima soleado y salino de Castellón presenta desafíos únicos para la pintu
 
 ## Contrate siempre profesionales de experiencia contrastada
 Cuando se trata de pintar fachadas en Castellón, confiar en profesionales locales es fundamental. Busca empresas con experiencia y reputación en la zona, y no dudes en solicitar referencias y presupuestos detallados antes de tomar una decisión.
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
 
