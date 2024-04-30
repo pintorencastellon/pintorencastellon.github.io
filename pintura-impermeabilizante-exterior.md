@@ -9,7 +9,7 @@ excerpt: "Pintura Impermeabilizante Exterior en Castellón de la Plana."
 
 La pintura impermeabilizante exterior es un recurso fundamental en climas como el de Castellón, donde las precipitaciones son comunes. Queremos explicarle en detalle qué es, cómo funciona y por qué es importante en la protección y decoración de los exteriores en esta región.
 
-<img src="/assets/pintura de fachadas en castellon 1.jpeg" alt="Pintura de fachadas en Castellón" class="center">
+<img src="/assets/pintura impermeabilizante exterior en castellon 1.jpg" alt="Pintura impermeabilizante exterior en Castellón" class="center">
 
 
 ## 1. ¿Qué es la pintura impermeabilizante exterior?
@@ -22,12 +22,15 @@ La pintura impermeabilizante exterior actúa como una capa protectora contra la 
 ## 3. Importancia en climas como el de Castellón
 En Castellón, donde las lluvias son frecuentes, la pintura impermeabilizante exterior es esencial para proteger las fachadas de los edificios contra la humedad. Previene daños estructurales, como la degradación del hormigón y el desprendimiento del revestimiento, y ayuda a mantener una temperatura interior estable.
 
+
 ## 4. Beneficios de la pintura impermeabilizante
 - Protege contra la humedad y la lluvia.
 - Evita la formación de moho y hongos.
 - Prolonga la vida útil de la estructura.
 - Mejora el aspecto estético de los exteriores.
 - Contribuye a la eficiencia energética al evitar pérdidas de calor.
+
+<img src="/assets/pintura impermeabilizante exterior en castellon 2.jpg" alt="Pintura impermeabilizante exterior en Castellón" class="center">
 
 ## 5. Aplicaciones de la pintura impermeabilizante exterior
 Este material tiene una amplia gama de aplicaciones en la protección y decoración de superficies exteriores. Se utiliza principalmente en fachadas de edificios, muros de contención, paredes de sótanos, terrazas y balcones para proteger contra la humedad y las inclemencias del tiempo. Además de su función impermeabilizante, la pintura también puede mejorar el aspecto estético de los exteriores, ya que está disponible en una variedad de colores y acabados. En resumen, la pintura impermeabilizante exterior es una solución versátil y efectiva para proteger y embellecer los exteriores de cualquier propiedad.
@@ -45,6 +48,8 @@ Antes de aplicar la pintura impermeabilizante, es fundamental preparar adecuadam
 ### 2. Protección de áreas sensibles
 Se deben proteger áreas sensibles como marcos de ventanas, puertas y elementos decorativos que no se deseen pintar con cinta de pintor y plástico.
 
+<img src="/assets/pintura impermeabilizante exterior en castellon 3.jpg" alt="Pintura impermeabilizante exterior en Castellón" class="center">
+
 ### 3. Dilución de la pintura (si es necesario)
 Dependiendo del tipo de pintura impermeabilizante utilizada, es posible que sea necesario diluirla con agua según las instrucciones del fabricante.
 
@@ -59,6 +64,8 @@ Una vez que la primera capa esté completamente seca, se aplica una segunda capa
 
 ### 7. Inspección final
 Después de que la segunda capa se haya secado por completo, se realiza una inspección final para asegurarse de que la superficie esté uniformemente cubierta y protegida contra la humedad.
+
+<img src="/assets/pintura impermeabilizante exterior en castellon 4.jpg" alt="Pintura impermeabilizante exterior en Castellón" class="center">
 
 ### 8. Limpieza de herramientas
 Se deben limpiar adecuadamente todas las herramientas utilizadas, como rodillos y brochas, con agua y jabón para evitar que la pintura se seque y obstruya los utensilios.
