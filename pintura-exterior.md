@@ -2,9 +2,9 @@
 title: Pintura Exterior en Castellón
 feature_text: |
   # Pintura Exterior
-  A demo of Markdown and HTML includes
+  Protegiendo tus exteriores, embellecemos tus horizontes.
 feature_image: "/assets/pintura-exterior.jpg"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Nos encargamos de tus trabajos de pintura exterior en Castellón."
 ---
 
 El exterior de una casa es su carta de presentación al mundo exterior, y la calidad de su pintura juega un papel fundamental en su apariencia y protección. En este artículo, exploraremos en detalle el servicio de pintura exterior ofrecido por nuestra empresa de pinturas en Castellón, destacando sus beneficios, procesos y resultados excepcionales.
