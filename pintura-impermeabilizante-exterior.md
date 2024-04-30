@@ -2,7 +2,7 @@
 title: Pintura Impermeabilizante Exterior
 feature_text: |
   # Pintura Impermeabilizante Exterior
-  A demo of Markdown and HTML includes
+  Tu escudo contra la humedad y el tiempo
 feature_image: "/assets/pintura-exterior.jpg"
 excerpt: "Pintura Impermeabilizante Exterior en Castellón de la Plana."
 ---
