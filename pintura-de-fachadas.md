@@ -12,7 +12,6 @@ El aspecto exterior de un edificio es crucial para su apariencia y durabilidad. 
 <div class="row">
   <div class="column">
     <img src="/assets/pintura de fachadas en castellon 1.jpeg" alt="Pintura de fachadas en Castellón" style="width:100%">
-    <a href="#"><h5>Pintura de fachadas en Castellón</h5></a>
   </div>
 </div>
 
