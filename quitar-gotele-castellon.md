@@ -1,7 +1,7 @@
 ---
-title: Pintura de Fachadas en Castellón
+title: Quitar gotelé en Castellón
 feature_text: |
-  # Pintura de Fachadas en Castellón
+  # Quitar gotelé en Castellón
   Transformamos fachadas, protegiendo tu hogar con cada pincelada.
 feature_image: "/assets/pintura-exterior.jpg"
 excerpt: "Pintura Profesional de Fachadas en Castellón de la Plana."
