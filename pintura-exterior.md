@@ -27,7 +27,7 @@ La pintura exterior no solo mejora la estética de una vivienda, sino que tambi�
 
 ### 2. Amplia gama de colores y acabados
 Nuestra empresa ofrece una amplia gama de colores y acabados para adaptarse a los gustos y estilos de cada cliente. Ya sea que prefiera un estilo clásico y sobrio o un aspecto más moderno y vibrante, tenemos las opciones perfectas para **transformar su hogar y resaltar su belleza única**.
-<img src="/assets/pintura exterior en castellon 1.jpg" alt="Pintura exterior en Castellón" class="center">
+<img src="/assets/pintura exterior en castellon 1.jpeg" alt="Pintura exterior en Castellón" class="center">
 
 ### 3. Preparación profesional de la superficie
 Antes de aplicar la pintura, nuestro equipo de profesionales realiza una preparación exhaustiva de la superficie para garantizar resultados duraderos y de alta calidad. Esto puede incluir la **limpieza, el lijado, el sellado de grietas y la reparación de cualquier daño existente**, asegurando que la pintura se adhiera de manera óptima y se vea impecable.
@@ -37,7 +37,7 @@ Utilizamos técnicas de aplicación de vanguardia y equipos de última generaci�
 
 ### 5. Resultados duraderos y de calidad superior
 Nuestro compromiso con la excelencia se refleja en cada proyecto que realizamos. Nos enorgullecemos de ofrecer resultados duraderos y de calidad superior que superen las expectativas de nuestros clientes. Desde la preparación inicial hasta la aplicación final, nos esforzamos por **garantizar la satisfacción completa en cada etapa del proceso**.
-<img src="/assets/pintura exterior en castellon 2.jpg" alt="Pintura exterior en Castellón" class="center">
+<img src="/assets/pintura exterior en castellon 2.jpeg" alt="Pintura exterior en Castellón" class="center">
 
 ### 6. Servicio personalizado y atención al cliente
 En nuestra empresa de pinturas en Castellón, valoramos la satisfacción del cliente por encima de todo. Trabajamos estrechamente con cada cliente para entender sus necesidades, preferencias y presupuesto, y **ofrecemos soluciones personalizadas** que se adapten perfectamente a sus requerimientos específicos. Nuestro equipo está siempre disponible para responder preguntas, brindar asesoramiento y garantizar una experiencia sin preocupaciones de principio a fin.
