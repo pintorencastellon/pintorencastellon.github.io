@@ -67,5 +67,5 @@ Más allá de la apariencia, la pintura de fachadas ofrece una serie de benefici
 El clima soleado y salino de Castellón presenta problemas específicos para la pintura de fachadas. Es importante seleccionar **colores y materiales que puedan resistir la radiación solar intensa** y la humedad del entorno marítimo.
 
 ## Contrate siempre profesionales de experiencia contrastada
-Cuando se trata de pintar fachadas en Castellón, confiar en profesionales como nosotros es fundamental. Somos una empresa con experiencia y reputación en la provincia, así que no dudes en solicitarnos un presupuesto sin compomiso antes de tomar tu decisión.
+Cuando se trata de pintar fachadas en Castellón, confiar en profesionales como nosotros es fundamental. Somos una empresa con experiencia y reputación en la provincia, así que no dude en solicitarnos un presupuesto sin compomiso antes de tomar su decisión.
 
