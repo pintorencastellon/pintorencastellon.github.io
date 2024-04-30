@@ -9,9 +9,7 @@ excerpt: "A demo of Markdown and HTML includes"
 
 El aspecto exterior de un edificio es crucial para su apariencia y durabilidad. La pintura de fachadas no solo mejora la estética, sino que también protege la estructura contra los elementos. En este artículo, exploraremos en detalle todo lo que necesitas saber sobre el servicio de pintura de fachadas, desde su importancia hasta el proceso de aplicación.
 
-<div class="row">
-    <img src="/assets/pintura de fachadas en castellon 1.jpeg" alt="Pintura de fachadas en Castellón" style="margin-left:auto;margin-right:auto">
-</div>
+<img src="/assets/pintura de fachadas en castellon 1.jpeg" alt="Pintura de fachadas en Castellón" class="center">
 
 ## La importancia de la pintura de fachadas
 Una buena pintura de fachadas es fundamental por varias razones clave:
