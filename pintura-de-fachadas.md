@@ -28,7 +28,9 @@ La elección del tipo de pintura es crucial para garantizar resultados duraderos
 
 ## Beneficios para el cliente de una buena pintura de fachadas
 Más allá de la apariencia, la pintura de fachadas ofrece una serie de beneficios tangibles. Desde la protección contra el deterioro hasta el aumento del valor de la propiedad, cada pincelada contribuye a mejorar la estética y la funcionalidad del edificio.
-
+<div class="row">
+    <img src="/assets/pintura de fachadas en castellon 3.jpeg" alt="Pintura de fachadas en Castellón" style="width:100%">
+</div>
 ## Consideraciones especiales sobre la pintura de fachadas en Castellón
 El clima soleado y salino de Castellón presenta desafíos únicos para la pintura de fachadas. Es importante seleccionar colores y materiales que puedan resistir la radiación solar intensa y la humedad del entorno marítimo.
 
