@@ -1,7 +1,7 @@
 ---
 title: Pintura de Fachadas en Castellón
 feature_text: |
-  # Pintura de Fachadas
+  # Pintura de Fachadas en Castellón
   A demo of Markdown and HTML includes
 feature_image: "/assets/pintura-exterior.jpg"
 excerpt: "A demo of Markdown and HTML includes"
