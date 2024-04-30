@@ -27,7 +27,6 @@ plugins:
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
-- jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-feed
 - jekyll-commonmark
