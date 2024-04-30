@@ -2,7 +2,7 @@
 title: Pintura de Fachadas en Castellón
 feature_text: |
   # Pintura de Fachadas en Castellón
-  Nos encargamos de que tu fachada luzca como nunca.
+  Transformamos fachadas, protegiendo tu hogar con cada pincelada.
 feature_image: "/assets/pintura-exterior.jpg"
 excerpt: "Pintura Profesional de Fachadas en Castellón de la Plana."
 ---
