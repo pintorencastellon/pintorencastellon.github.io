@@ -42,9 +42,8 @@ Antes de comenzar la aplicación de la pintura, se protegen cuidadosamente todas
 
 ### 4. Selección de la pintura y color
 La elección de la pintura adecuada es crucial para obtener resultados satisfactorios y duraderos. Se selecciona una pintura de alta calidad y resistente a la intemperie, preferiblemente con protección UV y propiedades antimoho, para garantizar una protección óptima en el clima mediterráneo de Castellón. Además, se elige el color deseado, teniendo en cuenta la estética, la armonía con el entorno y las regulaciones locales.
-<div class="row">
-    <img src="/assets/pintura de fachadas en castellon 4.jpeg" alt="Pintura de fachadas en Castellón" style="margin-left:auto;margin-right:auto">
-</div>
+<img src="/assets/pintura de fachadas en castellon 4.jpeg" alt="Pintura de fachadas en Castellón" class="center">
+
 ### 5. Aplicación de la pintura
 La aplicación de la pintura se realiza utilizando técnicas profesionales para garantizar un acabado uniforme y duradero. Se pueden emplear diferentes métodos de aplicación, como brocha, rodillo o pistola de pintura, según el tipo de fachada y el efecto deseado. Se aplican una o varias capas de pintura, asegurándose de cubrir completamente la superficie y evitar goteos o marcas.
 
@@ -54,18 +53,16 @@ Una vez completada la aplicación de la pintura, se realiza una inspección fina
 ### 7. Inspección y aceptación del cliente
 Finalmente, se invita al cliente a inspeccionar el trabajo completado y asegurarse de que cumpla con sus expectativas. Se proporciona orientación sobre el mantenimiento adecuado de la fachada recién pintada, incluyendo recomendaciones para limpieza y cuidado regular.
 
-<div class="row">
-    <img src="/assets/pintura de fachadas en castellon 2.jpeg" alt="Pintura de fachadas en Castellón" style="margin-left:auto;margin-right:auto">
-</div>
+<img src="/assets/pintura de fachadas en castellon 2.jpeg" alt="Pintura de fachadas en Castellón" class="center">
+
 
 ## Tipos de pintura para fachadas que solemos usar
 La elección del tipo de pintura es crucial para garantizar resultados duraderos. En Castellón, donde el clima mediterráneo puede ser desafiante, las pinturas acrílicas y elastoméricas son populares debido a su resistencia a la humedad y la salinidad. Además, la pintura ecológica ofrece una opción sostenible y respetuosa con el medio ambiente.
 
 ## Beneficios para el cliente de una buena pintura de fachadas
 Más allá de la apariencia, la pintura de fachadas ofrece una serie de beneficios tangibles. Desde la protección contra el deterioro hasta el aumento del valor de la propiedad, cada pincelada contribuye a mejorar la estética y la funcionalidad del edificio.
-<div class="row">
-    <img src="/assets/pintura de fachadas en castellon 3.jpeg" alt="Pintura de fachadas en Castellón" style="margin-left:auto;margin-right:auto">
-</div>
+<img src="/assets/pintura de fachadas en castellon 3.jpeg" alt="Pintura de fachadas en Castellón" class="center">
+
 ## Consideraciones especiales sobre la pintura de fachadas en Castellón
 El clima soleado y salino de Castellón presenta desafíos únicos para la pintura de fachadas. Es importante seleccionar colores y materiales que puedan resistir la radiación solar intensa y la humedad del entorno marítimo.
 
