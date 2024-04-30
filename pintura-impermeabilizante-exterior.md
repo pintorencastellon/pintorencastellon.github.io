@@ -1,7 +1,7 @@
 ---
-title: Pintura Exterior en Castellón
+title: Pintura Impermeabilizante Exterior en Castellón
 feature_text: |
-  # Pintura Exterior
+  # Pintura Impermeabilizante Exterior en Castellón
   A demo of Markdown and HTML includes
 feature_image: "/assets/pintura-exterior.jpg"
 excerpt: "A demo of Markdown and HTML includes"
