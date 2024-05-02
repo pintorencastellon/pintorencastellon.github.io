@@ -17,7 +17,7 @@ El proceso de quitar gotelé puede variar según el tipo de superficie y la téc
    - **Preparación**: Se protegen los muebles y el suelo con plásticos y se retiran los elementos decorativos de la pared.
    - **Humectación**: Se humedece la superficie del gotelé con agua o un agente humectante para ablandar la textura y facilitar su eliminación.
    - **Raspado**: Se utiliza una herramienta especial, como una espátula o una lijadora, para raspar suavemente el gotelé de la pared.
-   - **Lijado y Aplanado**: Después de quitar el gotelé, se lija y se alisa la superficie para dejarla lista para la nueva capa de pintura.
+   - **Lijado y aplanado**: Después de quitar el gotelé, se lija y se alisa la superficie para dejarla lista para la nueva capa de pintura.
    - **Pintura**: Finalmente, se aplica una nueva capa de pintura para completar la transformación de la pared.
 
 ## 3. Técnicas para Quitar Gotelé:
@@ -25,9 +25,9 @@ Existen varias técnicas para quitar gotelé, incluyendo el raspado manual, el u
 
 ## 4. Beneficios para el cliente de quitar el gotelé:
 Quitar el gotelé puede ofrecer una serie de beneficios, incluyendo:
-   - Aspecto Moderno: Las paredes lisas y sin textura ofrecen un aspecto más moderno y elegante.
-   - Fácil Mantenimiento: Las paredes lisas son más fáciles de limpiar y mantener que las texturizadas.
-   - Versatilidad: Las paredes lisas ofrecen una superficie versátil para aplicar diferentes tipos de acabados y decoraciones.
+   - **Aspecto moderno**: Las paredes lisas y sin textura ofrecen un aspecto más moderno y elegante.
+   - **Fácil mantenimiento**: Las paredes lisas son más fáciles de limpiar y mantener que las texturizadas.
+   - **Versatilidad**: Las paredes lisas ofrecen una superficie versátil para aplicar diferentes tipos de acabados y decoraciones.
 
 ## 5. Consideraciones y precauciones
 Al quitar el gotelé, es importante tener en cuenta algunos factores, como la posible presencia de amianto en el material del gotelé en edificios más antiguos. Además, es importante contratar a profesionales calificados para realizar el trabajo y asegurarse de que se tomen las medidas adecuadas para proteger la salud y la seguridad durante el proceso.
@@ -53,6 +53,6 @@ El precio de quitar el gotelé de tu vivienda puede variar entre 5 €/m² y 15 
 
 Aquí puedes ver algunos ejemplos de precios orientativos:
 
-- Quitar gotelé de una superficie de 15 m²: Entre 75 € y 225 €.
-- Quitar gotelé de una vivienda de 80 m²: Entre 1.600 € y 2.400 €.
-- Quitar gotelé, alisar y pintar una vivienda de 100 m²: Entre 3.000 € y 4.500 €.
+- Quitar gotelé de una superficie de 15 m²: **Entre 75 € y 225 €**.
+- Quitar gotelé de una vivienda de 80 m²: **Entre 1.600 € y 2.400 €**.
+- Quitar gotelé, alisar y pintar una vivienda de 100 m²: **Entre 3.000 € y 4.500 €**.
