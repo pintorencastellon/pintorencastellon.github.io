@@ -121,7 +121,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 
 - title: Interior
-  url: /elements/
+  url: /pintura-interior/
 - title: Exterior
   url: /pintura-exterior/
 - title: Quitar gotelé
