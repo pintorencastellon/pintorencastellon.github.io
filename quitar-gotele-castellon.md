@@ -33,5 +33,26 @@ Quitar el gotelé puede ofrecer una serie de beneficios, incluyendo:
 Al quitar el gotelé, es importante tener en cuenta algunos factores, como la posible presencia de amianto en el material del gotelé en edificios más antiguos. Además, es importante contratar a profesionales calificados para realizar el trabajo y asegurarse de que se tomen las medidas adecuadas para proteger la salud y la seguridad durante el proceso.
 
 ## 6. El Precio de quitar el gotelé
-El precio de quitar el gotelé puede variar según varios factores, incluyendo el tamaño de la superficie a tratar, la complejidad del trabajo, la ubicación geográfica y el método utilizado. En general, se cobra por metro cuadrado y el precio puede oscilar entre X y Y euros por metro cuadrado, dependiendo de las circunstancias específicas. Es importante solicitar presupuestos detallados a varios contratistas para obtener una estimación precisa del costo total del trabajo.
+El precio de quitar el gotelé de tu vivienda puede variar entre 5 €/m² y 15 €/m², dependiendo de varios factores:
 
+- **Superficie**: Cuantos más metros cuadrados tenga la superficie con gotelé, mayor será el precio total.
+
+- **Tipo de gotelé**: Existen diferentes tipos de gotelé, como el fino, el mediano y el grueso. El gotelé grueso es el más costoso de eliminar, ya que requiere más trabajo y material.
+
+- **Estado de las paredes**: Si las paredes están en mal estado, con desperfectos o grietas, el precio aumentará, ya que será necesario repararlas antes de alisarlas.
+
+- **Método de eliminación**: Existen diferentes métodos para eliminar el gotelé, como el mojado y el seco. El método mojado suele ser más económico, pero puede tardar más tiempo en secarse.
+
+- **Acabado final deseado**: Si deseas un acabado liso perfecto, el precio será mayor que si solo quieres eliminar el gotelé y dejar la pared con una textura rugosa.
+
+- **Mano de obra**: El precio de la mano de obra puede variar según la empresa y la zona geográfica.
+
+- **Materiales**: El precio de los materiales también puede variar, dependiendo de la calidad y la marca.
+
+- **Amianto**: Si las paredes tienen amianto, el precio de la eliminación será mucho más elevado, ya que se trata de un material peligroso que requiere un tratamiento especial.
+
+Aquí puedes ver algunos ejemplos de precios orientativos:
+
+- Quitar gotelé de una superficie de 15 m²: Entre 75 € y 225 €.
+- Quitar gotelé de una vivienda de 80 m²: Entre 1.600 € y 2.400 €.
+- Quitar gotelé, alisar y pintar una vivienda de 100 m²: Entre 3.000 € y 4.500 €.
