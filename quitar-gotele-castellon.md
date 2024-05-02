@@ -14,11 +14,11 @@ El gotelé es una técnica de decoración que consiste en aplicar una capa de pi
 
 ## 2. Nuestro proceso para quitar el gotelé:
 El proceso de quitar gotelé puede variar según el tipo de superficie y la técnica utilizada, pero generalmente sigue estos pasos:
-   a. **Preparación**: Se protegen los muebles y el suelo con plásticos y se retiran los elementos decorativos de la pared.
-   b. **Humectación**: Se humedece la superficie del gotelé con agua o un agente humectante para ablandar la textura y facilitar su eliminación.
-   c. **Raspado**: Se utiliza una herramienta especial, como una espátula o una lijadora, para raspar suavemente el gotelé de la pared.
-   d. **Lijado y Aplanado**: Después de quitar el gotelé, se lija y se alisa la superficie para dejarla lista para la nueva capa de pintura.
-   e. **Pintura**: Finalmente, se aplica una nueva capa de pintura para completar la transformación de la pared.
+   - **Preparación**: Se protegen los muebles y el suelo con plásticos y se retiran los elementos decorativos de la pared.
+   - **Humectación**: Se humedece la superficie del gotelé con agua o un agente humectante para ablandar la textura y facilitar su eliminación.
+   - **Raspado**: Se utiliza una herramienta especial, como una espátula o una lijadora, para raspar suavemente el gotelé de la pared.
+   - **Lijado y Aplanado**: Después de quitar el gotelé, se lija y se alisa la superficie para dejarla lista para la nueva capa de pintura.
+   - **Pintura**: Finalmente, se aplica una nueva capa de pintura para completar la transformación de la pared.
 
 ## 3. Técnicas para Quitar Gotelé:
 Existen varias técnicas para quitar gotelé, incluyendo el raspado manual, el uso de lijadoras eléctricas o la aplicación de soluciones químicas para ablandar la textura. La elección de la técnica dependerá de la cantidad de gotelé a eliminar y las preferencias del cliente.
