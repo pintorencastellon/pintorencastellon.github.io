@@ -15,14 +15,14 @@ Nuestro servicio de pintura interior es una de las formas más efectivas de reno
     <a href="https://pintorencastellon.github.io/pintura-de-fachadas/"><h5 style="color: #05bf85">Pintura blanca interior</h5></a>
   </div>
   <div class="column">
-    <img src="/assets/pintura impermeabilizante exterior en castellon 1.jpg" alt="Pintura térmica interior en Castellón" style="width:100%">
+    <img src="/assets/pintura termica interior en castellon 1.jpeg" alt="Pintura térmica interior en Castellón" style="width:100%">
     <a href="https://pintorencastellon.github.io/pintura-impermeabilizante-exterior/"><h5 style="color: #05bf85">Pintura térmica interior</h5></a>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <img src="/assets/pintura de fachadas en castellon 1.jpeg" alt="Papel pintado en Castellón" style="width:100%">
+    <img src="/assets/papel pintado en castellon 1.jpeg" alt="Papel pintado en Castellón" style="width:100%">
     <a href="https://pintorencastellon.github.io/pintura-de-fachadas/"><h5 style="color: #05bf85">Papel pintado</h5></a>
   </div>
   <div class="column">
