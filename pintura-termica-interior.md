@@ -44,3 +44,23 @@ Antes de embarcarte en un proyecto de pintura térmica interior, hay algunas con
 - **Profesionales cualificados:** Si no te sientes seguro de realizar el trabajo tú mismo, considera contratar a un profesional cualificado para que realice la aplicación de la pintura térmica interior. Esto garantizará un resultado óptimo y duradero.
 
 Si necesitas más información o estás interesado en contratar nuestros servicios de pintura térmica interior en Castellón, ¡no dudes en contactarnos! Estamos aquí para ayudarte a mejorar tu hogar y hacerlo más confortable y eficiente que nunca.
+
+## Precios de pintura térmica interior en Castellón
+
+El precio de un servicio de pintura térmica interior para viviendas particulares en Castellón puede variar entre 8 €/m² y 15 €/m², dependiendo de varios factores:
+
+- **Superficie a pintar**: Cuantos más metros cuadrados tenga la superficie a pintar, mayor será el precio total.
+
+- **Preparación de la superficie**: Si la superficie a pintar se encuentra en mal estado, con desperfectos o grietas, el precio aumentará, ya que será necesario repararlos antes de pintar.
+
+- **Tipo de pintura térmica elegida**: Existen diferentes tipos de pintura térmica, como la pintura acrílica térmica, la pintura al agua térmica y la pintura cerámica térmica. Cada tipo de pintura tiene sus propias características y precio.
+
+- **Mano de obra**: El precio de la mano de obra puede variar según la empresa y la zona geográfica.
+
+- **Materiales**: El precio de los materiales también puede variar, dependiendo de la calidad y la marca.
+
+Con todo esto aquí te dejamos algunos ejemplos de precios orientativos:
+
+- Pintar una habitación de 10 m²: Entre 80 € y 150 €.
+- Pintar un piso de 80 m²: Entre 640 € y 1.200 €.
+- Pintar una casa de 120 m²: Entre 960 € y 1.800 €.
