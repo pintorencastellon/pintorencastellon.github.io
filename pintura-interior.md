@@ -45,21 +45,21 @@ Antes de comenzar cualquier proyecto de pintura interior, es importante realizar
 ## 2. Técnicas y aplicación de pintura interior
 Una vez que todo esté listo, es hora de aplicar la pintura. Existen diferentes técnicas y métodos de aplicación que pueden utilizarse para lograr diferentes efectos y acabados.
 
-- **Pintura con Rodillo:** La aplicación con rodillo es una de las técnicas más comunes y versátiles.
+- **Pintura con rodillo:** La aplicación con rodillo es una de las técnicas más comunes y versátiles.
 
-- **Pintura con Pincel:** El pincel es ideal para detalles y áreas de difícil acceso.
+- **Pintura con brocha o pincel:** Estas dos herramientas son ideales para detalles y áreas de difícil acceso.
 
-- **Estarcido y Plantillas:** Estas técnicas permiten crear diseños decorativos y patrones en las paredes.
+- **Estarcido y plantillas:** Estas técnicas permiten crear diseños decorativos y patrones en las paredes.
 
-- **Efectos Especiales:** Además de la aplicación estándar de pintura, también se pueden utilizar técnicas especiales para crear efectos decorativos.
+- **Efectos especiales:** Además de la aplicación estándar de pintura, también se pueden utilizar técnicas especiales para crear efectos decorativos.
 
-## 3. Mantenimiento y cuidados
+## 3. Mantenimiento y cuidados de la pintura
 Una vez completado el proyecto de pintura interior, es importante realizar un mantenimiento adecuado para asegurar que los resultados perduren en el tiempo.
 
-- **Limpieza Regular:** Mantén las superficies pintadas limpias y libres de polvo y suciedad mediante la limpieza regular.
+- **Limpieza regular:** Mantén las superficies pintadas limpias y libres de polvo y suciedad mediante la limpieza regular.
 
-- **Reparación de Daños:** Si se producen daños o marcas en las superficies pintadas, es importante repararlos rápidamente.
+- **Reparación de daños:** Si se producen daños o marcas en las superficies pintadas, es importante repararlos rápidamente.
 
-- **Retoques y Actualizaciones:** A medida que pasa el tiempo, es posible que desees actualizar o cambiar el color de las paredes.
+- **Retoques y actualizaciones:** A medida que pasa el tiempo, es posible que desees actualizar o cambiar el color de las paredes.
 
 
