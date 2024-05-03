@@ -48,6 +48,8 @@ La aplicación de la pintura blanca en interiores es un proceso crucial que requ
 
 4. **Aplicación en capas delgadas:** Es importante aplicar la pintura blanca en capas delgadas y uniformes para evitar goteos o acumulación de pintura. Comienza aplicando una capa de base fina y deja que se seque completamente antes de aplicar capas adicionales según sea necesario.
 
+<img src="/assets/pintura blanca interior en castellon 5.jpeg" alt="Pintura blanca interior en Castellón" class="center">
+
 5. **Técnica de aplicación:** Cuando utilices el rodillo, aplica la pintura en movimientos largos y uniformes, trabajando en secciones pequeñas a la vez. Utiliza la brocha para pintar los bordes y esquinas con cuidado, asegurándote de cubrir completamente todas las áreas.
 
 6. **Tiempo de secado:** Permite que cada capa de pintura blanca se seque completamente antes de aplicar la siguiente. Esto puede tardar varias horas dependiendo del tipo de pintura y las condiciones ambientales. Evita tocar o manipular la superficie mientras la pintura está húmeda.
@@ -76,5 +78,4 @@ Si bien la pintura blanca puede parecer una opción simple, la contratación de 
 
 Una vez que se haya completado el trabajo de pintura, hay una serie de consejos que pueden ayudar a realzar el aspecto de los interiores de viviendas en Castellón. Esto puede incluir la elección de muebles y accesorios que complementen el blanco, la incorporación de plantas y elementos naturales para agregar calidez, y la experimentación con texturas y patrones para crear interés visual.
 
-<img src="/assets/pintura blanca interior en castellon 5.jpeg" alt="Pintura blanca interior en Castellón" class="center">
 
