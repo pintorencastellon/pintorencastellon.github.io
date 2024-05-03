@@ -2,7 +2,7 @@
 title: Pintura térmica interior en Castellón
 feature_text: |
   # Pintura térmica interior en Castellón
-  Transformamos fachadas, protegiendo tu hogar con cada pincelada.
+  Dale calor a tu hogar sin aumentar la factura: la pintura térmica es tu aliada para un ambiente confortable y eficiente.
 feature_image: "/assets/pintura-interior.jpg"
 excerpt: "Pintura térmica interior en Castellón de la Plana y provincia."
 ---
