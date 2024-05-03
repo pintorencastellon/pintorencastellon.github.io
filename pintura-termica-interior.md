@@ -13,6 +13,9 @@ En el mundo de la decoración y el mantenimiento del hogar, la pintura térmica 
 
 La pintura térmica interior es un tipo especial de pintura diseñada para mejorar las propiedades térmicas de las paredes interiores de un hogar o un edificio. A diferencia de las pinturas convencionales, que se centran principalmente en el aspecto estético, la pintura térmica interior incorpora aditivos especiales que ayudan a reflejar y bloquear el calor, contribuyendo así a mantener una temperatura más estable en el interior de la vivienda.
 
+<img src="/assets/pintura termica interior en castellon 1.jpeg" alt="Pintura termica interior en Castellón" class="center">
+
+
 ## ¿Cómo funciona la pintura térmica interior?
 
 La pintura térmica interior funciona mediante la aplicación de una capa delgada sobre las paredes interiores de un espacio. Esta capa de pintura contiene partículas reflectantes que actúan como barrera contra el calor, reduciendo la cantidad de energía térmica absorbida por las paredes y, en consecuencia, ayudando a mantener una temperatura interior más confortable.
@@ -24,6 +27,9 @@ Ahora que hemos explorado qué es y cómo funciona la pintura térmica interior,
 ### 1. **Mejora la eficiencia energética:**
    La pintura térmica interior ayuda a reducir la transferencia de calor a través de las paredes, lo que significa que el sistema de calefacción o aire acondicionado de tu hogar no tendrá que trabajar tan duro para mantener una temperatura confortable. Esto puede traducirse en ahorros significativos en tus facturas de energía a lo largo del tiempo.
 
+   <img src="/assets/pintura termica interior en castellon 2.jpeg" alt="Pintura termica interior en Castellón" class="center">
+
+
 ### 2. **Aumenta el confort térmico:**
    Al reducir la pérdida de calor en invierno y bloquear el calor en verano, la pintura térmica interior contribuye a crear un ambiente interior más confortable durante todo el año. Esto significa que podrás disfrutar de un hogar más acogedor sin tener que depender tanto de sistemas de calefacción o aire acondicionado.
 
@@ -33,7 +39,10 @@ Ahora que hemos explorado qué es y cómo funciona la pintura térmica interior,
 ### 4. **Reduce el impacto ambiental:**
    Al reducir el consumo de energía de tu hogar, la pintura térmica interior también puede ayudar a reducir tu huella de carbono y minimizar el impacto ambiental de tu estilo de vida. Esto hace que sea una opción eco-friendly para aquellos que buscan formas de vivir de manera más sostenible.
 
-## Consideraciones al elegir pintura térmica interior
+   <img src="/assets/pintura termica interior en castellon 3.jpeg" alt="Pintura termica interior en Castellón" class="center">
+
+
+## Consideraciones a la hora de elegir pintura térmica interior
 
 Antes de embarcarte en un proyecto de pintura térmica interior, hay algunas consideraciones importantes que debes tener en cuenta:
 
@@ -44,6 +53,9 @@ Antes de embarcarte en un proyecto de pintura térmica interior, hay algunas con
 - **Profesionales cualificados:** Si no te sientes seguro de realizar el trabajo tú mismo, considera contratar a un profesional cualificado para que realice la aplicación de la pintura térmica interior. Esto garantizará un resultado óptimo y duradero.
 
 Si necesitas más información o estás interesado en contratar nuestros servicios de pintura térmica interior en Castellón, ¡no dudes en contactarnos! Estamos aquí para ayudarte a mejorar tu hogar y hacerlo más confortable y eficiente que nunca.
+
+<img src="/assets/pintura termica interior en castellon 4.jpeg" alt="Pintura termica interior en Castellón" class="center">
+
 
 ## Precios de pintura térmica interior en Castellón
 
@@ -57,7 +69,11 @@ El precio de un servicio de pintura térmica interior para viviendas particulare
 
 - **Mano de obra**: El precio de la mano de obra puede variar según la empresa y la zona geográfica.
 
+
 - **Materiales**: El precio de los materiales también puede variar, dependiendo de la calidad y la marca.
+
+<img src="/assets/pintura termica interior en castellon 5.jpeg" alt="Pintura termica interior en Castellón" class="center">
+
 
 Con todo esto aquí te dejamos algunos ejemplos de precios orientativos:
 
