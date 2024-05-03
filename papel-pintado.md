@@ -62,20 +62,20 @@ Antes de instalar el papel pintado, es importante preparar adecuadamente la supe
 
 ## 6. Consejos de mantenimiento del papel pintado
 
-- Evitar la exposición prolongada a la luz solar directa para prevenir la decoloración del papel pintado.
-- Limpiar suavemente las manchas o marcas con un paño húmedo y suave.
-- Evitar el contacto con agua en exceso, ya que puede dañar el papel pintado y causar que se despegue.
+- **Evitar la exposición prolongada a la luz solar** directa para prevenir la decoloración del papel pintado.
+- **Limpiar suavemente las manchas** o marcas con un paño húmedo y suave.
+- **Evitar el contacto con agua en exceso**, ya que puede dañar el papel pintado y causar que se despegue.
 
-## 7.Precios de papel pintado en Castellón para viviendas particulares
+## 7. Precios de papel pintado en Castellón para viviendas particulares
 
 Los precios de un servicio de papel pintado para viviendas particulares en Castellón pueden variar entre 10 €/m² y 30 €/m², dependiendo de varios factores:
 
 ### Tipo de papel pintado:
 
-- Papel pintado vinílico: Es el más común y económico, con precios que oscilan entre 10 €/m² y 15 €/m².
-- Papel pintado lavable: Es más resistente a la humedad y fácil de limpiar, con precios que oscilan entre 15 €/m² y 20 €/m².
-- Papel pintado de alta calidad: Incluye papeles pintados con texturas, estampados especiales o diseños exclusivos, con precios que pueden superar los 30 €/m².
-- Preparación de la superficie:
+- **Papel pintado vinílico**: Es el más común y económico, con precios que oscilan entre 10 €/m² y 15 €/m².
+- **Papel pintado lavable**: Es más resistente a la humedad y fácil de limpiar, con precios que oscilan entre 15 €/m² y 20 €/m².
+- **Papel pintado de alta calidad**: Incluye papeles pintados con texturas, estampados especiales o diseños exclusivos, con precios que pueden superar los 30 €/m².
+- **Preparación de la superficie**:
 
 Si la superficie a empapelar no está en buen estado, será necesario realizar una preparación previa, como eliminar el gotelé o reparar desperfectos. Esto incrementará el precio final del servicio.
 
@@ -87,9 +87,9 @@ El precio de la mano de obra puede variar según la empresa y la complejidad del
 
 ### Otros factores:
 
-- Superficie a empapelar: Cuantos más metros cuadrados haya que empapelar, mayor será el precio total.
-- Diseño del papel pintado: Los papeles pintados con diseños complejos o personalizados pueden tener un precio más elevado.
-- Urgencia del trabajo: Si se requiere un servicio urgente, el precio puede incrementarse.
+- **Superficie a empapelar**: Cuantos más metros cuadrados haya que empapelar, mayor será el precio total.
+- **Diseño del papel pintado**: Los papeles pintados con diseños complejos o personalizados pueden tener un precio más elevado.
+- **Urgencia del trabajo**: Si se requiere un servicio urgente, el precio puede incrementarse.
 
 Aquí tienes algunos ejemplos de precios orientativos para que te hagas una mejor idea:
 
