@@ -9,6 +9,8 @@ excerpt: "Realizamos trabajos profesionales de pintura interior en Castellón y 
 
 Nuestro servicio de pintura interior es una de las formas más efectivas de renovar y embellecer tu hogar. Desde cambiar el color de las paredes hasta aplicar técnicas decorativas especiales, la pintura interior ofrece una amplia gama de posibilidades para **crear espacios únicos y acogedores**. Aquí te presentaremos en detalle todo lo que necesitas saber sobre nuestros trabajos de pintura para interiores, desde la planificación inicial hasta la aplicación práctica.
 
+Pero antes, te mostramos todos los servicios que podemos ofrecerte para renovar el interior de tu vivienda:
+
 <div class="row">
   <div class="column">
     <img src="/assets/pintura blanca interior en castellon 1.jpeg" alt="Pintura blanca interior en Castellón" style="width:100%">
