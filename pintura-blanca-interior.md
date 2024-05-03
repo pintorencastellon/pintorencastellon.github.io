@@ -92,8 +92,24 @@ Si bien la pintura blanca puede parecer una opción simple, la contratación de 
 
 <img src="/assets/pintura blanca interior en castellon 4.jpeg" alt="Pintura blanca interior en Castellón" class="center">
 
-## Consejos para la decoración interior con pintura blanca
+## Precios de pintar con pintura blanca interior en Castellón
 
-Una vez que se haya completado el trabajo de pintura, hay una serie de consejos que pueden ayudar a realzar el aspecto de los interiores de viviendas en Castellón. Esto puede incluir la elección de muebles y accesorios que complementen el blanco, la incorporación de plantas y elementos naturales para agregar calidez, y la experimentación con texturas y patrones para crear interés visual.
+El precio de un servicio de pintura blanca interior para viviendas particulares en Castellón puede variar entre 6 €/m² y 12 €/m², dependiendo de varios factores:
+
+- **Superficie a pintar**: Cuantos más metros cuadrados tenga la superficie a pintar, mayor será el precio total.
+
+- **Preparación de la superficie**: Si la superficie a pintar está en mal estado, con desperfectos o grietas, el precio aumentará, ya que será necesario repararlos antes de pintar.
+
+- **Tipo de pintura**: Existen diferentes tipos de pintura blanca, como la pintura plástica, la pintura lavable y la pintura al temple. Cada tipo de pintura tiene sus propias características y precio.
+
+- **Mano de obra**: El precio de la mano de obra puede variar según la empresa y la zona geográfica.
+
+- **Materiales**: El precio de los materiales también puede variar, dependiendo de la calidad y la marca.
+
+Aquí te dejamos además algunos ejemplos de precios para que puedas orientarte:
+
+- Pintar una habitación de 10 m²: Entre 60 € y 120 €.
+- Pintar un piso de 80 m²: Entre 480 € y 960 €.
+- Pintar una casa de 120 m²: Entre 720 € y 1.440 €.
 
 
