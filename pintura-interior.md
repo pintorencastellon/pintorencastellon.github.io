@@ -11,7 +11,7 @@ Nuestro servicio de pintura interior es una de las formas más efectivas de reno
 
 <div class="row">
   <div class="column">
-    <img src="/assets/pintura de fachadas en castellon 1.jpeg" alt="Pintura blanca interior en Castellón" style="width:100%">
+    <img src="/assets/pintura blanca interior en castellon 1.jpeg" alt="Pintura blanca interior en Castellón" style="width:100%">
     <a href="https://pintorencastellon.github.io/pintura-de-fachadas/"><h5 style="color: #05bf85">Pintura blanca interior</h5></a>
   </div>
   <div class="column">
