@@ -17,7 +17,22 @@ La pintura blanca ofrece una serie de beneficios únicos que la hacen una opció
 
 ## Tipos de pintura blanca
 
-Existen diferentes tipos de pintura blanca disponibles en el mercado, cada uno con sus propias características y usos específicos. Algunas opciones comunes incluyen pintura blanca mate, satinada y brillante. La elección del tipo de pintura dependerá de factores como el acabado deseado, la durabilidad y la facilidad de limpieza.
+Existen diferentes tipos de pintura blanca disponibles en el mercado, cada uno con sus propias características y usos específicos:
+
+### 1. Pintura blanca mate:
+La pintura blanca mate es una opción popular para interiores debido a su acabado suave y elegante. Este tipo de pintura no refleja mucha luz y es ideal para ocultar pequeñas imperfecciones en las paredes. Es perfecta para crear un ambiente acogedor y relajante en espacios como dormitorios, salas de estar y pasillos.
+
+### 2. Pintura blanca satinada:
+Tiene un ligero brillo que le da una apariencia más sofisticada y fácil de limpiar. Este tipo de pintura es ideal para áreas de alto tráfico como cocinas, baños y pasillos, donde la limpieza frecuente es necesaria. La pintura satinada también es resistente a las manchas y la humedad, lo que la hace perfecta para áreas propensas a la acumulación de grasa y humedad.
+
+### 3. Pintura blanca brillante:
+Es la opción más reflectante y duradera. Tiene un acabado brillante y brillante que refleja mucha luz, lo que la hace ideal para espacios que necesitan un impulso adicional de luminosidad, como cocinas, baños y espacios de trabajo. Sin embargo, debido a su alto brillo, esta pintura puede resaltar las imperfecciones en las paredes, por lo que se recomienda aplicarla en superficies lisas y bien preparadas.
+
+### 4. Pintura blanca antimanchas:
+Es una opción práctica para hogares con niños y mascotas. Está formulada con tecnología resistente a las manchas que facilita la limpieza de huellas dactilares, manchas de comida y otros derrames accidentales. Este tipo de pintura es ideal para áreas de alto tráfico donde la limpieza frecuente es necesaria, como pasillos, entradas y áreas de juego.
+
+### 5. Pintura blanca ecológica:
+La pintura blanca ecológica está formulada con ingredientes naturales y bajos en VOC (compuestos orgánicos volátiles), lo que la hace más segura para el medio ambiente y la salud humana. Este tipo de pintura es ideal para personas sensibles a los químicos y para hogares con niños pequeños o mascotas. Además, muchas pinturas blancas ecológicas ofrecen un excelente rendimiento y durabilidad, por lo que son una opción atractiva para cualquier proyecto de decoración interior.
 
 ## Preparación de la superficie a trabajar
 
