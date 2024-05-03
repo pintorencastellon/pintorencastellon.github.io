@@ -20,7 +20,7 @@ Se trata de un tipo especial de pintura diseñada para mejorar las propiedades t
 
 Esta pintura funciona mediante la aplicación de una capa delgada sobre las paredes interiores de un espacio. Esta capa de pintura contiene partículas reflectantes que actúan como **barrera contra el calor**, reduciendo la cantidad de energía térmica absorbida por las paredes y, en consecuencia, **ayudando a mantener una temperatura interior más confortable**.
 
-## Ventajas de la pintura térmica interior
+## Ventajas que ofrece la pintura térmica para interiores
 
 Ahora que hemos explorado qué es y cómo funciona la pintura térmica interior, es hora de analizar algunas de sus ventajas más destacadas:
 
@@ -42,7 +42,7 @@ Ahora que hemos explorado qué es y cómo funciona la pintura térmica interior,
    <img src="/assets/pintura termica interior en castellon 3.jpeg" alt="Pintura termica interior en Castellón" class="center">
 
 
-## Consideraciones a la hora de elegir pintura térmica interior
+## Consideraciones a la hora de elegir este material
 
 Antes de embarcarte en un proyecto de pintura térmica interior, hay algunas consideraciones importantes que debes tener en cuenta:
 
