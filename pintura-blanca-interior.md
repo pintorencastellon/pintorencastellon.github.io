@@ -2,7 +2,7 @@
 title: Pintura blanca interior en Castellón
 feature_text: |
   # Pintura blanca interior en Castellón
-  Transformamos fachadas, protegiendo tu hogar con cada pincelada.
+  Transforma tu hogar con luz y amplitud: haz brillar cada espacio.
 feature_image: "/assets/pintura-interior.jpg"
 excerpt: "Nos encargamos de trabajos profesionales de pintura blanca interior en Castellón de la Plana y provincia."
 ---
