@@ -2,7 +2,7 @@
 title: Pintura Interior en Castellón
 feature_text: |
   # Pintura Interior
-  Protegiendo tus exteriores, embellecemos tus horizontes.
+  Renueva tu hogar con color y estilo, pinta tu mundo interior con nosotros.
 feature_image: "/assets/pintura-interior.jpg"
 excerpt: "Realizamos trabajos profesionales de pintura interior en Castellón y alrededores."
 ---
