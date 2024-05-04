@@ -25,7 +25,7 @@ La pintura de azulejos ofrece una serie de ventajas significativas para los prop
 
 <img src="/assets/pintura azulejos baños castellon 2.jpeg" alt="Pintura azulejos baños en Castellón" class="center">
 
-## Consideraciones antes de pintar los azulejos del baño
+## Consideraciones antes de pintar
 
 Antes de embarcarte en un proyecto de pintura de azulejos de baño, hay algunas consideraciones importantes que debes tener en cuenta:
 
