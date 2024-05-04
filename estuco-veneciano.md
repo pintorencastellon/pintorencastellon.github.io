@@ -3,7 +3,7 @@ title: Estuco veneciano blanco en Castellón
 feature_text: |
   # Estuco veneciano blanco en Castellón
   Transforma tu hogar con luz y amplitud: haz brillar cada espacio.
-feature_image: "/assets/pintura-interior.jpg"
+feature_image: "/assets/estuco-veneciano-blanco.jpg"
 excerpt: "Nos encargamos de trabajos profesionales de aplicación de estuco veneciano blanco en Castellón de la Plana y provincia."
 ---
 
