@@ -69,3 +69,23 @@ Para mantener la apariencia y el rendimiento de los azulejos pintados en el bañ
 
 <img src="/assets/pintura azulejos baños castellon 5.jpeg" alt="Pintura azulejos baños en Castellón" class="center">
 
+## Precios de pintura de azulejos de baños en Castellón
+
+El precio puede variar entre 30 €/m² y 60 €/m², dependiendo de varios factores:
+
+- **Superficie a pintar**: Cuantos más metros cuadrados tenga la superficie de azulejos, mayor será el precio total.
+
+- **Preparación de la superficie**: Si los azulejos están sucios, en mal estado o tienen juntas agrietadas, el precio aumentará, ya que será necesario limpiarlos, repararlos o sustituirlos antes de pintarlos.
+
+- **Tipo de pintura elegida**: Existen diferentes tipos de pintura para azulejos, como la pintura epoxi, la pintura acrílica y la pintura al agua. Cada tipo de pintura tiene sus propias características y precio.
+
+- **Mano de obra**: El precio de la mano de obra puede variar según la empresa y la zona geográfica.
+
+- **Materiales**: El precio de los materiales también puede variar, dependiendo de la calidad y la marca.
+
+Aquí te dejamos algunos ejemplos de precios orientativos para que puedas hacerte una idea:
+
+- Pintar los azulejos de un baño de 5 m²: Entre 150 € y 300 €.
+- Pintar los azulejos de un baño de 10 m²: Entre 300 € y 600 €.
+- Pintar los azulejos de un baño de 15 m²: Entre 450 € y 900 €.
+
