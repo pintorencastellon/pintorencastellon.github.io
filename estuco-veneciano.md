@@ -1,10 +1,10 @@
 ---
-title: Pintura blanca interior en Castellón
+title: Estuco veneciano blanco en Castellón
 feature_text: |
-  # Pintura blanca interior en Castellón
+  # Estuco veneciano blanco en Castellón
   Transforma tu hogar con luz y amplitud: haz brillar cada espacio.
 feature_image: "/assets/pintura-interior.jpg"
-excerpt: "Nos encargamos de trabajos profesionales de pintura blanca interior en Castellón de la Plana y provincia."
+excerpt: "Nos encargamos de trabajos profesionales de aplicación de estuco veneciano blanco en Castellón de la Plana y provincia."
 ---
 
 La elección del color de la pintura para interiores de viviendas es una decisión importante que puede tener un gran impacto en la apariencia y el ambiente de un espacio. Entre todas las opciones disponibles, la pintura blanca sigue siendo una de las más populares debido a su versatilidad, luminosidad y capacidad para hacer que los espacios parezcan más amplios y acogedores.
