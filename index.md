@@ -2,9 +2,9 @@
 title: Pintor en Castellón
 feature_text: |
   # Pintor en Castellón
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  Trabajos de pintura profesionales en la provincia de Castellón.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Somos tu pintor en Castellón de confianza. Expertos en decoración y pintura para transformar tus espacios. ¡Contáctanos para un servicio de calidad!"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
