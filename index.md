@@ -54,6 +54,7 @@ Pero antes, te invitamos a conocer más a fondo nuestros servicios:
   </div>
 </div>
 
+En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere **un enfoque personalizado**. Por eso, nos comprometemos a ofrecer los servicios adicionales más completos y adaptados a tus necesidades específicas. Aquí te mostramos algunos de ellos, aunque puedes consultarnos para más:
 
 ## Otros servicios de pintura
 
