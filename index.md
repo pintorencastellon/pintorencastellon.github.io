@@ -39,6 +39,12 @@ Pero antes, te invitamos a conocer más a fondo nuestros servicios:
   </div>
 </div>
 
+## Somos tus pintores económicos en Castellón
+
+Si buscas un pintor asequible en Castellón que ofrezca la mejor relación calidad-precio y si deseas obtener un servicio de pintura de alta calidad y acabados excepcionales sin pagar de más, **has llegado al lugar adecuado**.
+
+Nosotros nos comprometemos a proporcionar **servicios de pintura de alta calidad a precios accesibles**. Ya sea que necesites pintar tu vivienda, ya sea una casa o un piso, no tienes por qué preocuparte por gastar de más. Confía en nosotros para obtener resultados excepcionales a precios competitivos en la provincia de Castellón.
+
 ## Pintura Exterior: protección y belleza duradera
 
 <div class="row">
