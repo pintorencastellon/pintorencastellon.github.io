@@ -7,87 +7,57 @@ feature_image: "/assets/pintor-en-castellon.jpg"
 excerpt: "Somos tu pintor en Castellón de confianza. Expertos en decoración y pintura para transformar tus espacios. ¡Contáctanos para un servicio de calidad!"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Nuestro servicio de pintura interior es una de las formas más efectivas de renovar y embellecer tu hogar. Desde cambiar el color de las paredes hasta aplicar técnicas decorativas especiales, la pintura interior ofrece una amplia gama de posibilidades para **crear espacios únicos y acogedores**. Aquí te presentaremos en detalle todo lo que necesitas saber sobre nuestros trabajos de pintura para interiores, desde la planificación inicial hasta la aplicación práctica.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+Pero antes, te mostramos todos los servicios que podemos ofrecerte para renovar el interior de tu vivienda:
 
-## Features
+<div class="row">
+  <div class="column">
+    <img src="/assets/pintura blanca interior en castellon 1.jpeg" alt="Pintura blanca interior en Castellón" style="width:100%">
+    <a href="https://pintorencastellon.github.io/pintura-blanca-interior/"><h5 style="color: #05bf85">Pintura blanca interior</h5></a>
+  </div>
+  <div class="column">
+    <img src="/assets/pintura termica interior en castellon 1.jpeg" alt="Pintura térmica interior en Castellón" style="width:100%">
+    <a href="https://pintorencastellon.github.io/pintura-termica-interior/"><h5 style="color: #05bf85">Pintura térmica interior</h5></a>
+  </div>
+</div>
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+<div class="row">
+  <div class="column">
+    <img src="/assets/papel pintado en castellon 1.jpeg" alt="Papel pintado en Castellón" style="width:100%">
+    <a href="https://pintorencastellon.github.io/papel-pintado/"><h5 style="color: #05bf85">Papel pintado</h5></a>
+  </div>
+  <div class="column">
+    <img src="/assets/pintura de azulejos baño en castellon 1.jpeg" alt="Pintura de azulejos baño en Castellón" style="width:100%">
+    <a href="https://pintorencastellon.github.io/pintura-azulejos-bano/"><h5 style="color: #05bf85">Pintura azulejos baño</h5></a>
+  </div>
+</div>
 
-## Examples
+## 1. Planificación y preparación
+Antes de comenzar cualquier proyecto de pintura interior, es importante realizar una planificación cuidadosa. Esto incluye seleccionar los colores y acabados adecuados, preparar las superficies correctamente y asegurarse de tener todas las herramientas y materiales necesarios.
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+- **Selección de colores y acabados:** La elección del color es una decisión crucial que puede afectar significativamente el aspecto y la atmósfera de una habitación.
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- **Preparación de la superficie:** Antes de aplicar la pintura, es esencial preparar adecuadamente las superficies.
 
-## Installation
+- **Herramientas y materiales:** Asegúrate de tener todas las herramientas y materiales necesarios para el proyecto.
 
-### Quick setup
+## 2. Técnicas y aplicación de pintura interior
+Una vez que todo esté listo, es hora de aplicar la pintura. Existen diferentes técnicas y métodos de aplicación que pueden utilizarse para lograr diferentes efectos y acabados.
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+- **Pintura con rodillo:** La aplicación con rodillo es una de las técnicas más comunes y versátiles.
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+- **Pintura con brocha o pincel:** Estas dos herramientas son ideales para detalles y áreas de difícil acceso.
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+- **Estarcido y plantillas:** Estas técnicas permiten crear diseños decorativos y patrones en las paredes.
 
-### As a Jekyll theme
+- **Efectos especiales:** Además de la aplicación estándar de pintura, también se pueden utilizar técnicas especiales para crear efectos decorativos.
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+## 3. Mantenimiento y cuidados de la pintura
+Una vez completado el proyecto de pintura interior, es importante realizar un mantenimiento adecuado para asegurar que los resultados perduren en el tiempo.
 
-### As a GitHub Pages remote theme
+- **Limpieza regular:** Mantén las superficies pintadas limpias y libres de polvo y suciedad mediante la limpieza regular.
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+- **Reparación de daños:** Si se producen daños o marcas en las superficies pintadas, es importante repararlos rápidamente.
 
-### As a Boilerplate / Fork
-
-_(deprecated, not recommended)_
-
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+- **Retoques y actualizaciones:** A medida que pasa el tiempo, es posible que desees actualizar o cambiar el color de las paredes.
