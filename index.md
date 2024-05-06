@@ -39,25 +39,36 @@ Pero antes, te invitamos a conocer más a fondo nuestros servicios:
   </div>
 </div>
 
-## 1. Planificación y preparación
-Antes de comenzar cualquier proyecto de pintura interior, es importante realizar una planificación cuidadosa. Esto incluye seleccionar los colores y acabados adecuados, preparar las superficies correctamente y asegurarse de tener todas las herramientas y materiales necesarios.
+## Pintura Exterior: protección y belleza duradera
 
-- **Selección de colores y acabados:** La elección del color es una decisión crucial que puede afectar significativamente el aspecto y la atmósfera de una habitación.
+<div class="row">
+  <div class="column">
+    <img src="/assets/pintura de fachadas en castellon 1.jpeg" alt="Pintura de fachadas en Castellón" style="width:100%">
+    <a href="https://pintorencastellon.github.io/pintura-de-fachadas/"><h5 style="color: #05bf85">Pintura de fachadas</h5></a>
+    <p>La fachada de tu edificio es la primera impresión que dan tus visitantes. Con nuestra pintura de fachadas de alta calidad, podemos revitalizar y proteger la apariencia exterior de tu propiedad, proporcionando una protección duradera contra los elementos.</p>
+  </div>
+  <div class="column">
+    <img src="/assets/pintura impermeabilizante exterior en castellon 1.jpg" alt="Pintura impermeabilizante exterior en Castellón" style="width:100%">
+    <a href="https://pintorencastellon.github.io/pintura-impermeabilizante-exterior/"><h5 style="color: #05bf85">Pintura impermeabilizante exterior</h5></a>
+    <p>Mantén tu hogar seguro y protegido contra la humedad y las filtraciones con nuestro servicio de pintura impermeabilizante exterior. Nuestros productos de alta calidad garantizan una barrera duradera contra la lluvia y la humedad.</p>
+  </div>
+</div>
 
-- **Preparación de la superficie:** Antes de aplicar la pintura, es esencial preparar adecuadamente las superficies.
 
-- **Herramientas y materiales:** Asegúrate de tener todas las herramientas y materiales necesarios para el proyecto.
+## Otros servicios de pintura
 
-## 2. Técnicas y aplicación de pintura interior
-Una vez que todo esté listo, es hora de aplicar la pintura. Existen diferentes técnicas y métodos de aplicación que pueden utilizarse para lograr diferentes efectos y acabados.
-
-- **Pintura con rodillo:** La aplicación con rodillo es una de las técnicas más comunes y versátiles.
-
-- **Pintura con brocha o pincel:** Estas dos herramientas son ideales para detalles y áreas de difícil acceso.
-
-- **Estarcido y plantillas:** Estas técnicas permiten crear diseños decorativos y patrones en las paredes.
-
-- **Efectos especiales:** Además de la aplicación estándar de pintura, también se pueden utilizar técnicas especiales para crear efectos decorativos.
+<div class="row">
+  <div class="column">
+    <img src="/assets/quitar gotele en castellon 1.jpeg" alt="Quitar gotelé en Castellón" style="width:100%">
+    <a href="https://pintorencastellon.github.io/quitar-gotele-castellon/"><h5 style="color: #05bf85">Quitar gotelé</h5></a>
+    <p>¿Cansado de las texturas ásperas y anticuadas en tus paredes? Con nuestro servicio de eliminación de gotelé, podemos suavizar las superficies y dejarlas lisas y modernas, listas para una nueva capa de pintura o acabado decorativo.</p>
+  </div>
+  <div class="column">
+    <img src="/assets/estuco veneciano blanco en castellon 1.jpeg" alt="Estuco veneciano blanco en Castellón" style="width:100%">
+    <a href="https://pintorencastellon.github.io/estuco-veneciano/"><h5 style="color: #05bf85">Estuco veneciano</h5></a>
+    <p>Añade un toque de lujo y sofisticación a tus interiores con nuestro servicio de aplicación de estuco veneciano. Con su acabado brillante y su aspecto similar al mármol, el estuco veneciano es una opción elegante para cualquier espacio, desde salones hasta baños y cocinas.</p>
+  </div>
+</div>
 
 ## 3. Mantenimiento y cuidados de la pintura
 Una vez completado el proyecto de pintura interior, es importante realizar un mantenimiento adecuado para asegurar que los resultados perduren en el tiempo.
