@@ -3,7 +3,7 @@ title: Pintor en Castellón
 feature_text: |
   # Pintor en Castellón
   Trabajos de pintura profesionales en la provincia de Castellón.
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/pintor-en-castellon.jpg"
 excerpt: "Somos tu pintor en Castellón de confianza. Expertos en decoración y pintura para transformar tus espacios. ¡Contáctanos para un servicio de calidad!"
 ---
 
