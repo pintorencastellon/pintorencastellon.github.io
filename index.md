@@ -17,10 +17,12 @@ Pero antes, te invitamos a conocer más a fondo nuestros servicios:
   <div class="column">
     <img src="/assets/pintura blanca interior en castellon 1.jpeg" alt="Pintura blanca interior en Castellón" style="width:100%">
     <a href="https://pintorencastellon.github.io/pintura-blanca-interior/"><h5 style="color: #05bf85">Pintura blanca interior</h5></a>
+    <p>La pintura blanca interior es una elección clásica y versátil para cualquier interior. Con nuestro servicio de pintura blanca, podemos ayudarte a crear un ambiente luminoso, amplio y acogedor en tu hogar u oficina.</p>
   </div>
   <div class="column">
     <img src="/assets/pintura termica interior en castellon 1.jpeg" alt="Pintura térmica interior en Castellón" style="width:100%">
     <a href="https://pintorencastellon.github.io/pintura-termica-interior/"><h5 style="color: #05bf85">Pintura térmica interior</h5></a>
+    <p>¿Quieres mejorar la eficiencia energética de tu hogar? Nuestra pintura térmica ayuda a reducir la pérdida de calor en invierno y mantiene tu espacio fresco en verano, proporcionando confort térmico durante todo el año.</p>
   </div>
 </div>
 
@@ -28,10 +30,12 @@ Pero antes, te invitamos a conocer más a fondo nuestros servicios:
   <div class="column">
     <img src="/assets/papel pintado en castellon 1.jpeg" alt="Papel pintado en Castellón" style="width:100%">
     <a href="https://pintorencastellon.github.io/papel-pintado/"><h5 style="color: #05bf85">Papel pintado</h5></a>
+    <p>Agrega textura, patrón y personalidad a tus paredes con nuestro servicio de instalación de papel pintado. Desde diseños clásicos hasta modernos, tenemos una amplia selección de opciones para adaptarse a tu estilo y preferencias</p>
   </div>
   <div class="column">
     <img src="/assets/pintura de azulejos baño en castellon 1.jpeg" alt="Pintura de azulejos baño en Castellón" style="width:100%">
     <a href="https://pintorencastellon.github.io/pintura-azulejos-bano/"><h5 style="color: #05bf85">Pintura azulejos baño</h5></a>
+    <p>¿Quieres renovar tu baño sin realizar una costosa remodelación? Nuestro servicio de pintura de azulejos de baños ofrece una solución rápida y económica para actualizar el aspecto de tus paredes y suelos de azulejos.</p>
   </div>
 </div>
 
