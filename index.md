@@ -7,7 +7,7 @@ feature_image: "/assets/pintor-en-castellon.jpg"
 excerpt: "Somos tu pintor en Castellón de confianza. Expertos en decoración y pintura para transformar tus espacios. ¡Contáctanos para un servicio de calidad!"
 ---
 
-Bienvenido a Pintor en Castellón, tu experto en pintura y decoración. Con una pasión por embellecer y transformar espacios, ofrecemos una amplia gama de servicios de alta calidad para satisfacer todas tus necesidades de pintura interior y exterior, eliminación de gotelé y aplicación de estuco veneciano. Descubre cómo podemos convertir tus ideas en realidad y dar vida a tus proyectos de decoración con nuestro equipo de profesionales altamente cualificados.
+Bienvenido a Pintor en Castellón, **tu experto en pintura y decoración**. Con una pasión por embellecer y transformar espacios, ofrecemos una amplia gama de servicios de alta calidad para satisfacer todas tus necesidades de pintura exterior o interior, eliminación de gotelé o aplicación de estuco veneciano. Descubre cómo podemos convertir tus ideas en realidad y dar vida a tus proyectos de decoración con nuestro equipo de profesionales altamente cualificados.
 
 Pero antes, te invitamos a conocer más a fondo nuestros servicios:
 
@@ -69,12 +69,3 @@ Pero antes, te invitamos a conocer más a fondo nuestros servicios:
     <p>Añade un toque de lujo y sofisticación a tus interiores con nuestro servicio de aplicación de estuco veneciano. Con su acabado brillante y su aspecto similar al mármol, el estuco veneciano es una opción elegante para cualquier espacio, desde salones hasta baños y cocinas.</p>
   </div>
 </div>
-
-## 3. Mantenimiento y cuidados de la pintura
-Una vez completado el proyecto de pintura interior, es importante realizar un mantenimiento adecuado para asegurar que los resultados perduren en el tiempo.
-
-- **Limpieza regular:** Mantén las superficies pintadas limpias y libres de polvo y suciedad mediante la limpieza regular.
-
-- **Reparación de daños:** Si se producen daños o marcas en las superficies pintadas, es importante repararlos rápidamente.
-
-- **Retoques y actualizaciones:** A medida que pasa el tiempo, es posible que desees actualizar o cambiar el color de las paredes.
