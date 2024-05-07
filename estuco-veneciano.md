@@ -17,7 +17,7 @@ El estuco veneciano blanco es una técnica de acabado decorativo que ha ganado p
 El estuco veneciano blanco es un tipo de revestimiento decorativo que se caracteriza por su **acabado brillante y su aspecto similar al mármol**. Se compone de cal, mármol molido y otros aditivos que le confieren una textura suave y una apariencia lujosa. Este tipo de estuco es especialmente popular en la **decoración de interiores** debido a su capacidad para reflejar la luz y crear un ambiente luminoso y sofisticado.
 
 <div class="row">
-{% include button.html text="Pide presupuesto sin compromiso" link="https://wa.me/623064370" icon="question" %}
+{% include button.html text="📞 Pide presupuesto sin compromiso" link="https://wa.me/623064370" %}
 </div>
 
 ## Preparación de la superficie
