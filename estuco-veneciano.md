@@ -20,8 +20,6 @@ El estuco veneciano blanco es un tipo de revestimiento decorativo que se caracte
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
 </div>
 
-
-
 ## Preparación de la superficie
 
 Antes de aplicar el estuco veneciano, es esencial preparar adecuadamente la superficie para garantizar un acabado óptimo. Esto incluye:
@@ -42,6 +40,10 @@ Una vez que la superficie está preparada, se puede proceder con la aplicación 
 2. **Aplicación de capas adicionales**: Se aplican una o más capas adicionales de estuco veneciano blanco, cada una con un grosor ligeramente mayor que la anterior. Entre capa y capa, se puede lijar suavemente la superficie para obtener un acabado más suave y uniforme.
 
 3. **Pulido**: Una vez que todas las capas de estuco se han aplicado y secado por completo, se procede al pulido final. Este proceso implica utilizar una llana de acero inoxidable para pulir la superficie y revelar el brillo característico del estuco veneciano.
+
+<div class="center2">
+{% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
+</div>
 
 4. **Sellado y protección**: Para proteger el acabado y mejorar su durabilidad, se recomienda aplicar una capa de sellador transparente sobre la superficie pulida. Esto ayudará a prevenir manchas, daños y facilitará la limpieza y el mantenimiento a largo plazo.
 
@@ -67,6 +69,10 @@ El precio de la instalación de este tipo de estuco en paredes en la provincia d
 - **Preparación de la superficie**: Si la superficie a instalar está en mal estado, con desperfectos o grietas, el precio aumentará, ya que será necesario repararlos antes de instalar el estuco veneciano.
 
 - **Tipo de estuco veneciano elegido**: Existen diferentes tipos de estuco veneciano, como el clásico, el rústico y el moderno. Cada tipo de estuco veneciano tiene sus propias características y precio.
+
+<div class="center2">
+{% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
+</div>
 
 - **La mano de obra**: El precio de la mano de obra puede variar según la empresa y la zona geográfica.
 
