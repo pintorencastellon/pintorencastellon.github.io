@@ -34,12 +34,12 @@ El Usuario asume la responsabilidad del uso del portal en los términos que medi
 
 El Usuario se compromete a hacer un uso adecuado de los contenidos y servicios (por ejemplo, servicios de chat, foros de discusión o grupos de noticias) que el Titular ofrece a través de su portal y, con carácter enunciativo pero no limitativo, a no emplearlos para:
 
-Incurrir en actividades ilícitas, ilegales o contrarias a la buena fe y al orden público.
-Difundir contenidos o propaganda racista, xenófoba, pornográfico-ilegal, de apología del terrorismo o atentatoria contra los derechos humanos.
-Provocar daños en los sistemas físicos y lógicos del Titular, de sus proveedores o de terceras personas, introducir o difundir en la red virus informáticos o cualesquiera otros sistemas físicos o lógicos que sean susceptibles de provocar los daños anteriormente mencionados.
-Intentar acceder y, en su caso, utilizar las cuentas de correo electrónico de otros usuarios y modificar o manipular sus mensajes.
-Utilizar el sitio web ni las informaciones que en él se contienen con fines comerciales, políticos, publicitarios y para cualquier uso comercial, sobre todo en el envío de correos electrónicos no solicitados.
-El Titular se reserva el derecho a retirar todos aquellos comentarios y aportaciones que vulneren el respeto a la dignidad de la persona, que sean discriminatorios, xenófobos, racistas, pornográficos, que atenten contra la juventud o la infancia, el orden o la seguridad pública o que, a su juicio, no resultarán adecuados para su publicación. En cualquier caso, el Titular no será responsable de las opiniones vertidas por los usuarios a través de los foros, chats, u otras herramientas de participación.
+- Incurrir en actividades ilícitas, ilegales o contrarias a la buena fe y al orden público.
+- Difundir contenidos o propaganda racista, xenófoba, pornográfico-ilegal, de apología del terrorismo o atentatoria contra los derechos humanos.
+- Provocar daños en los sistemas físicos y lógicos del Titular, de sus proveedores o de terceras personas, introducir o difundir en la red virus informáticos o cualesquiera otros sistemas físicos o lógicos que sean susceptibles de provocar los daños anteriormente mencionados.
+- Intentar acceder y, en su caso, utilizar las cuentas de correo electrónico de otros usuarios y modificar o manipular sus mensajes.
+- Utilizar el sitio web ni las informaciones que en él se contienen con fines comerciales, políticos, publicitarios y para cualquier uso comercial, sobre todo en el envío de correos electrónicos no solicitados.
+- El Titular se reserva el derecho a retirar todos aquellos comentarios y aportaciones que vulneren el respeto a la dignidad de la persona, que sean discriminatorios, xenófobos, racistas, pornográficos, que atenten contra la juventud o la infancia, el orden o la seguridad pública o que, a su juicio, no resultarán adecuados para su publicación. En cualquier caso, el Titular no será responsable de las opiniones vertidas por los usuarios a través de los foros, chats, u otras herramientas de participación.
 
 ## 4. PROTECCIÓN DE DATOS
 
@@ -55,12 +55,13 @@ Todos los derechos reservados. En virtud de lo dispuesto en los artículos 8 y 3
 
 El Usuario reconoce que la utilización de la página web y de sus contenidos y servicios se desarrolla bajo su exclusiva responsabilidad. En concreto, a título meramente enunciativo, el Titular no asume ninguna responsabilidad en los siguientes ámbitos:
 
-La disponibilidad del funcionamiento de la página web, sus servicios y contenidos y su calidad o interoperabilidad.
-La finalidad para la que la página web sirva a los objetivos del Usuario.
-La infracción de la legislación vigente por parte del Usuario o terceros y, en concreto, de los derechos de propiedad intelectual e industrial que sean titularidad de otras personas o entidades.
-La existencia de códigos maliciosos o cualquier otro elemento informático dañino que pudiera causar el sistema informático del Usuario o de terceros. La entidad toma medidas para proteger el sitio web frente a ciberataques. No obstante, no puede garantizar que no se vayan a producir accesos no autorizados por parte de terceros. Por ello, corresponde al Usuario disponer de herramientas adecuadas para la detección y desinfección de estos elementos.
-El acceso fraudulento a los contenidos o servicios por terceros no autorizados o, en su caso, la captura, eliminación, alteración, modificación o manipulación de los mensajes y comunicaciones de cualquier clase que dichos terceros pudiera realizar.
-Los daños producidos a equipos informáticos durante el acceso a la página web y los daños producidos a los Usuarios cuando tengan su origen en fallos o desconexiones en las redes de telecomunicaciones que interrumpan el servicio.
+- La disponibilidad del funcionamiento de la página web, sus servicios y contenidos y su calidad o interoperabilidad.
+- La finalidad para la que la página web sirva a los objetivos del Usuario.
+- La infracción de la legislación vigente por parte del Usuario o terceros y, en concreto, de los derechos de propiedad intelectual e industrial que sean titularidad de otras personas o entidades.
+- La existencia de códigos maliciosos o cualquier otro elemento informático dañino que pudiera causar el sistema informático del Usuario o de terceros. La entidad toma medidas para proteger el sitio web frente a ciberataques. No obstante, no puede garantizar que no se vayan a producir accesos no autorizados por parte de terceros. Por ello, corresponde al Usuario disponer de herramientas adecuadas para la detección y desinfección de estos elementos.
+- El acceso fraudulento a los contenidos o servicios por terceros no autorizados o, en su caso, la captura, eliminación, alteración, modificación o manipulación de los mensajes y comunicaciones de cualquier clase que dichos terceros pudiera realizar.
+- Los daños producidos a equipos informáticos durante el acceso a la página web y los daños producidos a los Usuarios cuando tengan su origen en fallos o desconexiones en las redes de telecomunicaciones que interrumpan el servicio.
+
 Los daños o perjuicios que se deriven de circunstancias acaecidas por caso fortuito o fuerza mayor.
 En caso de que existan foros, el uso de los mismos u otros espacios análogos, ha de tenerse en cuenta que los mensajes reflejan únicamente la opinión del Usuario que los remite, siendo este el único responsable de los mismos. En consecuencia, el Titular no se hace responsable del contenido de los mensajes enviados por el Usuario.
 
