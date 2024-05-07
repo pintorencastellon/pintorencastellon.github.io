@@ -88,7 +88,7 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
         Pídanos un presupuesto detallado que incluya todos los gestos, incluyendo mano de obra, materiales, impuestos y cualquier otro importe adicional. Así podrá comparar con precios de otros pintores decoradores antes de tomar su decisión.
     </details>
     <details>
-        <summary👉 <b>>¿Qué materiales usarán?</b></summary>
+        <summary>👉 <b>¿Qué materiales usarán?</b></summary>
         Es importante que el cliente tenga conocimiento de la calidad de los materiales que el pintor empleará en su trabajo. Siéntase libre de preguntar sobre las marcas y tipos de pintura, papeles pintados u otros materiales.
     </details>
 </section>
