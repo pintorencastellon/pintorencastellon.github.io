@@ -11,7 +11,7 @@ Bienvenido a Pintor en Castellón, **tu experto en pintura y decoración**. Con 
 
 Pero antes, te invitamos a conocer más a fondo **nuestros servicios**:
 
-## Pintura Interior: creatividad y elegancia en cada pared
+## Pintura interior: calidad y elegancia en cada pared
 
 <div class="row">
   <div class="column">
@@ -45,7 +45,7 @@ Si buscas un pintor asequible en Castellón que ofrezca la mejor relación calid
 
 Nosotros nos comprometemos a proporcionar **servicios de pintura de alta calidad a precios accesibles**. Ya sea que necesites pintar tu vivienda, ya sea una casa o un piso, no tienes por qué preocuparte por gastar de más. Confía en nosotros para obtener resultados excepcionales a precios competitivos en la provincia de Castellón.
 
-## Pintura Exterior: protección y belleza duradera
+## Pintura exterior: protección y belleza duradera
 
 <div class="row">
   <div class="column">
