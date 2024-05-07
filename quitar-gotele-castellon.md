@@ -12,7 +12,7 @@ Fue una vez una técnica de decoración popular, ahora puede ser percibido como 
 ## 1. ¿Qué es el gotelé y por qué se quita?
 Es una técnica de decoración que consiste en aplicar una capa de pintura con gránulos o partículas que crean una textura rugosa en la superficie de las paredes. Aunque durante muchos años fue popular en España, muchas personas ahora optan por quitar el gotelé debido a su aspecto **anticuado y difícil de limpiar**.
 
-<img src="/assets/quitar gotele en castellon 1.jpeg" alt="Quitar gotelé en Castellón" class="center">
+<img src="/assets/quitar gotele en castellon 1.jpeg" alt="Quitar gotelé en Castellón" class="center2">
 
 ## 2. Nuestro proceso para quitar el gotelé:
 El proceso de quitar gotelé puede variar según el tipo de superficie y la técnica utilizada, pero generalmente sigue estos pasos:
@@ -22,10 +22,14 @@ El proceso de quitar gotelé puede variar según el tipo de superficie y la téc
    - **Lijado y aplanado**: Después de quitar el gotelé, se lija y se alisa la superficie para dejarla lista para la nueva capa de pintura.
    - **Pintura**: Finalmente, se aplica una nueva capa de pintura para completar la transformación de la pared.
 
-<img src="/assets/quitar gotele en castellon 2.jpeg" alt="Quitar gotelé en Castellón" class="center">
+<img src="/assets/quitar gotele en castellon 2.jpeg" alt="Quitar gotelé en Castellón" class="center2">
 
 ## 3. Técnicas para quitar el gotelé:
 Existen diversas técnicas para quitar este producto de las paredes, y la elección de una u otra dependerá del tipo de gotelé (al temple o plástico) y de las preferencias personales. Aquí puedes ver un resumen de las técnicas más habituales:
+
+<div class="center2">
+{% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
+</div>
 
 - **Rascar el gotelé con una espátula**: Esta técnica se utiliza cuando el gotelé es al temple. Primero, se humedece la pared con agua utilizando una brocha o rodillo, se espera unos minutos para que el agua penetre en la superficie y luego se quita el gotelé rascándolo con la ayuda de una espátula.
 
@@ -37,9 +41,13 @@ Existen diversas técnicas para quitar este producto de las paredes, y la elecci
 
 - **Tapar con paneles de yeso tipo Pladur**: Esta técnica se puede utilizar tanto para gotelé al temple como plástico. Se cubre la pared con paneles de yeso, creando una superficie lisa sobre la que se puede pintar.
 
-<img src="/assets/quitar gotele en castellon 3.jpeg" alt="Quitar gotelé en Castellón" class="center">
+<img src="/assets/quitar gotele en castellon 3.jpeg" alt="Quitar gotelé en Castellón" class="center2">
 
 Es importante recordar que, independientemente de la técnica elegida, **siempre protegemos el suelo y los muebles** con plásticos y cinta de carrocero antes de empezar. Además, después de quitar el gotelé, **aplicamos una imprimación fijadora o selladora** antes de pintar para asegurar un acabado uniforme.
+
+<div class="center2">
+{% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
+</div>
 
 ## 4. Beneficios para el cliente de quitar el gotelé:
 Quitar el gotelé puede ofrecer una serie de beneficios, incluyendo:
@@ -47,12 +55,12 @@ Quitar el gotelé puede ofrecer una serie de beneficios, incluyendo:
    - **Fácil mantenimiento**: Las paredes lisas son más fáciles de limpiar y mantener que las texturizadas.
    - **Versatilidad**: Las paredes lisas ofrecen una superficie versátil para aplicar diferentes tipos de acabados y decoraciones.
 
-<img src="/assets/quitar gotele en castellon 4.jpeg" alt="Quitar gotelé en Castellón" class="center">
+<img src="/assets/quitar gotele en castellon 4.jpeg" alt="Quitar gotelé en Castellón" class="center2">
 
 ## 5. Consideraciones y precauciones
 Al quitar el gotelé, es importante tener en cuenta algunos aspectos cruciales, como la posible **presencia de amianto** en el material del gotelé en edificios más antiguos. Siemrep es importante contratar a profesionales calificados para realizar el trabajo y asegurarse de que se tomen las medidas adecuadas para proteger la salud y la seguridad durante el proceso.
 
-<img src="/assets/quitar gotele en castellon 5.jpeg" alt="Quitar gotelé en Castellón" class="center">
+<img src="/assets/quitar gotele en castellon 5.jpeg" alt="Quitar gotelé en Castellón" class="center2">
 
 ## 6. El Precio de quitar el gotelé
 El precio de quitar el gotelé de tu vivienda puede oscilar entre 5 €/m² y 15 €/m², dependiendo de varios factores:
@@ -67,13 +75,17 @@ El precio de quitar el gotelé de tu vivienda puede oscilar entre 5 €/m² y 15
 
 - **Acabado final deseado**: Si deseas un acabado liso perfecto, el precio será mayor que si solo quieres eliminar el gotelé y dejar la pared con una textura rugosa.
 
+<div class="center2">
+{% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
+</div>
+
 - **Mano de obra**: El precio de la mano de obra puede variar según la empresa y la zona geográfica.
 
 - **Materiales**: El precio de los materiales también puede variar, dependiendo de la calidad y la marca.
 
 - **Amianto**: Si las paredes tienen amianto, el precio de la eliminación será mucho más elevado, ya que se trata de un material peligroso que requiere un tratamiento especial.
 
-<img src="/assets/quitar gotele en castellon 6.jpeg" alt="Quitar gotelé en Castellón" class="center">
+<img src="/assets/quitar gotele en castellon 6.jpeg" alt="Quitar gotelé en Castellón" class="center2">
 
 Aquí puedes ver algunos ejemplos de precios orientativos:
 
