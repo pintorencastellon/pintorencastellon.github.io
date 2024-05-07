@@ -1,82 +1,97 @@
 ---
-title: Quitar gotelé en Castellón
+title: Aviso legal
 feature_text: |
-  # Quitar gotelé en Castellón
-  Transformamos fachadas, protegiendo tu hogar con cada pincelada.
+  # Aviso legal
 feature_image: "/assets/quitar-gotele.jpg"
-excerpt: "Nos encargamos de quitar gotelé en Castellón de la Plana."
+excerpt: "Esta es la página de aviso legal del sitio web Pintor en Castellón."
 ---
 
-Fue una vez una técnica de decoración popular, ahora puede ser percibido como desactualizado y difícil de mantener. Afortunadamente, **nuestro servicio para quitar quitar gotelé en Castellón** ofrece una solución moderna y elegante para transformar tus paredes y actualizar el aspecto de tu hogar. Aquí te explicaremos el proceso, las técnicas, las ventajas y, lo más importante, el precio de quitar el gotelé.
+De conformidad con lo establecido en la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, se facilita la siguiente información:
 
-## 1. ¿Qué es el gotelé y por qué se quita?
-Es una técnica de decoración que consiste en aplicar una capa de pintura con gránulos o partículas que crean una textura rugosa en la superficie de las paredes. Aunque durante muchos años fue popular en España, muchas personas ahora optan por quitar el gotelé debido a su aspecto **anticuado y difícil de limpiar**.
+## 1. DATOS IDENTIFICATIVOS
 
-<img src="/assets/quitar gotele en castellon 1.jpeg" alt="Quitar gotelé en Castellón" class="center">
+Usted está visitando la página web https://pintorencastellon.es titularidad de José Manuel Sánchez, con domicilio social en Plaza Europa, 46, (Massamagrell, Valencia), en adelante, el TITULAR.
 
-## 2. Nuestro proceso para quitar el gotelé:
-El proceso de quitar gotelé puede variar según el tipo de superficie y la técnica utilizada, pero generalmente sigue estos pasos:
-   - **Preparación**: Se protegen los muebles y el suelo con plásticos y se retiran los elementos decorativos de la pared.
-   - **Humectación**: Se humedece la superficie del gotelé con agua o un agente humectante para ablandar la textura y facilitar su eliminación.
-   - **Raspado**: Se utiliza una herramienta especial, como una espátula o una lijadora, para raspar suavemente el gotelé de la pared.
-   - **Lijado y aplanado**: Después de quitar el gotelé, se lija y se alisa la superficie para dejarla lista para la nueva capa de pintura.
-   - **Pintura**: Finalmente, se aplica una nueva capa de pintura para completar la transformación de la pared.
+Puede contactar con el Titular por cualquiera de los siguientes medios:
 
-<img src="/assets/quitar gotele en castellon 2.jpeg" alt="Quitar gotelé en Castellón" class="center">
+Correo electrónico de contacto: seoconval@gmail.com
 
-## 3. Técnicas para quitar el gotelé:
-Existen diversas técnicas para quitar este producto de las paredes, y la elección de una u otra dependerá del tipo de gotelé (al temple o plástico) y de las preferencias personales. Aquí puedes ver un resumen de las técnicas más habituales:
+## 2. USUARIOS
 
-- **Rascar el gotelé con una espátula**: Esta técnica se utiliza cuando el gotelé es al temple. Primero, se humedece la pared con agua utilizando una brocha o rodillo, se espera unos minutos para que el agua penetre en la superficie y luego se quita el gotelé rascándolo con la ayuda de una espátula.
+Mediante el presente documento ponemos en su conocimiento los términos y condiciones que regulan el uso del sitio web y/o app del Titular, así como de los servicios y contenidos asociados. Dicho uso implica la adquisición de la condición de “usuario” y, con dicha condición, una serie de derechos y obligaciones.
 
-- **Usar decapantes y rascar posteriormente**: Esta técnica se utiliza cuando el gotelé es plástico. Se aplica un decapante para relieves que ablanda la capa de pintura y luego se raspa el gotelé con una espátula.
+A los efectos anteriormente descritos, le informamos que es de su responsabilidad acceder a las condiciones legales insertas en la presente web, así como, a las políticas de privacidad, cookies o en su caso, condiciones de venta y leerlas detenidamente. Recomendamos:
 
-- **Cubrir con masilla "quitagotele"**: Esta técnica se puede utilizar tanto para gotelé al temple como plástico. Se aplica una pasta especial llamada cubregotelé o masilla de renovación que cubre el gotelé. Una vez seca, se lija la superficie para dejarla lisa.
+a. Que visite las mismas cada vez que pretenda acceder o utilizar los servicios y contenidos del sitio y
 
-- **Lijar la pared para eliminar el gotelé**: Esta técnica se puede utilizar tanto para gotelé al temple como plástico. Se lija la pared hasta que se elimina el gotelé. Este método puede ser más laborioso y generar más polvo.
+b. Que imprima o almacene en su sistema una copia.
 
-- **Tapar con paneles de yeso tipo Pladur**: Esta técnica se puede utilizar tanto para gotelé al temple como plástico. Se cubre la pared con paneles de yeso, creando una superficie lisa sobre la que se puede pintar.
+## 3. USO DEL PORTAL
 
-<img src="/assets/quitar gotele en castellon 3.jpeg" alt="Quitar gotelé en Castellón" class="center">
+Esta web proporciona el acceso a multitud de información, servicios, programas o datos (en adelante, “los contenidos”) en Internet pertenecientes a el Titular o a sus licenciantes a los que el Usuario puede tener acceso.
 
-Es importante recordar que, independientemente de la técnica elegida, **siempre protegemos el suelo y los muebles** con plásticos y cinta de carrocero antes de empezar. Además, después de quitar el gotelé, **aplicamos una imprimación fijadora o selladora** antes de pintar para asegurar un acabado uniforme.
+El Usuario asume la responsabilidad del uso del portal en los términos que mediante la presente se establecen. Dicha responsabilidad se extiende al registro que fuese necesario para acceder a determinados servicios o contenidos. En dicho registro, el Usuario será responsable de aportar información veraz y lícita. Como consecuencia de este registro, al Usuario se le puede proporcionar una contraseña de la que será asimismo responsable, comprometiéndose a hacer un uso diligente y confidencial de la misma.
 
-## 4. Beneficios para el cliente de quitar el gotelé:
-Quitar el gotelé puede ofrecer una serie de beneficios, incluyendo:
-   - **Aspecto moderno**: Las paredes lisas y sin textura ofrecen un aspecto más moderno y elegante.
-   - **Fácil mantenimiento**: Las paredes lisas son más fáciles de limpiar y mantener que las texturizadas.
-   - **Versatilidad**: Las paredes lisas ofrecen una superficie versátil para aplicar diferentes tipos de acabados y decoraciones.
+El Usuario se compromete a hacer un uso adecuado de los contenidos y servicios (por ejemplo, servicios de chat, foros de discusión o grupos de noticias) que el Titular ofrece a través de su portal y, con carácter enunciativo pero no limitativo, a no emplearlos para:
 
-<img src="/assets/quitar gotele en castellon 4.jpeg" alt="Quitar gotelé en Castellón" class="center">
+Incurrir en actividades ilícitas, ilegales o contrarias a la buena fe y al orden público.
+Difundir contenidos o propaganda racista, xenófoba, pornográfico-ilegal, de apología del terrorismo o atentatoria contra los derechos humanos.
+Provocar daños en los sistemas físicos y lógicos del Titular, de sus proveedores o de terceras personas, introducir o difundir en la red virus informáticos o cualesquiera otros sistemas físicos o lógicos que sean susceptibles de provocar los daños anteriormente mencionados.
+Intentar acceder y, en su caso, utilizar las cuentas de correo electrónico de otros usuarios y modificar o manipular sus mensajes.
+Utilizar el sitio web ni las informaciones que en él se contienen con fines comerciales, políticos, publicitarios y para cualquier uso comercial, sobre todo en el envío de correos electrónicos no solicitados.
+El Titular se reserva el derecho a retirar todos aquellos comentarios y aportaciones que vulneren el respeto a la dignidad de la persona, que sean discriminatorios, xenófobos, racistas, pornográficos, que atenten contra la juventud o la infancia, el orden o la seguridad pública o que, a su juicio, no resultarán adecuados para su publicación. En cualquier caso, el Titular no será responsable de las opiniones vertidas por los usuarios a través de los foros, chats, u otras herramientas de participación.
 
-## 5. Consideraciones y precauciones
-Al quitar el gotelé, es importante tener en cuenta algunos aspectos cruciales, como la posible **presencia de amianto** en el material del gotelé en edificios más antiguos. Siemrep es importante contratar a profesionales calificados para realizar el trabajo y asegurarse de que se tomen las medidas adecuadas para proteger la salud y la seguridad durante el proceso.
+## 4. PROTECCIÓN DE DATOS
 
-<img src="/assets/quitar gotele en castellon 5.jpeg" alt="Quitar gotelé en Castellón" class="center">
+Todo lo relativo al tratamiento de sus datos personales se encuentra recogido en la Política de privacidad.
 
-## 6. El Precio de quitar el gotelé
-El precio de quitar el gotelé de tu vivienda puede oscilar entre 5 €/m² y 15 €/m², dependiendo de varios factores:
+## 5. CONTENIDOS. PROPIEDAD INTELECTUAL E INDUSTRIAL
 
-- **Superficie**: Cuantos más metros cuadrados tenga la superficie con gotelé, mayor será el precio total.
+El Titular es propietario de todos los derechos de propiedad intelectual e industrial de su página web, así como de los elementos contenidos en la misma (a título enunciativo: imágenes, fotografías, sonido, audio, vídeo, software o textos, marcas o logotipos, combinaciones de colores, estructura y diseño, selección de materiales usados, programas de ordenador necesarios para su funcionamiento, acceso y uso, etc.), titularidad del Titular o bien de sus licenciantes.
 
-- **Tipo de gotelé**: Existen diferentes tipos de gotelé, como el fino, el mediano y el grueso. El gotelé grueso es el más costoso de eliminar, ya que requiere más trabajo y material.
+Todos los derechos reservados. En virtud de lo dispuesto en los artículos 8 y 32.1, párrafo segundo, de la Ley de Propiedad Intelectual, quedan expresamente prohibidas la reproducción, la distribución y la comunicación pública, incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos de esta página web, con fines comerciales, en cualquier soporte y por cualquier medio técnico, sin la autorización del Titular.
 
-- **Estado de las paredes**: Si las paredes están en mal estado, con desperfectos o grietas, el precio aumentará, ya que será necesario repararlas antes de alisarlas.
+## 6. EXCLUSIÓN DE GARANTÍAS Y RESPONSABILIDAD
 
-- **Método de eliminación**: Existen diferentes métodos para eliminar el gotelé, como el mojado y el seco. El método mojado suele ser más económico, pero puede tardar más tiempo en secarse.
+El Usuario reconoce que la utilización de la página web y de sus contenidos y servicios se desarrolla bajo su exclusiva responsabilidad. En concreto, a título meramente enunciativo, el Titular no asume ninguna responsabilidad en los siguientes ámbitos:
 
-- **Acabado final deseado**: Si deseas un acabado liso perfecto, el precio será mayor que si solo quieres eliminar el gotelé y dejar la pared con una textura rugosa.
+La disponibilidad del funcionamiento de la página web, sus servicios y contenidos y su calidad o interoperabilidad.
+La finalidad para la que la página web sirva a los objetivos del Usuario.
+La infracción de la legislación vigente por parte del Usuario o terceros y, en concreto, de los derechos de propiedad intelectual e industrial que sean titularidad de otras personas o entidades.
+La existencia de códigos maliciosos o cualquier otro elemento informático dañino que pudiera causar el sistema informático del Usuario o de terceros. La entidad toma medidas para proteger el sitio web frente a ciberataques. No obstante, no puede garantizar que no se vayan a producir accesos no autorizados por parte de terceros. Por ello, corresponde al Usuario disponer de herramientas adecuadas para la detección y desinfección de estos elementos.
+El acceso fraudulento a los contenidos o servicios por terceros no autorizados o, en su caso, la captura, eliminación, alteración, modificación o manipulación de los mensajes y comunicaciones de cualquier clase que dichos terceros pudiera realizar.
+Los daños producidos a equipos informáticos durante el acceso a la página web y los daños producidos a los Usuarios cuando tengan su origen en fallos o desconexiones en las redes de telecomunicaciones que interrumpan el servicio.
+Los daños o perjuicios que se deriven de circunstancias acaecidas por caso fortuito o fuerza mayor.
+En caso de que existan foros, el uso de los mismos u otros espacios análogos, ha de tenerse en cuenta que los mensajes reflejan únicamente la opinión del Usuario que los remite, siendo este el único responsable de los mismos. En consecuencia, el Titular no se hace responsable del contenido de los mensajes enviados por el Usuario.
 
-- **Mano de obra**: El precio de la mano de obra puede variar según la empresa y la zona geográfica.
+## 7. MODIFICACIÓN DE ESTE AVISO LEGAL Y DURACIÓN
 
-- **Materiales**: El precio de los materiales también puede variar, dependiendo de la calidad y la marca.
+El Titular se reserva el derecho de efectuar sin previo aviso las modificaciones que considere oportunas en su portal, pudiendo cambiar, suprimir o añadir tantos contenidos y servicios que se presten a través de la misma, como la forma en la que estos aparezcan representados o localizados en su portal.
 
-- **Amianto**: Si las paredes tienen amianto, el precio de la eliminación será mucho más elevado, ya que se trata de un material peligroso que requiere un tratamiento especial.
+La vigencia de las citadas condiciones irá en función de su exposición y estarán vigentes hasta que sean modificadas por otras debidamente publicadas.
 
-<img src="/assets/quitar gotele en castellon 6.jpeg" alt="Quitar gotelé en Castellón" class="center">
+## 8. ENLACES
 
-Aquí puedes ver algunos ejemplos de precios orientativos:
+En el caso de que en https://pintorencastellon.es/ se incluyesen enlaces o hipervínculos hacia otros sitios de Internet, el Titular no ejercerá ningún tipo de control sobre dichos sitios y contenidos ni asumirá responsabilidad alguna por los contenidos de algún enlace perteneciente a un sitio web ajeno, ni garantizará la disponibilidad técnica, calidad, fiabilidad, exactitud, amplitud, veracidad, validez y constitucionalidad de cualquier materia o información contenida en ninguno de dichos hipervínculos y otros sitios en Internet. Igualmente, la inclusión de estas conexiones externas no implicará ningún tipo de asociación, fusión o participación con las entidades conectadas. No obstante lo anterior, si pintorencastellon.es tuviera conocimiento efectivo de que la actividad o la información a la se remite o recomienda es ilícita, o de que lesiona bienes o derechos de un tercero susceptibles de indemnización, se suprimirán dichos datos o se inutilizará el enlace correspondiente.
 
-- Quitar gotelé de una superficie de 15 m²: **Entre 75 € y 225 €**.
-- Quitar gotelé de una vivienda de 80 m²: **Entre 1.600 € y 2.400 €**.
-- Quitar gotelé, alisar y pintar una vivienda de 100 m²: **Entre 3.000 € y 4.500 €**.
+## 9. DERECHOS DE EXCLUSIÓN
+
+El Titular se reserva el derecho a denegar o retirar el acceso al portal y/o los servicios ofrecidos sin necesidad de advertencia previa, a instancia propia o de un tercero, a aquellos usuarios que incumplan el contenido de este aviso legal.
+
+## 10. GENERALIDADES
+
+El Titular perseguirá el incumplimiento de las presentes condiciones así como cualquier utilización indebida de su portal ejerciendo todas las acciones civiles y penales que le puedan corresponder en derecho.
+
+## 11. LEGISLACIÓN APLICABLE Y JURISDICCIÓN
+
+La relación entre el Titular y el Usuario se regirá por la normativa española vigente. Todas las disputas y reclamaciones derivadas de este aviso legal se resolverán por los juzgados y tribunales españoles del consumidor y usuario que resulten competentes.
+
+## 12. MENORES DE EDAD
+
+Esta web dirige sus servicios a usuarios mayores de 18 años Los menores de esta edad no están autorizados a utilizar nuestros servicios y no deberán, por tanto, enviarnos sus datos personales. Informamos de que si se da tal circunstancia, el Titular no se hace responsable de las posibles consecuencias que pudieran derivarse del incumplimiento del aviso que en esta misma cláusula se establece.
+
+## 13. MEDIDAS DE SEGURIDAD – SSL
+
+El Titular ha contratado para su sitio web un certificado SSL («Secure Sockets Layer»). Dicho certificado SSL permite proteger toda la información personal y confidencial que se pueda manejar en un sitio web, independientemente de la información que se esté transmitiendo, como por ejemplo, desde cualquiera de los formularios de contacto del sitio web hasta el servidor o los datos introducidos para la suscripción de boletines de noticias, accesos a las áreas protegidas, etc.
+
+La dirección del sitio web aparecerá en color verde, activándose el protocolo “https” que permite conexiones seguras desde un servidor web al navegador del usuario.
