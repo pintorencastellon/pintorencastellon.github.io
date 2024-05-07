@@ -1,10 +1,9 @@
 ---
-title: Quitar gotelé en Castellón
+title: Política de Privacidad
 feature_text: |
-  # Quitar gotelé en Castellón
-  Transformamos fachadas, protegiendo tu hogar con cada pincelada.
+  # Política de Privacidad
 feature_image: "/assets/quitar-gotele.jpg"
-excerpt: "Nos encargamos de quitar gotelé en Castellón de la Plana."
+excerpt: "Esta es la política de privacidad que rige el sitio web pintorencastellon.es"
 ---
 
 Fue una vez una técnica de decoración popular, ahora puede ser percibido como desactualizado y difícil de mantener. Afortunadamente, **nuestro servicio para quitar quitar gotelé en Castellón** ofrece una solución moderna y elegante para transformar tus paredes y actualizar el aspecto de tu hogar. Aquí te explicaremos el proceso, las técnicas, las ventajas y, lo más importante, el precio de quitar el gotelé.
