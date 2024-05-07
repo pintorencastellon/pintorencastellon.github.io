@@ -78,7 +78,7 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
 </div>
 
 <section>
-    <h2>Preguntas frecuentes sobre nuestros servicios de pintura</h2>
+    <h2>Algunas preguntas frecuentes</h2>
     <details open>
         <summary>👉 <b>¿Cuánto tiempo tardaremos en completar los trabajos?</b></summary>
         Obtener una estimación clara del tiempo que tardará el pintor decorador en completar el trabajo es crucial para planificar su presupuesto y su tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a sus necesidades.
@@ -90,6 +90,38 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
     <details>
         <summary>👉 <b>¿Qué materiales usarán?</b></summary>
         Es importante que el cliente tenga conocimiento de la calidad de los materiales que el pintor empleará en su trabajo. Siéntase libre de preguntar sobre las marcas y tipos de pintura, papeles pintados u otros materiales.
+    </details>
+        <details>
+        <summary>👉 <b>¿Hay algún tipo de seguro?</b></summary>
+        Por normal general, los pintores-decoradores estamos obligados a contratar un seguro de responsabilidad civil y de accidentes de trabajo para protegerlo en caso de cualquier daño o accidente durante el trabajo.
+    </details>
+        <details>
+        <summary>👉 <b>¿Cómo puedo preparar mi casa para los trabajos de pintura?</b></summary>
+        Consulte previamente con nosotros lo que debe hacer para preparar su casa antes de que comiencen los trabajos. Esto puede incluir mover muebles, cubrir pisos y quitar cuadros y decoraciones. Nosotros podemos ayudarle.
+    </details>
+        <details>
+        <summary>👉 <b>¿Cómo puedo proteger mis pertenencias durante el trabajo?</b></summary>
+        Por lo general, cubriremos sus muebles con lonas o plásticos y colocaremos alfombras protectoras en los suelos.
+    </details>
+        </details>
+        <details>
+        <summary>👉 <b>¿Qué sucede si no estoy satisfecho con el trabajo realizado?</b></summary>
+        Su satisfacción es nuestra prioridad número uno. Si no está satisfecho con el trabajo realizado, haremos todo lo posible para solucionar cualquier problema y garantizar su satisfacción.
+    </details>
+        </details>
+        <details>
+        <summary>👉 <b>¿Qué precauciones toman para garantizar la seguridad durante el trabajo?</b></summary>
+         Cumplimos con todas las normativas de seguridad pertinentes y tomamos precauciones adicionales para garantizar la seguridad de nuestro equipo y de su propiedad.
+    </details>
+        </details>
+        <details>
+        <summary>👉 <b>¿Cuál es su proceso de trabajo, desde la preparación hasta la limpieza final?</b></summary>
+        Nuestro proceso incluye una cuidadosa preparación de la superficie, aplicación de capas de pintura, acabado detallado y limpieza completa al finalizar el trabajo.
+    </details>
+            </details>
+        <details>
+        <summary>👉 <b>¿Cómo manejan los imprevistos o cambios en el proyecto una vez iniciado?</b></summary>
+        Estamos abiertos a comunicarnos y adaptarnos a cualquier cambio o imprevisto que pueda surgir durante el proyecto para garantizar su satisfacción.
     </details>
 </section>
 
