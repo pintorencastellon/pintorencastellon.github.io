@@ -80,15 +80,15 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
 <section>
     <h2>Preguntas frecuentes sobre nuestros servicios de pintura</h2>
     <details open>
-        <summary>¿Cuánto tiempo tardaremos en completar los trabajos?</summary>
+        <summary>👉 <b>¿Cuánto tiempo tardaremos en completar los trabajos?</b></summary>
         Obtener una estimación clara del tiempo que tardará el pintor decorador en completar el trabajo es crucial para planificar su presupuesto y su tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a sus necesidades.
     </details>
     <details>
-        <summary>¿Cuánto me costará?</summary>
+        <summary>👉 <b>¿Cuánto me costará?</b></summary>
         Pídanos un presupuesto detallado que incluya todos los gestos, incluyendo mano de obra, materiales, impuestos y cualquier otro importe adicional. Así podrá comparar con precios de otros pintores decoradores antes de tomar su decisión.
     </details>
     <details>
-        <summary>¿Qué materiales usarán?</summary>
+        <summary👉 <b>>¿Qué materiales usarán?</b></summary>
         Es importante que el cliente tenga conocimiento de la calidad de los materiales que el pintor empleará en su trabajo. Siéntase libre de preguntar sobre las marcas y tipos de pintura, papeles pintados u otros materiales.
     </details>
 </section>
