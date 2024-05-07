@@ -103,26 +103,25 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
         <summary>👉 <b>¿Cómo puedo proteger mis pertenencias durante el trabajo?</b></summary>
         Por lo general, cubriremos sus muebles con lonas o plásticos y colocaremos alfombras protectoras en los suelos.
     </details>
-        </details>
         <details>
         <summary>👉 <b>¿Qué sucede si no estoy satisfecho con el trabajo realizado?</b></summary>
         Su satisfacción es nuestra prioridad número uno. Si no está satisfecho con el trabajo realizado, haremos todo lo posible para solucionar cualquier problema y garantizar su satisfacción.
     </details>
-        </details>
-        <details>
+  
+  <details>
         <summary>👉 <b>¿Qué precauciones toman para garantizar la seguridad durante el trabajo?</b></summary>
          Cumplimos con todas las normativas de seguridad pertinentes y tomamos precauciones adicionales para garantizar la seguridad de nuestro equipo y de su propiedad.
-    </details>
-        </details>
-        <details>
+  </details>
+    
+  <details>
         <summary>👉 <b>¿Cuál es su proceso de trabajo, desde la preparación hasta la limpieza final?</b></summary>
         Nuestro proceso incluye una cuidadosa preparación de la superficie, aplicación de capas de pintura, acabado detallado y limpieza completa al finalizar el trabajo.
-    </details>
-            </details>
-        <details>
+  </details>
+            
+  <details>
         <summary>👉 <b>¿Cómo manejan los imprevistos o cambios en el proyecto una vez iniciado?</b></summary>
         Estamos abiertos a comunicarnos y adaptarnos a cualquier cambio o imprevisto que pueda surgir durante el proyecto para garantizar su satisfacción.
-    </details>
+  </details>
 </section>
 
 
