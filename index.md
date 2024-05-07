@@ -79,22 +79,165 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
 
 ## Preguntas frecuentes sobre nuestros servicios de pintura
 
-<div class="row">
-<div class="column">
-<button class="accordion">¿Cuánto tiempo tardaremos en completar los trabajos?</button>
-<div class="panel">
-  <p>Obtener una estimación clara del tiempo que tardará el pintor decorador en completar el trabajo es crucial para planificar su presupuesto y su tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a sus necesidades.</p>
-</div>
+<!-- start yagi accordion -->
+<style>
 
-<button class="accordion">¿Cuánto me costará?</button>
-<div class="panel">
-  <p>Pídanos un presupuesto detallado que incluya todos los gestos, incluyendo mano de obra, materiales, impuestos y cualquier otro importe adicional. Así podrá comparar con precios de otros pintores decoradores antes de tomar su decisión.</p>
-</div>
+.yagi-accordion button{
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  line-height: inherit;
+  color: inherit;
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+  text-transform: none;
+  -webkit-appearance: button;
+  background-color: rgba(229, 231, 235);
+  background-image: none;
+}
 
-<button class="accordion">¿Qué materiales usarán?</button>
-<div class="panel">
-  <p>Es importante que el cliente tenga conocimiento de la calidad de los materiales que el pintor empleará en su trabajo. Siéntase libre de preguntar sobre las marcas y tipos de pintura, papeles pintados u otros materiales.</p>
-</div>
+.yagi-accordion button p{
+  margin: 0;
+}
 
+.yagi-accordion .mx-auto{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.yagi-accordion .my-2{
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.yagi-accordion .mb-2{
+  margin-bottom: 0.5rem;
+}
+
+.yagi-accordion .flex{
+  display: flex;
+}
+
+.yagi-accordion .table{
+  display: table;
+}
+
+.yagi-accordion .hidden{
+  display: none;
+}
+
+.yagi-accordion .h-6{
+  height: 1.5rem;
+}
+
+.yagi-accordion .max-h-0{
+  max-height: 0px;
+}
+
+.yagi-accordion .max-h-tall{
+  max-height: 100rem;
+}
+
+@media (min-width: 768px){
+  .yagi-accordion .max-h-tall{
+    max-height: 50rem;
+  }
+}
+
+.yagi-accordion .w-6{
+  width: 1.5rem;
+}
+
+.yagi-accordion .w-full{
+  width: 100%;
+}
+
+.yagi-accordion .max-w-prose{
+  max-width: 80ch;
+}
+
+.yagi-accordion .items-center{
+  align-items: center;
+}
+
+.yagi-accordion .justify-between{
+  justify-content: space-between;
+}
+
+.yagi-accordion .overflow-hidden{
+  overflow: hidden;
+}
+
+.yagi-accordion .rounded{
+  border-radius: 0.25rem;
+}
+
+.yagi-accordion .p-3{
+  padding: 0.75rem;
+}
+
+.yagi-accordion .px-2{
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.yagi-accordion .text-left{
+  text-align: left;
+}
+
+.yagi-accordion .font-bold{
+  font-weight: 700;
+}
+
+.yagi-accordion .whitespace-pre-wrap{
+  white-space: pre-wrap;
+}
+
+.yagi-accordion .transition-maxheight{
+  transition-property: max-height;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+.yagi-accordion .duration-500{
+  transition-duration: 500ms;
+}
+
+.yagi-accordion .ease-out{
+  transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+}
+</style>
+<div class="yagi-accordion">
+  <div class="mx-auto max-w-prose px-2">
+    <div class="accordion-item">
+        <button type="button" class="accordion-header w-full flex justify-between items-center my-2 p-3 rounded" onclick="this.nextElementSibling.classList.toggle('max-h-0');this.nextElementSibling.classList.toggle('max-h-tall'); this.querySelector('.plus').classList.toggle('hidden'); this.querySelector('.minus').classList.toggle('hidden');">
+          <p class="font-bold text-left" x-text="accordion.title">Return policy</p>
+          <svg xmlns="http://www.w3.org/2000/svg" class="plus h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path>
+          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" class="minus h-6 w-6 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 12H6"></path>
+          </svg>
+        </button>
+        <div class="accordion-content transition-maxheight ease-out duration-500 overflow-hidden mb-2 max-h-0">
+          <p class="whitespace-pre-wrap" x-html="accordion.content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+        </div>
+      </div><div class="accordion-item">
+        <button type="button" class="accordion-header w-full flex justify-between items-center my-2 p-3 rounded" onclick="this.nextElementSibling.classList.toggle('max-h-0');this.nextElementSibling.classList.toggle('max-h-tall'); this.querySelector('.plus').classList.toggle('hidden'); this.querySelector('.minus').classList.toggle('hidden');">
+          <p class="font-bold text-left" x-text="accordion.title">Your FAQ title here</p>
+          <svg xmlns="http://www.w3.org/2000/svg" class="plus h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path>
+          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" class="minus h-6 w-6 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 12H6"></path>
+          </svg>
+        </button>
+        <div class="accordion-content transition-maxheight ease-out duration-500 max-h-0 overflow-hidden mb-2">
+          <p class="whitespace-pre-wrap" x-html="accordion.content">Your content here</p>
+        </div>
+      </div>
+  </div>
 </div>
-</div>
+<!-- end yagi accordion -->
+
