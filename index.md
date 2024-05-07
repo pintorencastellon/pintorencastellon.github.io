@@ -77,18 +77,19 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
   </div>
 </div>
 
-<section>
-    <h2>Preguntas frecuentes sobre nuestros servicios de pintura</h2>
-    <details open>
-        <summary>¿Cuánto tiempo tardaremos en completar los trabajos?</summary>
-        Obtener una estimación clara del tiempo que tardará el pintor decorador en completar el trabajo es crucial para planificar su presupuesto y su tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a sus necesidades.
-    </details>
-    <details>
-        <summary>¿Cuánto me costará?</summary>
-        Pídanos un presupuesto detallado que incluya todos los gestos, incluyendo mano de obra, materiales, impuestos y cualquier otro importe adicional. Así podrá comparar con precios de otros pintores decoradores antes de tomar su decisión.
-    </details>
-    <details>
-        <summary>¿Qué materiales usarán?</summary>
-        Es importante que el cliente tenga conocimiento de la calidad de los materiales que el pintor empleará en su trabajo. Siéntase libre de preguntar sobre las marcas y tipos de pintura, papeles pintados u otros materiales.
-    </details>
-</section>
+## Preguntas frecuentes sobre nuestros servicios de pintura
+
+<button class="accordion">¿Cuánto tiempo tardaremos en completar los trabajos?</button>
+<div class="panel">
+  <p>Obtener una estimación clara del tiempo que tardará el pintor decorador en completar el trabajo es crucial para planificar su presupuesto y su tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a sus necesidades.</p>
+</div>
+
+<button class="accordion">¿Cuánto me costará?</button>
+<div class="panel">
+  <p>Pídanos un presupuesto detallado que incluya todos los gestos, incluyendo mano de obra, materiales, impuestos y cualquier otro importe adicional. Así podrá comparar con precios de otros pintores decoradores antes de tomar su decisión.</p>
+</div>
+
+<button class="accordion">¿Qué materiales usarán?</button>
+<div class="panel">
+  <p>Es importante que el cliente tenga conocimiento de la calidad de los materiales que el pintor empleará en su trabajo. Siéntase libre de preguntar sobre las marcas y tipos de pintura, papeles pintados u otros materiales.</p>
+</div>
