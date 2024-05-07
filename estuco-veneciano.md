@@ -18,7 +18,7 @@ El estuco veneciano blanco es un tipo de revestimiento decorativo que se caracte
 
 
 <div class="center2">
-{% include button.html text="📞 Pide presupuesto sin compromiso" link="https://wa.me/623064370" %}
+{% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
 </div>
 
 
