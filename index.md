@@ -66,6 +66,10 @@ Nosotros nos comprometemos a proporcionar **servicios de pintura de alta calidad
   </div>
 </div>
 
+<div class="center2">
+{% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
+</div>
+
 En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere **un enfoque personalizado**. Por eso, nos comprometemos a ofrecer los servicios adicionales más completos y adaptados a tus necesidades específicas. Aquí te mostramos algunos de ellos, aunque puedes consultarnos para más:
 
 ## Otros servicios de pintura
@@ -83,6 +87,14 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
     <h5 style="color: #05bf85">Estuco veneciano</h5></a>
     <p>Añade un toque de lujo y sofisticación a tus interiores con nuestro servicio de instalación de estuco veneciano. Una opción sumamente elegante para cualquier espacio.</p>
   </div>
+</div>
+
+## ¿Qué beneficios aporta la contratación de un pintor en Castellón?
+
+Más allá de las aplicación de la pintura, nuestras labores abarcan una inspección detallada de la superficie, reparaciones necesarias y una adecuada preparación antes de pintar o empapelar. Es común pasar por alto la importancia de la preparación, pero un pintor profesional siempre se encargará de realizarla correctamente, evitando atajos. Además, te asesoraremos en la elección del color adecuado y seleccionaremos la pintura apropiada según las necesidades de cada espacio, considerando factores como la humedad, entre otros. Contratar a un pintor realmente profesional te garantiza un acabado aparente y duradero.
+
+<div class="center2">
+{% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
 </div>
 
 <section>
@@ -131,5 +143,13 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
         Estamos abiertos a comunicarnos y adaptarnos a cualquier cambio o imprevisto que pueda surgir durante el proyecto para garantizar su satisfacción.
   </details>
 </section>
+
+## Las tarifas más competitivas en Castellón
+
+Contamos con una amplia experiencia, excelentes recursos y pintores expertos en el sector de la decoración. Si estás buscando pintores especializados en estucos u otros trabajos de pintura de interiores en Castellón, estamos aquí para ayudarte.
+
+Si quieres obtener un presupuesto preciso para tu proyecto, no dudes en solicitarnos un precio ajustado a tu proyecto.
+
+¡[Contáctanos hoy mismo](https://wa.me/623064370) sin compromiso!
 
 
