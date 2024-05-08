@@ -2,7 +2,7 @@
 title: Quitar gotelé en Castellón
 feature_text: |
   # Quitar gotelé en Castellón
-  Transformamos fachadas, protegiendo tu hogar con cada pincelada.
+  Alisa tus paredes, suaviza tu hogar: di adiós al gotelé con nosotros.
 feature_image: "/assets/quitar-gotele.jpg"
 excerpt: "Nos encargamos de quitar gotelé en Castellón de la Plana."
 ---
