@@ -160,6 +160,8 @@ Cuando se trata de pintar tu casa, es crucial seleccionar la pintura adecuada. C
 - La calidad varía; las de baja calidad pueden tener un acabado rugoso.
 - En Pintores en Castellón, empleamops marcas de alta calidad como Valentine, Bruguer o Titanlux.
 
+<img src="/assets/pintores-en-castellon-1.jpeg" alt="Pintores en Castellón" class="center2">
+
 ### Pinturas esmalte:
 
 - Más resistentes que las plásticas, ideales para áreas húmedas o propensas a manchas.
