@@ -70,7 +70,7 @@ Se deben proteger áreas sensibles como marcos de ventanas, puertas y elementos 
 Dependiendo del tipo de pintura impermeabilizante utilizada, es posible que sea necesario diluirla con agua según las instrucciones del fabricante.
 
 ### 4. Aplicación de la primera capa
-Utilizando un rodillo de pintura de alta calidad, se aplica la primera capa de pintura impermeabilizante en la superficie preparada. Se recomienda trabajar de manera uniforme y en secciones pequeñas para garantizar una cobertura completa.
+Utilizando un rodillo para [pintura exterior](https://pintorencastellon.es/pintura-exterior) de alta calidad, se aplica la primera capa de pintura impermeabilizante en la superficie preparada. Se recomienda trabajar de manera uniforme y en secciones pequeñas para garantizar una cobertura completa.
 
 ### 5. Espera y secado
 Es importante permitir que la primera capa de pintura se seque completamente antes de aplicar la segunda capa. El tiempo de secado puede variar según las condiciones ambientales y el tipo de pintura utilizada.
