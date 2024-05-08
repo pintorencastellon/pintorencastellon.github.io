@@ -146,9 +146,9 @@ Más allá de las aplicación de la pintura, nuestras labores abarcan una inspec
 
 ## Las tarifas más competitivas en Castellón
 
-Contamos con una amplia experiencia, excelentes recursos y pintores expertos en el sector de la decoración. Si estás buscando pintores especializados en estucos u otros trabajos de pintura de interiores en Castellón, estamos aquí para ayudarte.
+Contamos con una amplia experiencia, excelentes recursos y pintores expertos en el sector de la decoración. Si estás buscando pintores especializados en [estucos](https://pintorencastellon.es/estuco-veneciano/) u otros trabajos de [pintura de interiores en Castellón](https://pintorencastellon.es/pintura-interior/), estamos aquí para ayudarte.
 
-Si quieres obtener un presupuesto preciso para tu proyecto, no dudes en solicitarnos un precio ajustado a tu proyecto.
+Si quieres obtener un presupuesto preciso para tu proyecto, **no dudes en solicitarnos un precio ajustado** a tu proyecto.
 
 ¡[Contáctanos hoy mismo](https://wa.me/623064370) sin compromiso!
 
