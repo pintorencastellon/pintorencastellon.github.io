@@ -4,7 +4,7 @@ feature_text: |
   # Pintura Impermeabilizante Exterior
   Tu escudo contra la humedad y el tiempo.
 feature_image: "/assets/pintura-exterior.jpg"
-excerpt: "Servicio de Pintura Impermeabilizante Exterior en Castellón de la Plana."
+excerpt: "Protege tu hogar de las inclemencias del tiempo con nuestra pintura impermeabilizante exterior en Castellón. Consulta hoy mismo."
 ---
 
 La pintura impermeabilizante exterior es un recurso fundamental en climas como el de Castellón, donde las precipitaciones son comunes. Queremos explicarle en detalle qué es, cómo funciona y por qué es importante nuestro servicio en la protección y decoración de los exteriores en esta región.
