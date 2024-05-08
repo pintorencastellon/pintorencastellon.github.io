@@ -4,7 +4,7 @@ feature_text: |
   # Papel pintado en Castellón
   Transforma tu hogar con estilo: elige papel pintado y vive en color.
 feature_image: "/assets/pintura-interior.jpg"
-excerpt: "Aplicación Profesional de Papel Pintado en Castellón de la Plana y provincia."
+excerpt: "Transforma tus espacios con papel pintado de calidad en Castellón. Expertos en instalación para un ambiente único."
 ---
 
 El papel pintado es una excelente opción para decorar y personalizar espacios en viviendas particulares. Ofrece una amplia variedad de diseños, colores y texturas que pueden **transformar una habitación de manera rápida y económica**. Te explicamos todo lo relacionado con la instalación de este material en viviendas particulares, desde la preparación de la superficie hasta los consejos de mantenimiento.
