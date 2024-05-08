@@ -4,7 +4,7 @@ feature_text: |
   # Pintura de Fachadas en Castellón
   Transformamos fachadas, protegiendo tu hogar con cada pincelada.
 feature_image: "/assets/pintura-exterior.jpg"
-excerpt: "Pintura Profesional de Fachadas en Castellón de la Plana."
+excerpt: "Pintura Profesional de Fachadas en Castellón de la Plana. Expertos en dar nueva vida a tu edificio. Solicita tu presupuesto hoy."
 ---
 
 El aspecto exterior de un edificio es crucial para su apariencia y durabilidad. La pintura y rehabilitación de fachadas no solo mejora la estética, sino que también protege la estructura contra los elementos. Aquí exploraremos en detalle todo lo que necesitas saber sobre nuestro servicio de pintura de fachadas, desde su importancia hasta el proceso de aplicación final.
