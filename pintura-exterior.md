@@ -39,7 +39,7 @@ Nuestra empresa ofrece una amplia gama de colores y acabados para adaptarse a lo
 Antes de aplicar la pintura, nuestro equipo de profesionales realiza una preparación exhaustiva de la superficie para garantizar resultados duraderos y de alta calidad. Esto puede incluir la **limpieza, el lijado, el sellado de grietas y la reparación de cualquier daño existente**, asegurando que la pintura se adhiera de manera óptima y se vea impecable.
 
 ### 4. Aplicación precisa y eficiente
-Utilizamos técnicas de aplicación de vanguardia y equipos de última generación para garantizar una aplicación precisa y eficiente de la pintura. Nuestros pintores expertos están capacitados para trabajar con precisión y atención al detalle, **asegurando un acabado uniforme y profesional** en todas las áreas de la casa.
+Utilizamos técnicas de aplicación de vanguardia y equipos de última generación para garantizar una aplicación precisa y eficiente de la pintura. Nuestros [pintores expertos en Castellón](https://pintorencastellon.es) están capacitados para trabajar con precisión y atención al detalle, **asegurando un acabado uniforme y profesional** en todas las áreas de la casa.
 
 ### 5. Resultados duraderos y de calidad superior
 Nuestro compromiso con la excelencia se refleja en cada proyecto que realizamos. Nos enorgullecemos de ofrecer resultados duraderos y de calidad superior que superen las expectativas de nuestros clientes. Desde la preparación inicial hasta la aplicación final, nos esforzamos por **garantizar la satisfacción completa en cada etapa del proceso**.
