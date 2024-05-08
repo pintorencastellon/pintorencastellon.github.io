@@ -43,6 +43,10 @@ Pero antes, te invitamos a conocer más a fondo **nuestros servicios**:
   </div>
 </div>
 
+## La limpieza es nuestra prioridad
+
+Nuestros pintores en Castellón valoran tanto la calidad del acabado como la pulcritud del entorno. Antes de comenzar cualquier trabajo, nuestros profesionales se aseguran de preparar meticulosamente el área de trabajo para evitar manchas. Después de completar el proyecto, **se encargan de limpiar a fondo la zona, dejándola impecable**.
+
 ## Somos tus pintores económicos en Castellón
 
 Si buscas un pintor asequible en Castellón que ofrezca la mejor relación calidad-precio y si deseas obtener un servicio de pintura de alta calidad y acabados excepcionales sin pagar de más, **has llegado al lugar adecuado**.
