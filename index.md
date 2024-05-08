@@ -95,7 +95,9 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
 
 ## ¿Qué beneficios aporta la contratación de un pintor en Castellón?
 
-Más allá de las aplicación de la pintura, nuestras labores abarcan una inspección detallada de la superficie, reparaciones necesarias y una adecuada preparación antes de pintar o empapelar. Es común pasar por alto la importancia de la preparación, pero un pintor profesional siempre se encargará de realizarla correctamente, evitando atajos. Además, te asesoraremos en la elección del color adecuado y seleccionaremos la pintura apropiada según las necesidades de cada espacio, considerando factores como la humedad, entre otros. Contratar a un pintor realmente profesional te garantiza un acabado aparente y duradero.
+Más allá de las aplicación de la pintura, nuestras labores abarcan una inspección detallada de la superficie, reparaciones necesarias y **una adecuada preparación antes de pintar o empapelar**. Es común pasar por alto la importancia de la preparación, pero un pintor profesional siempre se encargará de realizarla correctamente, evitando atajos. 
+
+Además, **te asesoraremos en la elección del color adecuado** y seleccionaremos la pintura apropiada según las necesidades de cada espacio, considerando factores como la humedad, entre otros. Contratar a un pintor realmente profesional te garantiza un acabado aparente y duradero.
 
 <div class="center2">
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
