@@ -15,26 +15,30 @@ Pero antes, te invitamos a conocer más a fondo **nuestros servicios**:
 
 <div class="row">
   <div class="column">
+  <a href="https://pintorencastellon.es/pintura-blanca-interior/">
     <img src="/assets/pintura blanca interior en castellon 1.jpeg" alt="Pintura blanca interior en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/pintura-blanca-interior/"><h5 style="color: #05bf85">Pintura blanca interior</h5></a>
+    <h5 style="color: #05bf85">Pintura blanca interior</h5></a>
     <p>La pintura blanca interior es una elección clásica y versátil para cualquier interior. Podemos ayudarte a crear un ambiente luminoso, amplio y acogedor en tu hogar u oficina.</p>
   </div>
   <div class="column">
+  <a href="https://pintorencastellon.es/pintura-termica-interior/">
     <img src="/assets/pintura termica interior en castellon 1.jpeg" alt="Pintura térmica interior en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/pintura-termica-interior/"><h5 style="color: #05bf85">Pintura térmica interior</h5></a>
+    <h5 style="color: #05bf85">Pintura térmica interior</h5></a>
     <p>Nuestra pintura térmica ayuda a reducir la pérdida de calor en invierno y mantiene tu espacio fresco en verano, proporcionando confort térmico durante todo el año.</p>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
+  <a href="https://pintorencastellon.es/papel-pintado/">
     <img src="/assets/papel pintado en castellon 1.jpeg" alt="Papel pintado en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/papel-pintado/"><h5 style="color: #05bf85">Papel pintado</h5></a>
+    <h5 style="color: #05bf85">Papel pintado</h5></a>
     <p>Agrega textura, patrón y personalidad a tus paredes con nuestro servicio de instalación de papel pintado. Desde diseños clásicos hasta modernos, tenemos una amplia selección.</p>
   </div>
   <div class="column">
+  <a href="https://pintorencastellon.es/pintura-azulejos-bano/">
     <img src="/assets/pintura de azulejos baño en castellon 1.jpeg" alt="Pintura de azulejos baño en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/pintura-azulejos-bano/"><h5 style="color: #05bf85">Pintura azulejos baño</h5></a>
+    <h5 style="color: #05bf85">Pintura azulejos baño</h5></a>
     <p>Nuestro servicio de pintura de azulejos de baños ofrece una solución rápida y económica para actualizar el aspecto de tus paredes y suelos.</p>
   </div>
 </div>
@@ -49,13 +53,15 @@ Nosotros nos comprometemos a proporcionar **servicios de pintura de alta calidad
 
 <div class="row">
   <div class="column">
+  <a href="https://pintorencastellon.es/pintura-de-fachadas/">
     <img src="/assets/pintura de fachadas en castellon 1.jpeg" alt="Pintura de fachadas en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/pintura-de-fachadas/"><h5 style="color: #05bf85">Pintura de fachadas</h5></a>
+    <h5 style="color: #05bf85">Pintura de fachadas</h5></a>
     <p>Con nuestra pintura de fachadas de alta calidad, podemos revitalizar y proteger la apariencia exterior de tu propiedad, ofreciendo una protección duradera contra los elementos.</p>
   </div>
   <div class="column">
+  <a href="https://pintorencastellon.es/pintura-impermeabilizante-exterior/">
     <img src="/assets/pintura impermeabilizante exterior en castellon 1.jpg" alt="Pintura impermeabilizante exterior en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/pintura-impermeabilizante-exterior/"><h5 style="color: #05bf85">Pintura impermeabilizante exterior</h5></a>
+    <h5 style="color: #05bf85">Pintura impermeabilizante exterior</h5></a>
     <p>Mantén tu vivienda segura y protegida contra la humedad y las filtraciones con nuestro servicio profesional de pintura impermeabilizante exterior.</p>
   </div>
 </div>
@@ -66,13 +72,15 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
 
 <div class="row">
   <div class="column">
+  <a href="https://pintorencastellon.es/quitar-gotele-castellon/">
     <img src="/assets/quitar gotele en castellon 1.jpeg" alt="Quitar gotelé en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/quitar-gotele-castellon/"><h5 style="color: #05bf85">Quitar gotelé</h5></a>
+    <h5 style="color: #05bf85">Quitar gotelé</h5></a>
     <p>Con nuestro servicio de eliminación de gotelé, podemos suavizar las superficies y dejarlas lisas y modernas, listas para una nueva capa de pintura o acabado decorativo.</p>
   </div>
   <div class="column">
+  <a href="https://pintorencastellon.es/estuco-veneciano/">
     <img src="/assets/estuco veneciano blanco en castellon 1.jpeg" alt="Estuco veneciano blanco en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/estuco-veneciano/"><h5 style="color: #05bf85">Estuco veneciano</h5></a>
+    <h5 style="color: #05bf85">Estuco veneciano</h5></a>
     <p>Añade un toque de lujo y sofisticación a tus interiores con nuestro servicio de instalación de estuco veneciano. Una opción sumamente elegante para cualquier espacio.</p>
   </div>
 </div>
