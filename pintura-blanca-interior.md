@@ -4,7 +4,7 @@ feature_text: |
   # Pintura blanca interior en Castellón
   Transforma tu hogar con luz y amplitud: haz brillar cada espacio.
 feature_image: "/assets/pintura-interior.jpg"
-excerpt: "Nos encargamos de trabajos profesionales de pintura blanca interior en Castellón de la Plana y provincia."
+excerpt: "Da vida a tus interiores con nuestra pintura blanca en Castellón. Calidad y profesionalidad garantizados."
 ---
 
 La elección del color de la pintura para interiores de viviendas es una decisión importante que puede tener un gran impacto en la apariencia y el ambiente de un espacio. Entre todas las opciones disponibles, la pintura blanca sigue siendo una de las más populares debido a su versatilidad, luminosidad y capacidad para hacer que los espacios parezcan más amplios y acogedores.
