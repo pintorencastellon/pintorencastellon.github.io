@@ -105,15 +105,15 @@ Más allá de las aplicación de la pintura, nuestras labores abarcan una inspec
     <h2>Algunas preguntas frecuentes</h2>
     <details open>
         <summary>👉 <b>¿Cuánto tiempo tardaremos en completar los trabajos?</b></summary>
-        Obtener una estimación clara del tiempo que tardará el pintor decorador en completar el trabajo es crucial para planificar su presupuesto y su tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a sus necesidades.
+        Obtener una estimación clara del tiempo que tardará el pintor decorador en completar el trabajo es crucial para planificar tu presupuesto y tu tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a tus necesidades.
     </details>
     <details>
         <summary>👉 <b>¿Cuánto me costará?</b></summary>
-        Pídanos un presupuesto detallado que incluya todos los gestos, incluyendo mano de obra, materiales, impuestos y cualquier otro importe adicional. Así podrá comparar con precios de otros pintores decoradores antes de tomar su decisión.
+        Pídenos un presupuesto detallado que incluya todos los gestos, incluyendo mano de obra, materiales, impuestos y cualquier otro importe adicional. Así podrás comparar con precios de otros pintores decoradores antes de tomar tu decisión.
     </details>
     <details>
         <summary>👉 <b>¿Qué materiales usarán?</b></summary>
-        Es importante que el cliente tenga conocimiento de la calidad de los materiales que el pintor empleará en su trabajo. Siéntase libre de preguntar sobre las marcas y tipos de pintura, papeles pintados u otros materiales.
+        Es importante que el cliente tenga conocimiento de la calidad de los materiales que el pintor empleará en su trabajo. Siéntete libre de preguntar sobre las marcas y tipos de pintura, papeles pintados u otros materiales.
     </details>
         <details>
         <summary>👉 <b>¿Hay algún tipo de seguro?</b></summary>
@@ -121,30 +121,30 @@ Más allá de las aplicación de la pintura, nuestras labores abarcan una inspec
     </details>
         <details>
         <summary>👉 <b>¿Cómo puedo preparar mi casa para los trabajos de pintura?</b></summary>
-        Consulte previamente con nosotros lo que debe hacer para preparar su casa antes de que comiencen los trabajos. Esto puede incluir mover muebles, cubrir pisos y quitar cuadros y decoraciones. Nosotros podemos ayudarle.
+        Consulta previamente con nosotros lo que debes hacer para preparar tu casa antes de que comiencen los trabajos. Esto puede incluir mover muebles, cubrir pisos y quitar cuadros y decoraciones. Nosotros podemos ayudarte.
     </details>
         <details>
         <summary>👉 <b>¿Cómo puedo proteger mis pertenencias durante el trabajo?</b></summary>
-        Por lo general, cubriremos sus muebles con lonas o plásticos y colocaremos alfombras protectoras en los suelos.
+        Por lo general, cubriremos tus muebles con lonas o plásticos y colocaremos alfombras protectoras en los suelos.
     </details>
         <details>
         <summary>👉 <b>¿Qué sucede si no estoy satisfecho con el trabajo realizado?</b></summary>
-        Su satisfacción es nuestra prioridad número uno. Si no está satisfecho con el trabajo realizado, haremos todo lo posible para solucionar cualquier problema y garantizar su satisfacción.
+        Tu satisfacción es nuestra prioridad número uno. Si no estás satisfecho con el trabajo realizado, haremos todo lo posible para solucionar cualquier problema y garantizar tu satisfacción.
     </details>
   
   <details>
         <summary>👉 <b>¿Qué precauciones toman para garantizar la seguridad durante el trabajo?</b></summary>
-         Cumplimos con todas las normativas de seguridad pertinentes y tomamos precauciones adicionales para garantizar la seguridad de nuestro equipo y de su propiedad.
+         Cumplimos con todas las normativas de seguridad pertinentes y tomamos precauciones adicionales para garantizar la seguridad de nuestro equipo y de tu propiedad.
   </details>
     
   <details>
-        <summary>👉 <b>¿Cuál es su proceso de trabajo, desde la preparación hasta la limpieza final?</b></summary>
+        <summary>👉 <b>¿Cuál es vuestro proceso de trabajo, desde la preparación hasta la limpieza final?</b></summary>
         Nuestro proceso incluye una cuidadosa preparación de la superficie, aplicación de capas de pintura, acabado detallado y limpieza completa al finalizar el trabajo.
   </details>
             
   <details>
-        <summary>👉 <b>¿Cómo manejan los imprevistos o cambios en el proyecto una vez iniciado?</b></summary>
-        Estamos abiertos a comunicarnos y adaptarnos a cualquier cambio o imprevisto que pueda surgir durante el proyecto para garantizar su satisfacción.
+        <summary>👉 <b>¿Cómo gestionáis los imprevistos o cambios en el proyecto una vez iniciado?</b></summary>
+        Estamos abiertos a comunicarnos y adaptarnos a cualquier cambio o imprevisto que pueda surgir durante el proyecto para garantizar tu satisfacción.
   </details>
 </section>
 
