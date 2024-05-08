@@ -5,6 +5,13 @@ feature_text: |
   Trabajos de pintura profesionales en la provincia de Castellón.
 feature_image: "/assets/pintor-en-castellon.jpg"
 excerpt: "Somos tu pintor en Castellón de confianza. Expertos en decoración y pintura para transformar tus espacios. ¡Contáctanos para un servicio de calidad!"
+
+accordion: 
+  - title: this is item 1
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  - title: this is item 2
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    
 ---
 
 Bienvenido a Pintor en Castellón, **tu experto en pintura y decoración**. Con una pasión por embellecer y transformar espacios, ofrecemos una amplia gama de servicios de alta calidad para satisfacer todas tus necesidades de pintura exterior o interior. Descubre cómo podemos convertir tus ideas en realidad y dar vida a tus proyectos con nuestro equipo de profesionales altamente cualificados.
@@ -151,6 +158,9 @@ Además, **te asesoraremos en la elección del color adecuado** y seleccionaremo
         Estamos abiertos a comunicarnos y adaptarnos a cualquier cambio o imprevisto que pueda surgir durante el proyecto para garantizar tu satisfacción.
   </details>
 </section>
+
+{% include accordion.html %}
+
 
 ### Eligiendo la pintura adecuada para tu hogar
 
