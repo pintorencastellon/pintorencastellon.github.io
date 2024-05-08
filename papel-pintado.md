@@ -108,4 +108,3 @@ Aquí tienes algunos ejemplos de precios orientativos para que te hagas una mejo
 - Empapelar un salón de 20 m² con papel pintado lavable: **Entre 300 € y 500 €**.
 - Empapelar una vivienda completa de 100 m² con papel pintado de alta calidad: **Entre 1.500 € y 3.000 €**.
 
-<img src="/assets/papel pintado en castellon 7.jpeg" alt="Papel pintado en Castellón" class="center2">
