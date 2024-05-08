@@ -11,12 +11,14 @@ El exterior de una casa es su carta de presentación al mundo exterior, y la cal
 
 <div class="row">
   <div class="column">
+  <a href="https://pintorencastellon.es/pintura-de-fachadas/">
     <img src="/assets/pintura de fachadas en castellon 1.jpeg" alt="Pintura de fachadas en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/pintura-de-fachadas/"><h5 style="color: #05bf85">Pintura de fachadas</h5></a>
+    <h5 style="color: #05bf85">Pintura de fachadas</h5></a>
   </div>
   <div class="column">
+  <a href="https://pintorencastellon.es/pintura-impermeabilizante-exterior/">
     <img src="/assets/pintura impermeabilizante exterior en castellon 1.jpg" alt="Pintura impermeabilizante exterior en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/pintura-impermeabilizante-exterior/"><h5 style="color: #05bf85">Pintura impermeabilizante exterior</h5></a>
+    <h5 style="color: #05bf85">Pintura impermeabilizante exterior</h5></a>
   </div>
 </div>
 
