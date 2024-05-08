@@ -13,23 +13,27 @@ Pero antes, te mostramos todos los servicios que podemos ofrecerte para renovar 
 
 <div class="row">
   <div class="column">
+  <a href="https://pintorencastellon.es/pintura-blanca-interior/">
     <img src="/assets/pintura blanca interior en castellon 1.jpeg" alt="Pintura blanca interior en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/pintura-blanca-interior/"><h5 style="color: #05bf85">Pintura blanca interior</h5></a>
+    <h5 style="color: #05bf85">Pintura blanca interior</h5></a>
   </div>
   <div class="column">
+  <a href="https://pintorencastellon.es/pintura-termica-interior/">
     <img src="/assets/pintura termica interior en castellon 1.jpeg" alt="Pintura térmica interior en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/pintura-termica-interior/"><h5 style="color: #05bf85">Pintura térmica interior</h5></a>
+    <h5 style="color: #05bf85">Pintura térmica interior</h5></a>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
+  <a href="https://pintorencastellon.es/papel-pintado/">
     <img src="/assets/papel pintado en castellon 1.jpeg" alt="Papel pintado en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/papel-pintado/"><h5 style="color: #05bf85">Papel pintado</h5></a>
+    <h5 style="color: #05bf85">Papel pintado</h5></a>
   </div>
   <div class="column">
+  <a href="https://pintorencastellon.es/pintura-azulejos-bano/">
     <img src="/assets/pintura de azulejos baño en castellon 1.jpeg" alt="Pintura de azulejos baño en Castellón" style="width:100%">
-    <a href="https://pintorencastellon.es/pintura-azulejos-bano/"><h5 style="color: #05bf85">Pintura azulejos baño</h5></a>
+    <h5 style="color: #05bf85">Pintura azulejos baño</h5></a>
   </div>
 </div>
 
