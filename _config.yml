@@ -93,7 +93,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: es-ES # Set the site language
 title: "Pintor en Castellón" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo2.png" # Site logo, also used in jekyll-seo-tag
-description: "Servicios de pintor en Castellón profesionales. Calidad y eficiencia garantizada. Contáctanos para transformar tu espacio hoy." # Site description and default description, also used in jekyll-seo-tag
+description: "Servicios de pintura en Castellón profesionales. Calidad y eficiencia garantizada. Contáctanos para transformar tu espacio hoy." # Site description and default description, also used in jekyll-seo-tag
 url: "https://pintorencastellon.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
