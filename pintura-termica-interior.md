@@ -38,7 +38,7 @@ Ahora que hemos explorado qué es y cómo funciona la pintura térmica interior,
    Al reducir la pérdida de calor en invierno y bloquear el calor en verano, la pintura térmica interior contribuye a crear un ambiente interior más confortable durante todo el año. Esto significa que podrás disfrutar de **un hogar más acogedor** sin tener que depender tanto de sistemas de calefacción o aire acondicionado.
 
 ### 3. **Protege las paredes:**
-   Además de sus beneficios térmicos, este tipo de pintura también puede ayudar a proteger las paredes de tu hogar contra el desgaste y la degradación. Al actuar como una barrera contra el calor y la humedad, esta pintura puede ayudar a **prevenir daños** como la formación de moho o la decoloración de la pintura.
+   Además de sus beneficios térmicos, este tipo de [pintura para interiores](https://pintorencastellon.es/pintura-interior/) también puede ayudar a proteger las paredes de tu hogar contra el desgaste y la degradación. Al actuar como una barrera contra el calor y la humedad, esta pintura puede ayudar a **prevenir daños** como la formación de moho o la decoloración de la misma.
 
 ### 4. **Reduce el impacto ambiental:**
    Al reducir el consumo de energía de tu hogar, la pintura térmica interior también puede ayudar a **reducir tu huella de carbono y minimizar el impacto ambiental** de tu estilo de vida. Esto hace que sea una opción eco-friendly para aquellos que buscan formas de vivir de manera más sostenible.
