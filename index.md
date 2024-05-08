@@ -7,11 +7,27 @@ feature_image: "/assets/pintor-en-castellon.jpg"
 excerpt: "Somos tu pintor en Castellón de confianza. Expertos en decoración y pintura para transformar tus espacios. ¡Contáctanos para un servicio de calidad!"
 
 accordion: 
-  - title: this is item 1
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-  - title: this is item 2
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    
+  - title: 👉 <b>¿Cuánto tiempo tardaremos en completar los trabajos?</b>
+    content: Obtener una estimación clara del tiempo que tardará el pintor decorador en completar el trabajo es crucial para planificar tu presupuesto y tu tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a tus necesidades.
+  - title: 👉 <b>¿Cuánto me costará?</b>
+    content: Pídenos un presupuesto detallado que incluya todos los gestos, incluyendo mano de obra, materiales, impuestos y cualquier otro importe adicional. Así podrás comparar con precios de otros pintores decoradores antes de tomar tu decisión.
+  - title: 👉 <b>¿Qué materiales usarán?</b>
+    content: Es importante que el cliente tenga conocimiento de la calidad de los materiales que el pintor empleará en su trabajo. Siéntete libre de preguntar sobre las marcas y tipos de pintura, papeles pintados u otros materiales.
+  - title: 👉 <b>¿Hay algún tipo de seguro?</b>
+    content: Por normal general, los pintores-decoradores estamos obligados a contratar un seguro de responsabilidad civil y de accidentes de trabajo para protegerlo en caso de cualquier daño o accidente durante el trabajo.
+  - title: 👉 <b>¿Cómo puedo preparar mi casa para los trabajos de pintura?</b>
+    content: Consulta previamente con nosotros lo que debes hacer para preparar tu casa antes de que comiencen los trabajos. Esto puede incluir mover muebles, cubrir pisos y quitar cuadros y decoraciones. Nosotros podemos ayudarte.
+  - title: 👉 <b>¿Cómo puedo proteger mis pertenencias durante el trabajo?</b>
+    content: Por lo general, cubriremos tus muebles con lonas o plásticos y colocaremos alfombras protectoras en los suelos.
+  - title: 👉 <b>¿Qué sucede si no estoy satisfecho con el trabajo realizado?</b>
+    content: Tu satisfacción es nuestra prioridad número uno. Si no estás satisfecho con el trabajo realizado, haremos todo lo posible para solucionar cualquier problema y garantizar tu satisfacción.
+  - title: 👉 <b>¿Qué precauciones toman para garantizar la seguridad durante el trabajo?</b>
+    content: Cumplimos con todas las normativas de seguridad pertinentes y tomamos precauciones adicionales para garantizar la seguridad de nuestro equipo y de tu propiedad.
+  - title: 👉 <b>¿Cuál es vuestro proceso de trabajo, desde la preparación hasta la limpieza final?</b>
+    content: Nuestro proceso incluye una cuidadosa preparación de la superficie, aplicación de capas de pintura, acabado detallado y limpieza completa al finalizar el trabajo.
+  - title: 👉 <b>¿Cómo gestionáis los imprevistos o cambios en el proyecto una vez iniciado?</b>
+    content: Estamos abiertos a comunicarnos y adaptarnos a cualquier cambio o imprevisto que pueda surgir durante el proyecto para garantizar tu satisfacción.
+
 ---
 
 Bienvenido a Pintor en Castellón, **tu experto en pintura y decoración**. Con una pasión por embellecer y transformar espacios, ofrecemos una amplia gama de servicios de alta calidad para satisfacer todas tus necesidades de pintura exterior o interior. Descubre cómo podemos convertir tus ideas en realidad y dar vida a tus proyectos con nuestro equipo de profesionales altamente cualificados.
@@ -112,52 +128,7 @@ Además, **te asesoraremos en la elección del color adecuado** y seleccionaremo
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
 </div>
 
-<section>
-    <h2>Algunas preguntas frecuentes</h2>
-    <details open>
-        <summary>👉 <b>¿Cuánto tiempo tardaremos en completar los trabajos?</b></summary>
-        Obtener una estimación clara del tiempo que tardará el pintor decorador en completar el trabajo es crucial para planificar tu presupuesto y tu tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a tus necesidades.
-    </details>
-    <details>
-        <summary>👉 <b>¿Cuánto me costará?</b></summary>
-        Pídenos un presupuesto detallado que incluya todos los gestos, incluyendo mano de obra, materiales, impuestos y cualquier otro importe adicional. Así podrás comparar con precios de otros pintores decoradores antes de tomar tu decisión.
-    </details>
-    <details>
-        <summary>👉 <b>¿Qué materiales usarán?</b></summary>
-        Es importante que el cliente tenga conocimiento de la calidad de los materiales que el pintor empleará en su trabajo. Siéntete libre de preguntar sobre las marcas y tipos de pintura, papeles pintados u otros materiales.
-    </details>
-        <details>
-        <summary>👉 <b>¿Hay algún tipo de seguro?</b></summary>
-        Por normal general, los pintores-decoradores estamos obligados a contratar un seguro de responsabilidad civil y de accidentes de trabajo para protegerlo en caso de cualquier daño o accidente durante el trabajo.
-    </details>
-        <details>
-        <summary>👉 <b>¿Cómo puedo preparar mi casa para los trabajos de pintura?</b></summary>
-        Consulta previamente con nosotros lo que debes hacer para preparar tu casa antes de que comiencen los trabajos. Esto puede incluir mover muebles, cubrir pisos y quitar cuadros y decoraciones. Nosotros podemos ayudarte.
-    </details>
-        <details>
-        <summary>👉 <b>¿Cómo puedo proteger mis pertenencias durante el trabajo?</b></summary>
-        Por lo general, cubriremos tus muebles con lonas o plásticos y colocaremos alfombras protectoras en los suelos.
-    </details>
-        <details>
-        <summary>👉 <b>¿Qué sucede si no estoy satisfecho con el trabajo realizado?</b></summary>
-        Tu satisfacción es nuestra prioridad número uno. Si no estás satisfecho con el trabajo realizado, haremos todo lo posible para solucionar cualquier problema y garantizar tu satisfacción.
-    </details>
-  
-  <details>
-        <summary>👉 <b>¿Qué precauciones toman para garantizar la seguridad durante el trabajo?</b></summary>
-         Cumplimos con todas las normativas de seguridad pertinentes y tomamos precauciones adicionales para garantizar la seguridad de nuestro equipo y de tu propiedad.
-  </details>
-    
-  <details>
-        <summary>👉 <b>¿Cuál es vuestro proceso de trabajo, desde la preparación hasta la limpieza final?</b></summary>
-        Nuestro proceso incluye una cuidadosa preparación de la superficie, aplicación de capas de pintura, acabado detallado y limpieza completa al finalizar el trabajo.
-  </details>
-            
-  <details>
-        <summary>👉 <b>¿Cómo gestionáis los imprevistos o cambios en el proyecto una vez iniciado?</b></summary>
-        Estamos abiertos a comunicarnos y adaptarnos a cualquier cambio o imprevisto que pueda surgir durante el proyecto para garantizar tu satisfacción.
-  </details>
-</section>
+## Algunas preguntas frecuentes
 
 {% include accordion.html %}
 
