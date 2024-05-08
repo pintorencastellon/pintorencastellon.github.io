@@ -14,7 +14,7 @@ Es una técnica de decoración que consiste en aplicar una capa de pintura con g
 
 <img src="/assets/quitar gotele en castellon 1.jpeg" alt="Quitar gotelé en Castellón" class="center2">
 
-## 2. Nuestro proceso para quitar el gotelé:
+## 2. Nuestro proceso para quitar el gotelé
 El proceso de quitar gotelé puede variar según el tipo de superficie y la técnica utilizada, pero generalmente sigue estos pasos:
    - **Preparación**: Se protegen los muebles y el suelo con plásticos y se retiran los elementos decorativos de la pared.
    - **Humectación**: Se humedece la superficie del gotelé con agua o un agente humectante para ablandar la textura y facilitar su eliminación.
@@ -24,7 +24,7 @@ El proceso de quitar gotelé puede variar según el tipo de superficie y la téc
 
 <img src="/assets/quitar gotele en castellon 2.jpeg" alt="Quitar gotelé en Castellón" class="center2">
 
-## 3. Técnicas para quitar el gotelé:
+## 3. Técnicas para quitar el gotelé
 Existen diversas técnicas para quitar este producto de las paredes, y la elección de una u otra dependerá del tipo de gotelé (al temple o plástico) y de las preferencias personales. Aquí puedes ver un resumen de las técnicas más habituales:
 
 <div class="center2">
@@ -49,7 +49,7 @@ Es importante recordar que, independientemente de la técnica elegida, **siempre
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
 </div>
 
-## 4. Beneficios para el cliente de quitar el gotelé:
+## 4. Beneficios para el cliente de quitar el gotelé
 Quitar el gotelé puede ofrecer una serie de beneficios, incluyendo:
    - **Aspecto moderno**: Las paredes lisas y sin textura ofrecen un aspecto más moderno y elegante.
    - **Fácil mantenimiento**: Las paredes lisas son más fáciles de limpiar y mantener que las texturizadas.
@@ -62,7 +62,7 @@ Al quitar el gotelé, es importante tener en cuenta algunos aspectos cruciales, 
 
 <img src="/assets/quitar gotele en castellon 5.jpeg" alt="Quitar gotelé en Castellón" class="center2">
 
-## 6. El Precio de quitar el gotelé
+## 6. Precio de quitar el gotelé en Castellón
 El precio de quitar el gotelé de tu vivienda puede oscilar entre 5 €/m² y 15 €/m², dependiendo de varios factores:
 
 - **Superficie**: Cuantos más metros cuadrados tenga la superficie con gotelé, mayor será el precio total.
@@ -79,7 +79,7 @@ El precio de quitar el gotelé de tu vivienda puede oscilar entre 5 €/m² y 15
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
 </div>
 
-- **Mano de obra**: El precio de la mano de obra puede variar según la empresa y la zona geográfica.
+- **Mano de obra**: El precio de la mano de obra de los [pintores en Castellón](https://pintorencastellon.es) suele variar bastante.
 
 - **Materiales**: El precio de los materiales también puede variar, dependiendo de la calidad y la marca.
 
