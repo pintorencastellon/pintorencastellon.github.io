@@ -47,22 +47,22 @@ Junto a su función impermeabilizante, esta pintura también puede mejorar el as
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
 </div>
 
-## 6. Cómo aplicamos la pintura: proceso completo
+## 6. Cómo aplicamos este tipo de pintura: nuestro proceso completo
 
 Un correcto proceso de aplicación de pintura impermeabilizante exterior es crucial para garantizar su eficacia y durabilidad. Aquí detallamos paso a paso cómo lo llevamos a término:
 
 ### 1. Preparación de la superficie a trabajar
 Antes de aplicar la pintura impermeabilizante, es fundamental preparar adecuadamente la superficie. Esto incluye:
 
-- **Limpieza:** Eliminar cualquier suciedad, polvo, grasa o residuos de la superficie con agua y detergente.
-- **Reparación de Grietas:** Rellenar cualquier grieta o fisura en la pared con masilla para asegurar una superficie uniforme.
+- **Limpieza:** Eliminamos cualquier suciedad, polvo, grasa o residuos de la superficie con agua y detergente.
+- **Reparación de Grietas:** Rellenamos cualquier grieta o fisura en la pared con masilla para asegurar una superficie uniforme.
 
 <div class="center2">
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
 </div>
 
 ### 2. Protección de áreas sensibles
-Se deben proteger áreas sensibles como marcos de ventanas, puertas y elementos decorativos que no se deseen pintar con cinta de pintor y plástico.
+Siempre protegemos las áreas sensibles, como marcos de ventanas, puertas y elementos decorativos que no se deseen pintar con cinta de pintor y plástico.
 
 <img src="/assets/pintura impermeabilizante exterior en castellon 3.jpg" alt="Pintura impermeabilizante exterior en Castellón" class="center2">
 
@@ -70,31 +70,31 @@ Se deben proteger áreas sensibles como marcos de ventanas, puertas y elementos 
 Dependiendo del tipo de pintura impermeabilizante utilizada, es posible que sea necesario diluirla con agua según las instrucciones del fabricante.
 
 ### 4. Aplicación de la primera capa
-Utilizando un rodillo para [pintura exterior](https://pintorencastellon.es/pintura-exterior) de alta calidad, se aplica la primera capa de pintura impermeabilizante en la superficie preparada. Se recomienda trabajar de manera uniforme y en secciones pequeñas para garantizar una cobertura completa.
+Utilizando un rodillo para [pintura exterior](https://pintorencastellon.es/pintura-exterior) de alta calidad, aplicamos la primera capa de pintura impermeabilizante en la superficie preparada. Se recomienda trabajar de manera uniforme y en secciones pequeñas para garantizar una cobertura completa.
 
 ### 5. Espera y secado
 Es importante permitir que la primera capa de pintura se seque completamente antes de aplicar la segunda capa. El tiempo de secado puede variar según las condiciones ambientales y el tipo de pintura utilizada.
 
 ### 6. Aplicación de la segunda capa
-Una vez que la primera capa esté completamente seca, se aplica una segunda capa de pintura impermeabilizante de la misma manera que la primera capa. Esto asegura una mayor protección y durabilidad.
+Una vez que la primera capa esté completamente seca, aplicamos una segunda capa de pintura impermeabilizante de la misma manera que la primera capa. Esto asegura una mayor protección y durabilidad.
 
 <div class="center2">
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
 </div>
 
 ### 7. Inspección final
-Después de que la segunda capa se haya secado por completo, se realiza una inspección final para asegurarse de que la superficie esté uniformemente cubierta y protegida contra la humedad.
+Después de que la segunda capa se haya secado por completo, realizamos una inspección final para asegurarse de que la superficie esté uniformemente cubierta y protegida contra la humedad.
 
 <img src="/assets/pintura impermeabilizante exterior en castellon 4.jpg" alt="Pintura impermeabilizante exterior en Castellón" class="center2">
 
 ### 8. Limpieza de herramientas
-Se deben limpiar adecuadamente todas las herramientas utilizadas, como rodillos y brochas, con agua y jabón para evitar que la pintura se seque y obstruya los utensilios.
+Limpiamos adecuadamente todas las herramientas utilizadas, como rodillos y brochas, con agua y jabón para evitar que la pintura se seque y obstruya los utensilios.
 
 ### 9. Retirada de protecciones
-Una vez que la pintura esté completamente seca, se pueden retirar las protecciones colocadas en áreas sensibles como marcos de ventanas y puertas.
+Una vez que la pintura esté completamente seca, procedemos a retirar las protecciones colocadas en áreas sensibles como marcos de ventanas y puertas.
 
 ### 10. Mantenimiento regular
-Para garantizar la máxima eficacia y durabilidad de la pintura impermeabilizante exterior, se recomienda realizar un mantenimiento regular y aplicar una nueva capa de pintura según sea necesario.
+Para garantizar la máxima eficacia y durabilidad de la pintura impermeabilizante exterior, recomendamos realizar un mantenimiento regular y aplicar una nueva capa de pintura según sea necesario.
 
 <div class="center2">
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
