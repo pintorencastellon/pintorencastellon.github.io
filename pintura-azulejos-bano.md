@@ -31,37 +31,37 @@ La pintura de azulejos ofrece una serie de ventajas significativas para los prop
 
 ## Consideraciones antes de pintar
 
-Antes de embarcarte en un proyecto de pintura de azulejos de baño, hay algunas consideraciones importantes que debes tener en cuenta:
+Antes de embarcarnos en un proyecto de pintura de azulejos de baño, hay algunas consideraciones importantes que siempre tenemos en cuenta:
 
-- **Preparación adecuada:** La preparación adecuada de la superficie es clave para asegurar una adhesión adecuada de la pintura. Esto puede incluir limpiar a fondo los azulejos, reparar cualquier daño o grieta, y aplicar un imprimador adecuado.
+- **Preparación adecuada:** La preparación de la superficie es clave para asegurar una adhesión adecuada de la pintura. Esto puede incluir limpiar a fondo los azulejos, reparar cualquier daño o grieta, y aplicar un imprimador adecuado.
 
 - **Elección del tipo de pintura:** Es crucial seleccionar una pintura específicamente diseñada para azulejos o superficies cerámicas, ya que estas ofrecen una adherencia y durabilidad superiores en ambientes húmedos como los baños.
 
-- **Ventilación adecuada:** Asegúrate de proporcionar una buena ventilación en el baño durante y después del proceso de pintura para permitir que los vapores de la pintura se disipen y minimizar el riesgo de inhalación de productos químicos.
+- **Ventilación adecuada:** Nos aseguramos de proporcionar una buena ventilación en el baño durante y después del proceso de pintura para permitir que los vapores de la pintura se disipen y minimizar el riesgo de inhalación de productos químicos.
 
 - **Mantenimiento regular:** Si bien la pintura de azulejos puede ser duradera, es importante realizar un mantenimiento regular para mantener su aspecto y rendimiento. Esto puede incluir limpieza suave con productos no abrasivos y evitar el uso de objetos afilados o abrasivos que puedan dañar la pintura.
 
 <img src="/assets/pintura azulejos baños castellon 3.jpeg" alt="Pintura azulejos baños en Castellón" class="center2">
 
-## Proceso de aplicación de pintura de azulejos
+## Nuestro proceso de aplicación de pintura de azulejos
 
-El proceso de pintura de azulejos de baño típicamente sigue estos pasos básicos:
+Nuestros trabajos para aplicar pintura a los azulejos de baño típicamente sigue estos pasos básicos:
 
-1. **Preparación de la superficie:** Limpia a fondo los azulejos con un limpiador desengrasante para eliminar cualquier suciedad, grasa o residuo de jabón. Lija ligeramente la superficie para promover la adherencia de la pintura.
+1. **Preparación de la superficie:** Limpiamos a fondo los azulejos con un limpiador desengrasante para eliminar cualquier suciedad, grasa o residuo de jabón. Lijamos ligeramente la superficie para ayudar a la adherencia de la pintura.
 
-2. **Reparación de daños:** Repara cualquier grieta, agujero o daño en los azulejos con masilla para reparaciones de azulejos o sellador de silicona, según sea necesario. Deja que se seque completamente antes de continuar.
+2. **Reparación de daños:** Reparamos cualquier grieta, agujero o daño en los azulejos con masilla para reparaciones de azulejos o sellador de silicona, según sea necesario. Dejamos que se seque completamente antes de continuar.
 
-3. **Aplicación de imprimación:** Aplica una imprimación adecuada para azulejos con un rodillo de espuma o un pincel de alta calidad. Asegúrate de cubrir completamente la superficie y deja que la imprimación se seque según las instrucciones del fabricante.
+3. **Aplicación de imprimación:** Aplicamos una imprimación adecuada para azulejos con un rodillo de espuma o un pincel de alta calidad. Nos aseguramos de cubrir completamente la superficie y dejamos que la imprimación se seque según las instrucciones del fabricante.
 
 <div class="center2">
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
 </div>
 
-4. **Aplicación de la pintura:** Una vez que la imprimación esté completamente seca, aplica la pintura de azulejos en capas finas y uniformes con un rodillo de espuma o un pincel de alta calidad. Deja que cada capa se seque completamente antes de aplicar la siguiente.
+4. **Aplicación de la pintura:** Una vez que la imprimación esté completamente seca, aplicamos la pintura de azulejos en capas finas y uniformes con un rodillo de espuma o un pincel de alta calidad. Dejamos que cada capa se seque completamente antes de aplicar la siguiente.
 
-5. **Sellado opcional:** Si lo deseas, puedes aplicar un sellador transparente para azulejos sobre la pintura para proporcionar una capa adicional de protección y durabilidad. Deja que se seque completamente antes de usar el baño.
+5. **Sellado opcional:** Por lo general, aplicamos un sellador transparente para azulejos sobre la pintura para proporcionar una capa adicional de protección y durabilidad. Dejamos que se seque completamente antes de usar el baño.
 
-6. **Limpieza y mantenimiento:** Después de completar el proceso de pintura, limpia cualquier exceso de pintura de las áreas no deseadas y realiza un mantenimiento regular para asegurar que la pintura se mantenga en óptimas condiciones.
+6. **Limpieza y mantenimiento:** Después de completar el proceso de pintura, limpiamos cualquier exceso de pintura de las áreas no deseadas y realizamos un mantenimiento regular para asegurarnos de que la pintura se mantenga en óptimas condiciones.
 
 <img src="/assets/pintura azulejos baños castellon 4.jpeg" alt="Pintura azulejos baños en Castellón" class="center2">
 
