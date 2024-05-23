@@ -1,20 +1,20 @@
 ---
-title: Pintor en Castellón
+title: Pintores en Castellón
 feature_text: |
   # Pintor en Castellón
   Trabajos de pintura profesionales en la provincia de Castellón.
 feature_image: "/assets/pintor-en-castellon.jpg"
-excerpt: "Somos tu pintor en Castellón de confianza. Expertos en decoración y pintura para transformar tus espacios. ¡Contáctanos para un servicio de calidad!"
+excerpt: "Somos tus pintores en Castellón de confianza. Expertos en decoración y pintura para transformar tus espacios. ¡Contáctanos para un servicio de calidad!"
 
 accordion: 
   - title: 👉 <b>¿Cuánto tiempo tardaremos en completar los trabajos?</b>
-    content: Obtener una estimación clara del tiempo que tardará el pintor decorador en completar el trabajo es crucial para planificar tu presupuesto y tu tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a tus necesidades.
+    content: Obtener una estimación clara del tiempo que tardarán los pintores en completar el trabajo es crucial para planificar tu presupuesto y tu tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a tus necesidades.
   - title: 👉 <b>¿Cuánto me costará?</b>
     content: Pídenos un presupuesto detallado que incluya todos los gestos, incluyendo mano de obra, materiales, impuestos y cualquier otro importe adicional. Así podrás comparar con precios de otros pintores decoradores antes de tomar tu decisión.
   - title: 👉 <b>¿Qué materiales usarán?</b>
     content: Es importante que el cliente tenga conocimiento de la calidad de los materiales que el pintor empleará en su trabajo. Siéntete libre de preguntar sobre las marcas y tipos de pintura, papeles pintados u otros materiales.
   - title: 👉 <b>¿Hay algún tipo de seguro?</b>
-    content: Por normal general, los pintores-decoradores estamos obligados a contratar un seguro de responsabilidad civil y de accidentes de trabajo para protegerlo en caso de cualquier daño o accidente durante el trabajo.
+    content: Por normal general, los pintores estamos obligados a contratar un seguro de responsabilidad civil y de accidentes de trabajo para protegerlo en caso de cualquier daño o accidente durante el trabajo.
   - title: 👉 <b>¿Cómo puedo preparar mi casa para los trabajos de pintura?</b>
     content: Consulta previamente con nosotros lo que debes hacer para preparar tu casa antes de que comiencen los trabajos. Esto puede incluir mover muebles, cubrir pisos y quitar cuadros y decoraciones. Nosotros podemos ayudarte.
   - title: 👉 <b>¿Cómo puedo proteger mis pertenencias durante el trabajo?</b>
@@ -118,11 +118,11 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
   </div>
 </div>
 
-## ¿Qué beneficios aporta la contratación de un pintor profesional en Castellón?
+## ¿Qué beneficios aporta la contratación de pintores profesionales en Castellón?
 
-Más allá de las aplicación de la pintura, nuestras labores abarcan una inspección detallada de la superficie, reparaciones necesarias y **una adecuada preparación antes de pintar o empapelar**. Es común pasar por alto la importancia de la preparación, pero un pintor profesional siempre se encargará de realizarla correctamente, evitando atajos. 
+Más allá de las aplicación de la pintura, nuestras labores abarcan una inspección detallada de la superficie, reparaciones necesarias y **una adecuada preparación antes de pintar o empapelar**. Es común pasar por alto la importancia de la preparación, pero un pintor serio siempre se encargará de realizarla correctamente, evitando atajos. 
 
-Además, **te asesoraremos en la elección del color adecuado** y seleccionaremos la pintura apropiada según las necesidades de cada espacio, considerando factores como la humedad, entre otros. Contratar a un pintor realmente profesional te garantiza un acabado aparente y duradero.
+Además, **te asesoraremos en la elección del color adecuado** y seleccionaremos la pintura apropiada según las necesidades de cada espacio, considerando factores como la humedad, entre otros. Contratar a un pintores realmente profesionales te garantiza un acabado aparente y duradero.
 
 <div class="center2">
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
