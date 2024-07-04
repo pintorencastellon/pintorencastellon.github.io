@@ -3,13 +3,13 @@ title: Estuco veneciano blanco en Castellón
 feature_text: |
   # Estuco veneciano blanco en Castellón
   Transforma tus paredes en obras maestras con nuestro estuco veneciano.
-feature_image: "/assets/estuco-veneciano-blanco.jpg"
+feature_image: "/assets/estuco-veneciano-blanco.webp"
 excerpt: "Nos encargamos de trabajos profesionales de aplicación de estuco veneciano blanco en Castellón de la Plana y provincia."
 ---
 
 El estuco veneciano blanco es una técnica de acabado decorativo que ha ganado popularidad en los últimos años debido a **su elegancia y versatilidad**. Aquí te acercaremos el proceso de instalación de este material en viviendas particulares, desde la preparación de la superficie hasta los pasos finales de aplicación y acabado.
 
-<img src="/assets/estuco veneciano blanco en castellon 1.jpeg" alt="Estuco veneciano blanco en Castellón" class="center2">
+<img src="/assets/estuco veneciano blanco en castellon 1.webp" alt="Estuco veneciano blanco en Castellón" class="center2">
 
 
 ## ¿Qué es el estuco veneciano?
@@ -28,7 +28,7 @@ Antes de aplicar el estuco veneciano, es esencial preparar adecuadamente la supe
 - **Reparación de Imperfecciones**: Rellenar grietas, agujeros o irregularidades en la pared con masilla o cemento para obtener una superficie lisa y uniforme.
 - **Imprimación**: Aplicar una capa de imprimación adecuada para mejorar la adherencia del estuco y promover una distribución uniforme del color.
 
-<img src="/assets/estuco veneciano blanco en castellon 2.jpeg" alt="Estuco veneciano blanco en Castellón" class="center2">
+<img src="/assets/estuco veneciano blanco en castellon 2.webp" alt="Estuco veneciano blanco en Castellón" class="center2">
 
 
 ## Aplicación del estuco veneciano blanco
@@ -47,7 +47,7 @@ Una vez que la superficie está preparada, se puede proceder con la aplicación 
 
 4. **Sellado y protección**: Para proteger el acabado y mejorar su durabilidad, se recomienda aplicar una capa de sellador transparente sobre la superficie pulida. Esto ayudará a prevenir manchas, daños y facilitará la limpieza y el mantenimiento a largo plazo.
 
-<img src="/assets/estuco veneciano blanco en castellon 3.jpeg" alt="Estuco veneciano blanco en Castellón" class="center2">
+<img src="/assets/estuco veneciano blanco en castellon 3.webp" alt="Estuco veneciano blanco en Castellón" class="center2">
 
 
 ## Ventajas del estuco veneciano en viviendas particulares
@@ -58,7 +58,7 @@ Este lujoso material ofrece una serie de beneficios que lo hacen una opción atr
 - **Luminosidad**: La capacidad este material para reflejar la luz ayuda a crear una sensación de amplitud y luminosidad en el interior de la vivienda.
 - **Versatilidad**: El estuco veneciano se puede aplicar en una variedad de superficies, incluyendo paredes, techos, columnas y muebles, lo que permite una mayor creatividad y personalización en el diseño interior.
 
-<img src="/assets/estuco veneciano blanco en castellon 4.jpeg" alt="Estuco veneciano blanco en Castellón" class="center2">
+<img src="/assets/estuco veneciano blanco en castellon 4.webp" alt="Estuco veneciano blanco en Castellón" class="center2">
 
 ## Precios de instalación de estuco veneciano blanco en Castellón
 
@@ -78,7 +78,7 @@ El precio de la instalación de este tipo de estuco en paredes en la provincia d
 
 - **Materiales necesarios**: El precio de los materiales también puede variar, dependiendo de la calidad y la marca.
 
-<img src="/assets/estuco veneciano blanco en castellon 5.jpeg" alt="Estuco veneciano blanco en Castellón" class="center2">
+<img src="/assets/estuco veneciano blanco en castellon 5.webp" alt="Estuco veneciano blanco en Castellón" class="center2">
 
 
 Aquí te dejo algunos ejemplos de precios orientativos:
