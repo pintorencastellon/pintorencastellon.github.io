@@ -3,7 +3,7 @@ title: Papel pintado en Castellón
 feature_text: |
   # Papel pintado en Castellón
   Transforma tu hogar con estilo: elige papel pintado y vive en color.
-feature_image: "/assets/pintura-interior.jpg"
+feature_image: "/assets/pintura-interior.webp"
 excerpt: "Expertos en instalación de papel pintado en Castellón para un ambiente único. Transforma tus espacios con nosotros. "
 ---
 
@@ -13,7 +13,7 @@ El papel pintado es una excelente opción para decorar y personalizar espacios e
 
 El papel pintado es un material decorativo que se utiliza para cubrir paredes y techos. Está compuesto por una base de papel o tela sobre la cual se imprime un diseño decorativo. Existen diferentes tipos de papel pintado, como vinílico, no tejido, y autoadhesivo, cada uno con sus propias características y aplicaciones.
 
-<img src="/assets/papel pintado en castellon 1.jpeg" alt="Papel pintado en Castellón" class="center2">
+<img src="/assets/papel pintado en castellon 1.webp" alt="Papel pintado en Castellón" class="center2">
 
 
 ## 2. Ventajas de usar papel pintado en viviendas
@@ -23,7 +23,7 @@ El papel pintado es un material decorativo que se utiliza para cubrir paredes y 
 - **Cubrimiento de imperfecciones:** El papel pintado puede ocultar imperfecciones en la superficie de la pared, como grietas o irregularidades, proporcionando una apariencia más uniforme.
 - **Durabilidad:** Dependiendo del tipo de papel pintado y del cuidado adecuado, puede ser una opción duradera que conserve su aspecto durante muchos años.
 
-<img src="/assets/papel pintado en castellon 2.jpeg" alt="Papel pintado en Castellón" class="center2">
+<img src="/assets/papel pintado en castellon 2.webp" alt="Papel pintado en Castellón" class="center2">
 
 
 ## 3. Preparación de la superficie
@@ -38,7 +38,7 @@ Antes de instalar el papel pintado, siempre preparamos adecuadamente la superfic
 - **Alisado:** Reparar cualquier imperfección en la pared, como agujeros o grietas, y asegurarse de que la superficie esté completamente lisa.
 - **Imprimación:** Aplicar una imprimación adecuada para sellar la superficie y garantizar una mejor adherencia del papel pintado.
 
-<img src="/assets/papel pintado en castellon 3.jpeg" alt="Papel pintado en Castellón" class="center2">
+<img src="/assets/papel pintado en castellon 3.webp" alt="Papel pintado en Castellón" class="center2">
 
 
 ## 4. Herramientas y materiales que usamos
@@ -49,7 +49,7 @@ Antes de instalar el papel pintado, siempre preparamos adecuadamente la superfic
 - Espátula para alisar el papel.
 - Nivel para asegurar una instalación recta.
 
-<img src="/assets/papel pintado en castellon 4.jpeg" alt="Papel pintado en Castellón" class="center2">
+<img src="/assets/papel pintado en castellon 4.webp" alt="Papel pintado en Castellón" class="center2">
 
 
 ## 5. Nuestro proceso de instalación paso a paso
@@ -64,7 +64,7 @@ Antes de instalar el papel pintado, siempre preparamos adecuadamente la superfic
 5. **Corte y ajuste:** Cortamos el exceso de papel en la parte superior e inferior de la pared y ajustar los bordes para que queden perfectamente alineados.
 6. **Repetir el proceso:** Continuamos aplicando tiras de papel pintado de manera similar, asegurándonos de que los patrones coincidan correctamente.
 
-<img src="/assets/papel pintado en castellon 5.jpeg" alt="Papel pintado en Castellón" class="center2">
+<img src="/assets/papel pintado en castellon 5.webp" alt="Papel pintado en Castellón" class="center2">
 
 
 ## 6. Nuestros consejos de mantenimiento del papel pintado
@@ -86,7 +86,7 @@ Los precios de la aplicación de papel pintado para viviendas particulares en Ca
 
 Si la superficie a empapelar no está en buen estado, será necesario realizar una **preparación previa**, como eliminar el gotelé o reparar desperfectos. Esto incrementará el precio final del servicio.
 
-<img src="/assets/papel pintado en castellon 6.jpeg" alt="Papel pintado en Castellón" class="center2">
+<img src="/assets/papel pintado en castellon 6.webp" alt="Papel pintado en Castellón" class="center2">
 
 ### Mano de obra:
 
