@@ -3,13 +3,13 @@ title: Pintura de azulejos de baños en Castellón
 feature_text: |
   # Pintura de azulejos de baños en Castellón
   Renueva tu baño con estilo: pinta tus azulejos y transforma tu espacio.
-feature_image: "/assets/pintura-interior.jpg"
+feature_image: "/assets/pintura-interior.webp"
 excerpt: "Renueva tu baño con nuestros expertos en pintura de azulejos en Castellón. Transformación garantizada en cada detalle."
 ---
 
 Nuestro servicio de pintura de azulejos de baños es una opción asequible y efectiva para transformar completamente su aspecto. Te explicamos aquí todo lo que necesitas saber sobre **nuestro servicio de pintura de azulejos de baños** en viviendas particulares.
 
-<img src="/assets/pintura azulejos baños castellon 1.jpeg" alt="Pintura azulejos baños en Castellón" class="center2">
+<img src="/assets/pintura azulejos baños castellon 1.webp" alt="Pintura azulejos baños en Castellón" class="center2">
 
 ## Beneficios de la pintura de azulejos en baños
 
@@ -27,7 +27,7 @@ La pintura de azulejos ofrece una serie de ventajas significativas para los prop
 
 - **Durabilidad:** Cuando se aplica correctamente y se mantiene adecuadamente, la pintura de azulejos puede ser sorprendentemente duradera y resistente al agua, lo que garantiza resultados duraderos a lo largo del tiempo.
 
-<img src="/assets/pintura azulejos baños castellon 2.jpeg" alt="Pintura azulejos baños en Castellón" class="center2">
+<img src="/assets/pintura azulejos baños castellon 2.webp" alt="Pintura azulejos baños en Castellón" class="center2">
 
 ## Consideraciones antes de pintar
 
@@ -41,7 +41,7 @@ Antes de embarcarnos en un proyecto de pintura de azulejos de baño, hay algunas
 
 - **Mantenimiento regular:** Si bien la pintura de azulejos puede ser duradera, es importante realizar un mantenimiento regular para mantener su aspecto y rendimiento. Esto puede incluir limpieza suave con productos no abrasivos y evitar el uso de objetos afilados o abrasivos que puedan dañar la pintura.
 
-<img src="/assets/pintura azulejos baños castellon 3.jpeg" alt="Pintura azulejos baños en Castellón" class="center2">
+<img src="/assets/pintura azulejos baños castellon 3.webp" alt="Pintura azulejos baños en Castellón" class="center2">
 
 ## Nuestro proceso de aplicación de pintura de azulejos
 
@@ -63,7 +63,7 @@ Nuestros trabajos para aplicar pintura a los azulejos de baño típicamente sigu
 
 6. **Limpieza y mantenimiento:** Después de completar el proceso de pintura, limpiamos cualquier exceso de pintura de las áreas no deseadas y realizamos un mantenimiento regular para asegurarnos de que la pintura se mantenga en óptimas condiciones.
 
-<img src="/assets/pintura azulejos baños castellon 4.jpeg" alt="Pintura azulejos baños en Castellón" class="center2">
+<img src="/assets/pintura azulejos baños castellon 4.webp" alt="Pintura azulejos baños en Castellón" class="center2">
 
 ## Mantenimiento y cuidado de los azulejos pintados
 
@@ -75,7 +75,7 @@ Para mantener la apariencia y el rendimiento de los azulejos pintados en el bañ
 
 - **Evitar objetos afilados:** Evita el uso de objetos afilados o abrasivos que puedan rayar o dañar la superficie de los azulejos pintados. Utiliza tapetes de baño y toallas para proteger las áreas más propensas a sufrir daños.
 
-<img src="/assets/pintura azulejos baños castellon 5.jpeg" alt="Pintura azulejos baños en Castellón" class="center2">
+<img src="/assets/pintura azulejos baños castellon 5.webp" alt="Pintura azulejos baños en Castellón" class="center2">
 
 ## Precios de pintura de azulejos de baños en Castellón
 
