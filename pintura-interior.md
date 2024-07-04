@@ -3,7 +3,7 @@ title: Pintura Interior en Castellón
 feature_text: |
   # Pintura Interior
   Renueva tu hogar con color y estilo, pinta tu mundo interior con nosotros.
-feature_image: "/assets/pintura-interior.jpg"
+feature_image: "/assets/pintura-interior.webp"
 excerpt: "Transforma tus espacios con nuestro servicio de pintura interior en Castellón. Expertos en brindar color y estilo a tu hogar."
 ---
 
@@ -14,12 +14,12 @@ Pero antes, te mostramos todos los servicios que podemos ofrecerte para renovar 
 <div class="row">
   <div class="column">
   <a href="https://pintorencastellon.es/pintura-blanca-interior/">
-    <img src="/assets/pintura blanca interior en castellon 1.jpeg" alt="Pintura blanca interior en Castellón" style="width:100%">
+    <img src="/assets/pintura blanca interior en castellon 1.webp" alt="Pintura blanca interior en Castellón" style="width:100%">
     <h5 style="color: #05bf85">Pintura blanca interior</h5></a>
   </div>
   <div class="column">
   <a href="https://pintorencastellon.es/pintura-termica-interior/">
-    <img src="/assets/pintura termica interior en castellon 1.jpeg" alt="Pintura térmica interior en Castellón" style="width:100%">
+    <img src="/assets/pintura termica interior en castellon 1.webp" alt="Pintura térmica interior en Castellón" style="width:100%">
     <h5 style="color: #05bf85">Pintura térmica interior</h5></a>
   </div>
 </div>
@@ -27,12 +27,12 @@ Pero antes, te mostramos todos los servicios que podemos ofrecerte para renovar 
 <div class="row">
   <div class="column">
   <a href="https://pintorencastellon.es/papel-pintado/">
-    <img src="/assets/papel pintado en castellon 1.jpeg" alt="Papel pintado en Castellón" style="width:100%">
+    <img src="/assets/papel pintado en castellon 1.webp" alt="Papel pintado en Castellón" style="width:100%">
     <h5 style="color: #05bf85">Papel pintado</h5></a>
   </div>
   <div class="column">
   <a href="https://pintorencastellon.es/pintura-azulejos-bano/">
-    <img src="/assets/pintura de azulejos baño en castellon 1.jpeg" alt="Pintura de azulejos baño en Castellón" style="width:100%">
+    <img src="/assets/pintura de azulejos baño en castellon 1.webp" alt="Pintura de azulejos baño en Castellón" style="width:100%">
     <h5 style="color: #05bf85">Pintura azulejos baño</h5></a>
   </div>
 </div>
