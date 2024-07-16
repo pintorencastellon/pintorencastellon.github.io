@@ -34,7 +34,7 @@ Bienvenido a Pintor en Castellón, **tu empresa de pintura profesional y decorac
 
 Pero antes, te invitamos a conocer más a fondo **nuestros servicios de pintura**:
 
-## Pintura y decoración interior: calidad y elegancia en cada pared
+## Pintura y decoración interior
 
 <div class="row">
   <div class="column">
@@ -72,14 +72,13 @@ Nuestros pintores en Castellón valoran tanto la calidad del acabado como la lim
 
 <img src="/assets/pintores-en-castellon-2.webp" alt="Pintores en Castellón" class="center2">
 
-## Tus pintores profesionales baratos en Castellón
+## Pintores profesionales baratos en Castellón
 
 Si buscas una empresa de pintura profesional asequible en Castellón que ofrezca la mejor relación calidad-precio en sus trabajos y si deseas obtener un servicio de pintura de alta calidad y acabados excepcionales sin pagar de más, **has llegado al lugar adecuado**.
 
 Nos comprometemos a proporcionar **servicios de pintura de alta calidad a precios accesibles**. Ya sea que necesites pintar tu vivienda, ya sea una casa o un piso, no tienes por qué preocuparte por gastar de más. Confía en nosotros para obtener resultados excepcionales **con los precios más competitivos de la provincia de Castellón**.
 
-## Trabajos de pintura exterior: protección y belleza duradera
-
+## Trabajos de pintura exterior
 <div class="row">
   <div class="column">
   <a href="https://pintorencastellon.es/pintura-de-fachadas/">
@@ -101,7 +100,7 @@ Nos comprometemos a proporcionar **servicios de pintura de alta calidad a precio
 
 En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere **un enfoque personalizado**. Por eso, nos ponemos como meta ofrecer los servicios adicionales más completos y adaptados a tus necesidades específicas. Aquí te mostramos algunos de ellos, aunque puedes consultarnos sobre otros:
 
-## Otros servicios de pintura y decoración
+## Más servicios de pintura y decoración
 
 <div class="row">
   <div class="column">
