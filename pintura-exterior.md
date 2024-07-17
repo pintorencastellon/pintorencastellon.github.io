@@ -1,7 +1,7 @@
 ---
 title: Pintores de Exteriores en Castellón
 feature_text: |
-  # Pintores de Exteriores
+  # Pintores de Exteriores en Castellón
   Protegiendo tus exteriores, embellecemos tus horizontes.
 feature_image: "/assets/pintura-exterior.webp"
 excerpt: "Transformamos fachadas en obras de arte. Pintores profesionales de exteriores en Castellón. Confía en nosotros para dar vida a tu hogar."
