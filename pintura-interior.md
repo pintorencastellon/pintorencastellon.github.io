@@ -1,7 +1,7 @@
 ---
 title: Pintores de Interiores en Castellón
 feature_text: |
-  # Pintura Interior
+  # Pintores de Interiores en Castellón
   Renueva tu hogar con color y estilo, pinta tu mundo interior con nosotros.
 feature_image: "/assets/pintura-interior.webp"
 excerpt: "Nuestro servicio de pintores de interiores en Castellón. Expertos en brindar color y estilo a tu hogar."
