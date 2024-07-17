@@ -31,15 +31,15 @@ Existen otras técnicas para quitar este producto de las paredes, y la elección
 {% include button.html text="📞 Solicita presupuesto" link="https://wa.me/623064370" %}
 </div>
 
-- **Rascar el gotelé con una espátula**: Esta técnica se utiliza cuando el gotelé es al temple. Primero, se humedece la pared con agua utilizando una brocha o rodillo, se espera unos minutos para que el agua penetre en la superficie y luego se quita el gotelé rascándolo con la ayuda de una espátula.
+- **Rascar el gotelé con una espátula**: Sólo si es gotelé al temple. Primero, se humedece la pared con agua utilizando una brocha o rodillo, se espera unos minutos para que el agua penetre en la superficie y luego se quita el gotelé rascándolo con la ayuda de una espátula.
 
-- **Usar decapantes y rascar posteriormente**: Esta técnica se utiliza cuando el gotelé es plástico. Se aplica un decapante para relieves que ablanda la capa de pintura y luego se raspa el gotelé con una espátula.
+- **Usar decapantes y rascar posteriormente**: Se usa para el gotelé plástico. Se aplica un decapante para relieves que ablanda la capa de pintura y luego se raspa el gotelé con una espátula.
 
-- **Cubrir con masilla "quitagotele"**: Esta técnica se puede utilizar tanto para gotelé al temple como plástico. Se aplica una pasta especial llamada cubregotelé o masilla de renovación que cubre el gotelé. Una vez seca, se lija la superficie para dejarla lisa.
+- **Cubrir con masilla "quitagotele"**: Sirve tanto para gotelé al temple como plástico. Se aplica una pasta especial llamada cubregotelé o masilla de renovación que cubre el gotelé. Una vez seca, se lija la superficie para dejarla lisa.
 
-- **Lijar la pared para eliminar el gotelé**: Esta técnica se puede utilizar tanto para gotelé al temple como plástico. Se lija la pared hasta que se elimina el gotelé. Este método puede ser más laborioso y generar más polvo.
+- **Lijar la pared para eliminar el gotelé**: Igual que antes, gotelé al temple o plástico. Se lija la pared hasta que se elimina el gotelé. Este método puede ser más laborioso y generar más polvo.
 
-- **Tapar con paneles de yeso tipo pladur**: Esta técnica se puede utilizar tanto para gotelé al temple como plástico. Se cubre la pared con paneles de yeso, creando una superficie lisa sobre la que se puede pintar.
+- **Tapar con paneles de yeso tipo pladur**: También para gotelé al temple o plástico. Se cubre la pared con paneles de yeso, creando una superficie lisa sobre la que se puede pintar.
 
 <img src="/assets/quitar gotele en castellon 3.webp" alt="Quitar gotelé en Castellón" class="center2">
 
