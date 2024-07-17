@@ -22,7 +22,7 @@ La fachada de un edificio está expuesta constantemente a los elementos, como la
 ### 2. Durabilidad y longevidad de la pintura de fachadas
 Una [pintura exterior](https://pintorencastellon.es/pintura-exterior) de fachadas bien aplicada puede prolongar la vida útil de la superficie, reduciendo la necesidad de costosas reparaciones o renovaciones en el futuro. Además, **ayuda a preservar la integridad estructural de la finca** al prevenir la corrosión y el deterioro de los materiales.
 
-<img src="/assets/pintura de fachadas en castellon 1.webp" alt="Pintura de fachadas en Castellón" class="center2">
+<img src="/assets/pintura de fachadas en castellon 1.webp" alt="Pintores de fachadas en Castellón" class="center2">
 
 ### 3. Mejora estética del edificio
 Una fachada pintada de forma profesional mejora la apariencia estética del edificio, **proporcionando una imagen fresca y atractiva que puede aumentar su valor percibido**. Esto es especialmente importante en entornos urbanos o comerciales, donde la primera impresión puede influir en la percepción del cliente o la rentabilidad de un negocio.
@@ -50,7 +50,7 @@ Antes de comenzar la aplicación de la pintura, protegemos cuidadosamente todas 
 
 ### 4. Selección de la pintura y color
 La elección de la pintura adecuada es crucial para obtener resultados satisfactorios y duraderos. Seleccionamos siempre pinturas de alta calidad y **resistentes a la intemperie**, preferiblemente con protección UV y propiedades antimoho, para garantizar una protección óptima en el clima mediterráneo de Castellón. Además, se elige el color deseado, teniendo en cuenta la estética, la armonía con el entorno y las regulaciones locales.
-<img src="/assets/pintura de fachadas en castellon 4.webp" alt="Pintura de fachadas en Castellón" class="center2">
+<img src="/assets/pintura de fachadas en castellon 4.webp" alt="Pintores de fachadas en Castellón" class="center2">
 
 ### 5. Aplicación de la pintura de fachadas
 La aplicación del material la realizamos utilizando técnicas profesionales para garantizar un acabado uniforme y duradero. Se pueden emplear diferentes métodos de aplicación, como **brocha, rodillo o pistola de pintura**, según el tipo de fachada y el efecto deseado. Se aplican una o varias capas de pintura, asegurándose de cubrir completamente la superficie y evitar goteos o marcas.
