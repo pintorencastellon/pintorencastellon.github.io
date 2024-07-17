@@ -8,7 +8,7 @@ excerpt: "Tus pintores profesionales en Castellón de confianza. Empresa de pint
 
 accordion: 
   - title: 👉 <b>¿Cuánto tiempo tardaremos en completar los trabajos de pintura?</b>
-    content: Obtener una estimación clara del tiempo que tardarán los pintores en completar el trabajo es crucial para planificar tu presupuesto y tu tiempo. Pregunte sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a tus necesidades.
+    content: Obtener una estimación clara del tiempo que tardarán los pintores en completar el trabajo es crucial para planificar tu presupuesto y tu tiempo. Pregunta sin compromiso sobre nuestro calendario previsto para asegurarse de que se ajusta a tus necesidades.
   - title: 👉 <b>¿Cuánto me costará?</b>
     content: Pídenos un presupuesto detallado que incluya todos los gestos, incluyendo mano de obra, materiales, impuestos y cualquier otro importe adicional. Así podrás comparar con precios de otros pintores decoradores antes de tomar tu decisión.
   - title: 👉 <b>¿Qué materiales usarán para pintar?</b>
@@ -19,11 +19,11 @@ accordion:
     content: Consulta previamente con nosotros lo que debes hacer para preparar tu casa antes de que comiencen los trabajos. Esto puede incluir mover muebles, cubrir pisos y quitar cuadros y decoraciones. Nosotros podemos ayudarte.
   - title: 👉 <b>¿Cómo puedo proteger mis pertenencias durante el trabajo?</b>
     content: Por lo general, cubriremos tus muebles con lonas o plásticos y colocaremos alfombras protectoras en los suelos.
-  - title: 👉 <b>¿Qué sucede si no estoy satisfecho con el trabajo realizado?</b>
+  - title: 👉 <b>¿Qué pasa si no estoy satisfecho con los trabajos de pintura?</b>
     content: Tu satisfacción es nuestra prioridad número uno. Si no estás satisfecho con el trabajo realizado, haremos todo lo posible para solucionar cualquier problema y garantizar tu satisfacción.
   - title: 👉 <b>¿Qué precauciones toman para garantizar la seguridad durante el trabajo?</b>
     content: Cumplimos con todas las normativas de seguridad pertinentes y tomamos precauciones adicionales para garantizar la seguridad de nuestro equipo y de tu propiedad.
-  - title: 👉 <b>¿Cuál es vuestro proceso de trabajo, desde la preparación hasta la limpieza final?</b>
+  - title: 👉 <b>¿Cuál es vuestro proceso, desde la preparación hasta la limpieza final?</b>
     content: Nuestro proceso incluye una cuidadosa preparación de la superficie, aplicación de capas de pintura, acabado detallado y limpieza completa al finalizar el trabajo.
   - title: 👉 <b>¿Cómo gestionáis los imprevistos o cambios en el proyecto una vez iniciado?</b>
     content: Estamos abiertos a comunicarnos y adaptarnos a cualquier cambio o imprevisto que pueda surgir durante el proyecto para garantizar tu satisfacción.
@@ -34,7 +34,7 @@ Bienvenido a Pintor en Castellón, **tu empresa de pintura profesional y decorac
 
 Pero antes, te invitamos a conocer más a fondo **nuestros servicios de pintura**:
 
-## Pintura y decoración interior
+## Pintores decoradores de interiores
 
 <div class="row">
   <div class="column">
@@ -106,7 +106,7 @@ En nuestra empresa, entendemos que cada proyecto de pintura es único y requiere
   <div class="column">
   <a href="https://pintorencastellon.es/quitar-gotele-castellon/">
     <img src="/assets/quitar gotele en castellon 1.webp" alt="Quitar gotelé en Castellón" style="width:100%">
-    <h5 style="color: #05bf85">Quitar gotelé</h5></a>
+    <h5 style="color: #05bf85">Quitar gotelé en Castellón</h5></a>
     <p>Con nuestro servicio de eliminación de gotelé, podemos suavizar las superficies y dejarlas lisas y modernas, listas para una nueva capa de pintura o acabado decorativo.</p>
   </div>
   <div class="column">
